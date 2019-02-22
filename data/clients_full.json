@@ -1,0 +1,3968 @@
+[
+  {
+    "is_male": 1,
+    "height_in_cm": 189,
+    "birthday": "1993-05-02T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 82,
+    "body_fat_percentage": 15,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Mountainbiking",
+        "pal": 870,
+        "number_of_days_per_week": 7,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 185,
+    "birthday": "1992-09-26T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 15,
+    "diet_type": "Paleo",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 173,
+    "birthday": "1995-11-28T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 63,
+    "body_fat_percentage": 30,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 20
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 192,
+    "birthday": "1993-01-15T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 92,
+    "body_fat_percentage": 17,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 40
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 184,
+    "birthday": "1991-04-11T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 86,
+    "body_fat_percentage": 15,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 6,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 189,
+    "birthday": "1988-03-02T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 91,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 45
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 170,
+    "birthday": "1993-06-07T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 66,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Kampfsport",
+        "pal": 1020,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 182,
+    "birthday": "1990-09-26T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 71,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 190,
+    "birthday": "1990-08-22T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 85,
+    "body_fat_percentage": 17,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Klettern / Bouldern",
+        "pal": 1100,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 120
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 204,
+    "birthday": "1986-06-15T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 120,
+    "body_fat_percentage": 27,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1979-12-31T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 90,
+    "body_fat_percentage": 22,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 7,
+        "number_of_minutes_per_day": 180
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 172,
+    "birthday": "1960-11-10T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 72,
+    "body_fat_percentage": 32,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Walking",
+        "pal": 300,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 20
+      },
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 75
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 192,
+    "birthday": "1985-04-28T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 82,
+    "body_fat_percentage": 17,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 197,
+    "birthday": "1984-10-05T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 110,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesskurs",
+        "pal": 600,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 185,
+    "birthday": "1995-12-10T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 100,
+    "body_fat_percentage": 15,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 75
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 195,
+    "birthday": "1988-10-14T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 86,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 193,
+    "birthday": "1982-08-13T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 112,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 40
+      },
+      {
+        "name": "Kampfsport",
+        "pal": 1020,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Seilspringen",
+        "pal": 1020,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 15
+      },
+      {
+        "name": "Walking",
+        "pal": 300,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 20
+      },
+      {
+        "name": "Gewichtheben / Weightlifting",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 40
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 164,
+    "birthday": "1962-09-16T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 10,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 169,
+    "birthday": "1991-08-20T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 59,
+    "body_fat_percentage": 29,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 189,
+    "birthday": "1984-12-19T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 64,
+    "body_fat_percentage": 5,
+    "diet_type": "Vegan",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 176,
+    "birthday": "1982-05-10T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 74,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1987-12-23T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 78,
+    "body_fat_percentage": 33,
+    "diet_type": "Paleo",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 179,
+    "birthday": "1976-10-02T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 95,
+    "body_fat_percentage": 29,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 196,
+    "birthday": "1984-10-05T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 105,
+    "body_fat_percentage": 21,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 194,
+    "birthday": "1991-09-26T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 94,
+    "body_fat_percentage": 11,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 173,
+    "birthday": "1996-10-26T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 62,
+    "body_fat_percentage": 30,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 6,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 166,
+    "birthday": "1995-07-07T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 45.8,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Gymnastik",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 173,
+    "birthday": "1994-03-12T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 71,
+    "body_fat_percentage": 17,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Gewichtheben / Weightlifting",
+        "pal": 400,
+        "number_of_days_per_week": 7,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 162,
+    "birthday": "1989-07-11T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 104.5,
+    "body_fat_percentage": 10,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 35
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 170,
+    "birthday": "1992-05-09T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 69,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 165,
+    "birthday": "1995-07-07T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 52,
+    "body_fat_percentage": 10,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 185,
+    "birthday": "1980-03-13T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 13,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1988-11-17T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 92,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 120
+      },
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 171,
+    "birthday": "1991-06-24T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 74,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 188,
+    "birthday": "1988-02-26T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 88,
+    "body_fat_percentage": 11,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 186,
+    "birthday": "1998-03-13T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 82,
+    "body_fat_percentage": 17,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 160,
+    "birthday": "1997-03-27T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 49,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Calisthenics",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 187,
+    "birthday": "1994-09-02T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 79,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 188,
+    "birthday": "1992-10-16T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 92,
+    "body_fat_percentage": 24,
+    "diet_type": "Paleo",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 167,
+    "birthday": "1997-12-02T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 85,
+    "body_fat_percentage": 36,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 175,
+    "birthday": "1981-11-07T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 84,
+    "body_fat_percentage": 29,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 172,
+    "birthday": "1981-01-05T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 73,
+    "body_fat_percentage": 22,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 20
+      },
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 75
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 167,
+    "birthday": "1990-02-25T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 13,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 182,
+    "birthday": "1986-05-08T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 115,
+    "body_fat_percentage": 26,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 174,
+    "birthday": "1989-03-08T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 178,
+    "birthday": "1992-11-02T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 78,
+    "body_fat_percentage": 11,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 1,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 196,
+    "birthday": "1990-10-05T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 99.5,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 177,
+    "birthday": "1992-09-24T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 71,
+    "body_fat_percentage": 13,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 7
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 187,
+    "birthday": "1985-04-10T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 77,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 178,
+    "birthday": "1988-03-15T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 82,
+    "body_fat_percentage": 15,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 100
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1995-07-15T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 88,
+    "body_fat_percentage": 28,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1993-04-30T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 75,
+    "body_fat_percentage": 18,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 7
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1997-08-18T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 21,
+    "diet_type": "Paleo",
+    "job_pal": 0.5,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 177,
+    "birthday": "1989-12-16T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 85.5,
+    "body_fat_percentage": 18,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 75
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 170,
+    "birthday": "1996-12-30T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 66,
+    "body_fat_percentage": 18,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1994-02-28T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 92,
+    "body_fat_percentage": 30,
+    "diet_type": "Paleo",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 179,
+    "birthday": "1993-03-31T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 83,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 55
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 179,
+    "birthday": "1995-02-10T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 85,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Seilspringen",
+        "pal": 1020,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 20
+      },
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1987-04-08T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 89,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 178,
+    "birthday": "1997-07-03T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 85,
+    "body_fat_percentage": 13,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Kampfsport",
+        "pal": 1020,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 169,
+    "birthday": "1990-10-20T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 177,
+    "birthday": "1993-10-20T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 87,
+    "body_fat_percentage": 21,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 176,
+    "birthday": "1996-08-26T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 79,
+    "body_fat_percentage": 33,
+    "diet_type": "Vegan",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 177,
+    "birthday": "1993-05-01T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 85,
+    "body_fat_percentage": 15,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Kraftdreikampf",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 194,
+    "birthday": "1988-03-04T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 95,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 120
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 35
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 170,
+    "birthday": "1997-12-31T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 90,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 178,
+    "birthday": "1998-03-06T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 85,
+    "body_fat_percentage": 21,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 175.5,
+    "birthday": "2001-12-20T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 184,
+    "birthday": "1996-06-17T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 13,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 170,
+    "birthday": "1995-02-01T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 22,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 162,
+    "birthday": "1999-07-14T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 66,
+    "body_fat_percentage": 27,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 170,
+    "birthday": "1984-12-19T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 92,
+    "body_fat_percentage": 39,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 1,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 173,
+    "birthday": "1987-03-17T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 52,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 190,
+    "birthday": "1990-09-20T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 95,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 6,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 177,
+    "birthday": "1995-02-16T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 68,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 185,
+    "birthday": "1992-07-04T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 100,
+    "body_fat_percentage": 31,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1997-08-16T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 82,
+    "body_fat_percentage": 10,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 80
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 174,
+    "birthday": "1992-07-10T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 62,
+    "body_fat_percentage": 5,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1977-07-15T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 124,
+    "body_fat_percentage": 50,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 175,
+    "birthday": "2003-04-24T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 73,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 164,
+    "birthday": "1990-04-21T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 58,
+    "body_fat_percentage": 21,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 178,
+    "birthday": "1990-08-18T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 66,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 174,
+    "birthday": "1990-01-12T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 68,
+    "body_fat_percentage": 12,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 171,
+    "birthday": "1971-11-19T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70.7,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 172,
+    "birthday": "1962-01-07T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 68.7,
+    "body_fat_percentage": 18,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 187,
+    "birthday": "1979-07-06T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1986-05-13T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 74,
+    "body_fat_percentage": 33,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.5,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 179,
+    "birthday": "1978-02-16T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 67,
+    "body_fat_percentage": 13,
+    "diet_type": "Paleo",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 120
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 188,
+    "birthday": "1967-05-20T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 91,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Mountainbiking",
+        "pal": 870,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 173,
+    "birthday": "1981-05-15T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 18,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Mountainbiking",
+        "pal": 870,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Schwimmen",
+        "pal": 610,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 75
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 163,
+    "birthday": "1963-10-13T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 38,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Mountainbiking",
+        "pal": 870,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 180
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 166,
+    "birthday": "1991-05-27T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 68,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1993-07-16T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 82,
+    "body_fat_percentage": 24,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 167,
+    "birthday": "1994-05-07T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 66,
+    "body_fat_percentage": 37,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 160,
+    "birthday": "1988-05-27T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 10,
+    "diet_type": "Vegan",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Klettern / Bouldern",
+        "pal": 1100,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 178,
+    "birthday": "1994-04-19T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 78,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 172,
+    "birthday": "1997-02-05T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 72,
+    "body_fat_percentage": 13,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 75
+      },
+      {
+        "name": "American Football",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 105
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 162,
+    "birthday": "1978-12-04T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 55,
+    "body_fat_percentage": 27,
+    "diet_type": "Vegan",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "2001-05-25T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 90,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 110
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 159,
+    "birthday": "1971-09-25T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 30,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Schwimmen",
+        "pal": 610,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 20
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 40
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1988-04-16T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 104,
+    "body_fat_percentage": 40,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1987-07-10T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 83,
+    "body_fat_percentage": 20,
+    "diet_type": "Vegan",
+    "job_pal": 0.5,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 190,
+    "birthday": "1984-05-09T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 120,
+    "body_fat_percentage": 27,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 179,
+    "birthday": "1968-07-13T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 92,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Gymnastik",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 170,
+    "birthday": "1951-12-22T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 72,
+    "body_fat_percentage": 26,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 10
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 170,
+    "birthday": "1943-12-10T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 74,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1994-02-02T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 170,
+    "birthday": "1995-11-04T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 26,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 181,
+    "birthday": "1967-08-23T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 166,
+    "birthday": "1975-11-21T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 76,
+    "body_fat_percentage": 32,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1982-10-18T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 11,
+    "diet_type": "Paleo",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1969-11-27T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 90,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 193,
+    "birthday": "1992-08-05T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 100,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Schwimmen",
+        "pal": 610,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 185,
+    "birthday": "1988-08-09T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 81,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 70
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 170,
+    "birthday": "1995-08-10T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 68,
+    "body_fat_percentage": 31,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 153,
+    "birthday": "1993-07-21T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 45,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Walking",
+        "pal": 300,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 6,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 165,
+    "birthday": "1999-09-08T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 35,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Gymnastik",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 180
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 167,
+    "birthday": "1998-09-15T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 38,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 180
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 189,
+    "birthday": "2001-10-02T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 75,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 162,
+    "birthday": "1992-09-19T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 42,
+    "body_fat_percentage": 18,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 172,
+    "birthday": "1994-05-19T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 61,
+    "body_fat_percentage": 27,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 1,
+    "sport_activities": [
+      {
+        "name": "Teamsport",
+        "pal": 700,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 157,
+    "birthday": "1995-03-14T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 52,
+    "body_fat_percentage": 31,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1993-04-23T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 86.1,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 176,
+    "birthday": "1995-09-21T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 20
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 170,
+    "birthday": "1995-12-15T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 74,
+    "body_fat_percentage": 47,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.5,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 172,
+    "birthday": "1994-05-19T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 62,
+    "body_fat_percentage": 24,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Fitnesskurs",
+        "pal": 600,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 179,
+    "birthday": "1990-07-15T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 91,
+    "body_fat_percentage": 40,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 50
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 181,
+    "birthday": "1985-12-26T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1985-12-26T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 15,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 159,
+    "birthday": "2003-06-19T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 53,
+    "body_fat_percentage": 26,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesskurs",
+        "pal": 600,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 193,
+    "birthday": "1986-02-26T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 85,
+    "body_fat_percentage": 22,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 10
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 186,
+    "birthday": "2000-08-07T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 66,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 80
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 185,
+    "birthday": "2002-06-03T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 100,
+    "body_fat_percentage": 33,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 1,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 178,
+    "birthday": "1974-07-05T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 72,
+    "body_fat_percentage": 36,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 173,
+    "birthday": "1999-11-16T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 70
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1984-11-15T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 75,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Tennis",
+        "pal": 820,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 194,
+    "birthday": "1999-11-22T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 78,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 182,
+    "birthday": "1973-07-08T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 95,
+    "body_fat_percentage": 28,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 178,
+    "birthday": "1992-08-02T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 72,
+    "body_fat_percentage": 28,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Klettern / Bouldern",
+        "pal": 1100,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 40
+      },
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 15
+      },
+      {
+        "name": "Calisthenics",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 178,
+    "birthday": "1964-08-22T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 100,
+    "body_fat_percentage": 10,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 185,
+    "birthday": "1996-09-25T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 88,
+    "body_fat_percentage": 15,
+    "diet_type": "Vegan",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 70
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1998-05-11T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 22,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 178,
+    "birthday": "1994-05-20T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 74,
+    "body_fat_percentage": 29,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 172,
+    "birthday": "2000-02-22T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 52,
+    "body_fat_percentage": 18,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 7,
+        "number_of_minutes_per_day": 130
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 150,
+    "birthday": "1994-06-26T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 25,
+    "diet_type": "Paleo",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 197,
+    "birthday": "1991-07-07T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 95,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 190,
+    "birthday": "1983-12-31T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 110,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 185,
+    "birthday": "1988-06-10T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 130,
+    "body_fat_percentage": 40,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 171,
+    "birthday": "1977-11-23T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 76,
+    "body_fat_percentage": 22,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 173,
+    "birthday": "2000-05-18T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 72.5,
+    "body_fat_percentage": 18,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 70
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1985-11-16T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 98,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1988-04-07T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 76,
+    "body_fat_percentage": 34,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 180
+      },
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1995-01-31T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 74,
+    "body_fat_percentage": 13,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1994-04-11T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 86,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Gymnastik",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 45
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1991-11-11T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 174,
+    "birthday": "1993-08-13T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 89,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 188,
+    "birthday": "1989-04-03T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 81,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "2000-11-28T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 69,
+    "body_fat_percentage": 30,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Gymnastik",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 186,
+    "birthday": "1999-09-12T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 74,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 80
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 158,
+    "birthday": "1995-03-30T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 33,
+    "diet_type": "Pescetarisch",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 169,
+    "birthday": "1997-12-06T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 21,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 198,
+    "birthday": "1997-09-07T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 111,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1991-02-17T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 72,
+    "body_fat_percentage": 21,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesskurs",
+        "pal": 600,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Walking",
+        "pal": 300,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 20
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1999-09-27T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 59.8,
+    "body_fat_percentage": 12,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 20
+      },
+      {
+        "name": "Mountainbiking",
+        "pal": 870,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 172,
+    "birthday": "1989-09-25T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 79,
+    "body_fat_percentage": 31,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 120
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1995-03-07T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 83,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 15
+      },
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 190,
+    "birthday": "9183-12-31T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 90,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 163,
+    "birthday": "1973-06-22T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 34,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 182,
+    "birthday": "2002-04-12T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 76,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1970-12-23T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 81,
+    "body_fat_percentage": 32,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 166,
+    "birthday": "2001-01-19T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 46,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Gewichtheben / Weightlifting",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 172,
+    "birthday": "1999-05-03T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 71,
+    "body_fat_percentage": 18,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 45
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 172,
+    "birthday": "1995-10-29T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Schwimmen",
+        "pal": 610,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 6,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 175,
+    "birthday": "1998-08-16T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 58,
+    "body_fat_percentage": 10,
+    "diet_type": "Vegan",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 170,
+    "birthday": "1996-07-06T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 36,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 160,
+    "birthday": "1994-08-31T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 53,
+    "body_fat_percentage": 29,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Reiten",
+        "pal": 410,
+        "number_of_days_per_week": 6,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1992-09-01T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 36,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 100
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 164,
+    "birthday": "1998-11-24T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 68,
+    "body_fat_percentage": 36,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 20
+      },
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 70
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 179,
+    "birthday": "1987-01-09T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 26,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 175,
+    "birthday": "1985-02-15T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 65,
+    "body_fat_percentage": 28,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 20
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 199,
+    "birthday": "1984-10-05T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 100,
+    "body_fat_percentage": 41,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 165,
+    "birthday": "1995-02-11T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 50,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Krafttraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 160,
+    "birthday": "1998-03-15T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 40.5,
+    "body_fat_percentage": 12,
+    "diet_type": "Vegan",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 30
+      },
+      {
+        "name": "Walking",
+        "pal": 300,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Pilates",
+        "pal": 410,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 173,
+    "birthday": "1984-10-11T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 28,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 6,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Schwimmen",
+        "pal": 610,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 95
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 158,
+    "birthday": "1988-08-22T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 84,
+    "body_fat_percentage": 46,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1992-04-20T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 53,
+    "body_fat_percentage": 17,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 171,
+    "birthday": "1992-02-20T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 84,
+    "body_fat_percentage": 29,
+    "diet_type": "Vegan",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Reiten",
+        "pal": 410,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 193,
+    "birthday": "1973-10-09T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 120,
+    "body_fat_percentage": 5,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1989-03-20T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 83,
+    "body_fat_percentage": 13,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 171,
+    "birthday": "1992-08-08T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 70
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 185,
+    "birthday": "1999-02-06T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 92,
+    "body_fat_percentage": 42,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 190,
+    "birthday": "1998-12-31T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 90,
+    "body_fat_percentage": 22,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1988-06-06T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Gymnastik",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 194,
+    "birthday": "1985-06-03T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 93,
+    "body_fat_percentage": 11,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 176,
+    "birthday": "1986-08-29T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 70,
+    "body_fat_percentage": 22,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Yoga",
+        "pal": 410,
+        "number_of_days_per_week": 5,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Gewichtheben / Weightlifting",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Calisthenics",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 165,
+    "birthday": "1999-09-03T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 41,
+    "body_fat_percentage": 10,
+    "diet_type": "Vegan",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 70
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 187,
+    "birthday": "1998-03-05T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 86,
+    "body_fat_percentage": 20,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 7,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1962-03-10T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 64.3,
+    "body_fat_percentage": 28,
+    "diet_type": "Vegan",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 50
+      },
+      {
+        "name": "Kampfsport",
+        "pal": 1020,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 80
+      },
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 55
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 176,
+    "birthday": "1989-07-14T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 60,
+    "body_fat_percentage": 34,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 165,
+    "birthday": "1995-12-31T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 48,
+    "body_fat_percentage": 12,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 166,
+    "birthday": "1991-06-20T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 71.8,
+    "body_fat_percentage": 30,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Ausdauertraining",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 45
+      },
+      {
+        "name": "Kampfsport",
+        "pal": 1020,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Gewichtheben / Weightlifting",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 60
+      },
+      {
+        "name": "Pilates",
+        "pal": 410,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 190,
+    "birthday": "1988-12-31T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 90,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 175,
+    "birthday": "1970-11-30T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 80,
+    "body_fat_percentage": 24,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 157,
+    "birthday": "1991-06-08T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 55,
+    "body_fat_percentage": 23,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 177,
+    "birthday": "1991-12-31T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 75,
+    "body_fat_percentage": 32,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 170,
+    "birthday": "1993-02-28T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 63,
+    "body_fat_percentage": 28,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Crossfit",
+        "pal": 600,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 182,
+    "birthday": "1989-12-14T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 90.5,
+    "body_fat_percentage": 17,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 183,
+    "birthday": "1968-01-16T23:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 98,
+    "body_fat_percentage": 27,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 1,
+    "sport_activities": [
+      {
+        "name": "Bodybuilding",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 180,
+    "birthday": "1986-05-20T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 76,
+    "body_fat_percentage": 19,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Mountainbiking",
+        "pal": 870,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 120
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 178,
+    "birthday": "1987-10-01T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 89,
+    "body_fat_percentage": 29,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Mountainbiking",
+        "pal": 870,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 30
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 186,
+    "birthday": "2002-03-26T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 71,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Fußball",
+        "pal": 700,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 175,
+    "birthday": "1995-08-27T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 67,
+    "body_fat_percentage": 16,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 3,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 158,
+    "birthday": "1992-02-19T23:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 50,
+    "body_fat_percentage": 25,
+    "diet_type": "Vegetarisch",
+    "job_pal": 0.5,
+    "sport_activities": [
+      {
+        "name": "Klettern / Bouldern",
+        "pal": 1100,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 180
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 45
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 168,
+    "birthday": "1997-05-14T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 55,
+    "body_fat_percentage": 31,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 175,
+    "birthday": "1987-05-16T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 66,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "is_male": 1,
+    "height_in_cm": 175,
+    "birthday": "2001-12-09T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 63,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Calisthenics",
+        "pal": 400,
+        "number_of_days_per_week": 4,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "is_male": 0,
+    "height_in_cm": 172,
+    "birthday": "1989-01-11T23:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 58,
+    "body_fat_percentage": 25,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
+  }
+]

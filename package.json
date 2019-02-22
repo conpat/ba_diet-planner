@@ -1,0 +1,27 @@
+{
+  "name": "ba_diet-planner",
+  "version": "1.0.0",
+  "description": "The source used for my bachelor-thesis at the University of Regensburg",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "esm": "^3.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conpat/ba_diet-planer.git"
+  },
+  "author": "conpat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/conpat/ba_diet-planer/issues"
+  },
+  "homepage": "https://github.com/conpat/ba_diet-planer#readme"
+}
