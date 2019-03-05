@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "is_male": 1,
     "height_in_cm": 189,
     "birthday": "1993-05-02T22:00:00.000Z",
@@ -12,12 +13,13 @@
       {
         "name": "Mountainbiking",
         "pal": 870,
-        "number_of_days_per_week": 7,
-        "number_of_minutes_per_day": 60
+        "number_of_days_per_week": 2,
+        "number_of_minutes_per_day": 90
       }
     ]
   },
   {
+    "id": 2,
     "is_male": 1,
     "height_in_cm": 185,
     "birthday": "1992-09-26T22:00:00.000Z",
@@ -42,6 +44,7 @@
     ]
   },
   {
+    "id": 3,
     "is_male": 0,
     "height_in_cm": 173,
     "birthday": "1995-11-28T23:00:00.000Z",
@@ -60,6 +63,7 @@
     ]
   },
   {
+    "id": 4,
     "is_male": 1,
     "height_in_cm": 192,
     "birthday": "1993-01-15T23:00:00.000Z",
@@ -78,6 +82,7 @@
     ]
   },
   {
+    "id": 5,
     "is_male": 1,
     "height_in_cm": 184,
     "birthday": "1991-04-11T22:00:00.000Z",
@@ -102,6 +107,7 @@
     ]
   },
   {
+    "id": 6,
     "is_male": 1,
     "height_in_cm": 189,
     "birthday": "1988-03-02T23:00:00.000Z",
@@ -126,6 +132,7 @@
     ]
   },
   {
+    "id": 7,
     "is_male": 1,
     "height_in_cm": 170,
     "birthday": "1993-06-07T22:00:00.000Z",
@@ -148,5 +155,61 @@
         "number_of_minutes_per_day": 60
       }
     ]
+  },
+  {
+    "id": 8,
+    "is_male": 1,
+    "height_in_cm": 182,
+    "birthday": "1990-09-26T22:00:00.000Z",
+    "overall_goal": "muscle_gain",
+    "weight_in_kg": 71,
+    "body_fat_percentage": 14,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": [
+      {
+        "name": "Fitnesstraining",
+        "pal": 400,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 90
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "is_male": 1,
+    "height_in_cm": 190,
+    "birthday": "1990-08-22T22:00:00.000Z",
+    "overall_goal": "performance_increase",
+    "weight_in_kg": 85,
+    "body_fat_percentage": 17,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.85,
+    "sport_activities": [
+      {
+        "name": "Klettern / Bouldern",
+        "pal": 1100,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 120
+      },
+      {
+        "name": "Laufen",
+        "pal": 710,
+        "number_of_days_per_week": 1,
+        "number_of_minutes_per_day": 60
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "is_male": 1,
+    "height_in_cm": 204,
+    "birthday": "1986-06-15T22:00:00.000Z",
+    "overall_goal": "fat_reduction",
+    "weight_in_kg": 120,
+    "body_fat_percentage": 27,
+    "diet_type": "Keine spezielle Ernährungsform",
+    "job_pal": 0.3,
+    "sport_activities": []
   }
 ]

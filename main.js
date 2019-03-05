@@ -1,19 +1,30 @@
 "use strict"
 
-import helper from './helper.js'
-import clients from './clients.js'
-import test from './test.js'
+import Helper from './src/class/cHelper.js'
+import Clients from './src/clients.js'
+import Benchmarking from './src/benchmarking.js'
+import Data from './src/dataPreparator.js'
+import _ from 'lodash'
+
+//global extension of the standard Math Object
+Math.avg = function(arr){
+  let sum = arr.reduce((sum, el) => {
+    sum += el
+    return sum
+  })
+  return sum / arr.length
+}
 
 class main {
   constructor() {
     this.debug = true
-    this.helper = new helper(this.debug)
+    this.helper = new Helper(this.debug)
     this.inputParams = {
       command: "",
       options: []
     }
 
-    this.clients = new clients()
+    this.clients = new Clients()
 
     this.init()
   }
@@ -29,12 +40,23 @@ class main {
         case "client":
           if(options.includes("-cnr") || options.includes("--calculateNutritionalRequirements")){
             this.clients.calculateNutritionalRequirements(this.helper)
-          }
+          } else this.printHelp()
           break
         case "test":
           // creat Clients-Date which are needed to test 
           this.executeCommand("client", ["-cnr"])
-          new test(this.clients.clients)
+          let bench = new Benchmarking(this.clients.clients)
+          bench.testBaseline()
+          bench.testDietPlanner_2()
+          //benchmarking()
+          //test.runBenchmark()
+          break
+        case "data":
+          if(options.includes("-psd") || options.includes("--prepareStatisticalData")){
+            
+            let data = new Data()
+
+          } else this.printHelp()
           break
 /*
 
@@ -70,28 +92,21 @@ class main {
     this.inputParams.command = process.argv[2]
     this.inputParams.options = process.argv.slice(3)
   }
-  printHelp(specifier){
-    let helpMsg = ``
-
-    switch(specifier) {
-      case "client":
-        helpMsg = `node main.js client 
-        `
-        break
-      default:
-        helpMsg = `The following commands are in use:
+  printHelp(){
+    let helpMsg = `
 Usage: node main.js <command> <options>
 
-Where <command> is one of:
-  client, test
+The following <commands> are in use:
+  client, test, data
 
 node main.js <-h/--help/?>                                        quick help on main.js
 
 node main.js client <options>                                     client specific operations
                     -cnr, --calculateNutritionalRequirements      calculate the rutritional requirements for each client
 
-node main.js test <options>                                       test stuff`
-    }
+node main.js test                                                 test stuff
+node main.js data <options>                                       manipulate the generated data
+                  -psd, --prepareStatisticalData                  prepare the generated data for further analyses in R`
     console.log(helpMsg)
   }
 }

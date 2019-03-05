@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": 37,
+    "user_allergies": "Erdnüsse,Gluten",
+    "user_diet_type": "Paleo",
+    "avg_recipes_per_day": 2.357142857142857
+  },
+  {
+    "user_id": 28,
+    "user_allergies": "Fisch",
+    "user_diet_type": "Keine spezielle Ernährungsform",
+    "avg_recipes_per_day": 1.2142857142857142
+  }
+]
