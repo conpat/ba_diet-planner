@@ -3,6 +3,10 @@ import meals from "./../../data/meals.json"
 
 export default class mealCollection {
   constructor() {
+    /*let tmpMeals = meals.map(meal => {
+      delete meal.ingredients
+      return meal
+    })*/
   	this.snacks = meals.filter(meal => meal.is_snack)
   	this.breakfasts = meals.filter(meal => meal.is_breakfast)
   	this.fullMeals = meals.filter(meal => !meal.is_snack)

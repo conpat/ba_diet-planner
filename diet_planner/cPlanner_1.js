@@ -35,10 +35,7 @@ export class dietPlanner_1 extends dietPlanner {
     return dayPlan
 
   }
-  savePlan(){
-    super.savePlan("baseline")
-  }
-  saveOutput(output){
-    super.saveOutput(this.plannerVersion, output)
+  saveOutput(){
+    super.saveOutput(this.plannerVersion)
   }
 }

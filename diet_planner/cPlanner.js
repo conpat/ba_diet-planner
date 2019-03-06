@@ -5,6 +5,7 @@ import _ from 'lodash'
 import helper from './../src/class/cHelper.js'
 import {plannerParams} from "./../data/planner_parameters.js"
 import mealCollection from "./../src/class/cMealCollection.js"
+import nutritionalValue from "./../src/class/cNutritionalValue.js"
 
 export class dietPlanner {
   constructor(client) {
@@ -28,36 +29,39 @@ export class dietPlanner {
     return this.params.timeoutPerDay >= this.getRunningTime()
   }
   totUpNutritionalValue(dayPlan){
-    let nutritionalValue = {
-      kalories: 0,
-      protein: 0,
-      fat: 0,
-      carbs: 0,
-      fibres: 0
-    }
-    return dayPlan.reduce((nutritionalValue, meal) =>{
-      nutritionalValue.kalories += meal.total_kcal
-      nutritionalValue.kaloproteinries += meal.total_protein
-      nutritionalValue.fat += meal.total_fat
-      nutritionalValue.carbs += meal.total_carbs
-      nutritionalValue.fibres += meal.total_fibre
-      return nutritionalValue
-    }, nutritionalValue)
+    let nV = new nutritionalValue(0, 0, 0, 0, 0)
+    return dayPlan.reduce((nV, meal) =>{
+      nV.kalories += meal.total_kcal
+      nV.protein += meal.total_protein
+      nV.fat += meal.total_fat
+      nV.carbs += meal.total_carbs
+      nV.fibres += meal.total_fibre
+      return nV
+    }, nV)
   }
   withinTolerance(nutritionalValues, nutritionalValueRequirement){
     return _.every(nutritionalValueRequirement, (requiredValue, nutrient) => {
       return (Math.abs(1 - (nutritionalValues[nutrient] / requiredValue ))) <= this.params.dailyPlanTolerance
     })
   }
-  savePlan(plannerVersion){
-
-    //console.log("this.dayPlan[1].name")
-    //console.log(this.dayPlan[1].name)
-    this.helper.makeDir(`./diet_planner/results/${plannerVersion}`)
-    this.helper.writeObject2File(`./diet_planner/results/${plannerVersion}/client${this.client.id}-mealplan.json`, this.mealPlan)
-  }
-  saveOutput(plannerVersion, output){
+  saveOutput(plannerVersion){
     //this.helper.makeDir(`./diet_planner/results/${plannerVersion}/meal_plan`)
-    this.helper.writeObject2File(`./diet_planner/results/${plannerVersion}/meal_plan/client${this.client.id}-mealplan.json`, output)
+    
+    this.helper.writeObject2File(`./diet_planner/results/${plannerVersion}/meal_plan/client${this.client.id}-mealplan.json`, this.prepareMealPlanOutput())
+  }
+  prepareMealPlanOutput(){
+    let mealPlanOutput = {client: this.client, mealPlanValue: []}
+    this.mealPlan.map(dayPlan => {
+      let nutritionalValueOfDay = new nutritionalValue(0, 0, 0, 0, 0)
+      dayPlan.map(meal => {
+        nutritionalValueOfDay.kalories += meal.total_kcal
+        nutritionalValueOfDay.protein += meal.total_protein
+        nutritionalValueOfDay.fat += meal.total_fat
+        nutritionalValueOfDay.carbs += meal.total_carbs
+        nutritionalValueOfDay.fibres += meal.total_fibre
+      })
+      mealPlanOutput.mealPlanValue.push(nutritionalValueOfDay)
+    })
+    return mealPlanOutput
   }
 }
