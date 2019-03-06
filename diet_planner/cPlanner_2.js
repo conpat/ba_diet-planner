@@ -27,7 +27,7 @@ export class dietPlanner_2 extends dietPlanner {
       dayPlan.push(this.mealCollection.getRandomfullMeal())
       dayPlan.push(this.mealCollection.getRandomSnack())
       dayPlan.push(this.mealCollection.getRandomfullMeal())
-      if(super.withinTolerance(super.totUpNutritionalValue(dayPlan), nutritionalValueRequirement)){
+      if(super.withinTolerance(super.sumUpNutritionalValue(dayPlan), nutritionalValueRequirement)){
         //console.log("did ITTTT")
         //console.log(dayPlan[1].name)
         gotIt = true

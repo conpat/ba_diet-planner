@@ -28,7 +28,7 @@ export class dietPlanner {
   isTimeLeft(){
     return this.params.timeoutPerDay >= this.getRunningTime()
   }
-  totUpNutritionalValue(dayPlan){
+  sumUpNutritionalValue(dayPlan){
     let nV = new nutritionalValue(0, 0, 0, 0, 0)
     return dayPlan.reduce((nV, meal) =>{
       nV.kalories += meal.total_kcal
@@ -50,18 +50,36 @@ export class dietPlanner {
     this.helper.writeObject2File(`./diet_planner/results/${plannerVersion}/meal_plan/client${this.client.id}-mealplan.json`, this.prepareMealPlanOutput())
   }
   prepareMealPlanOutput(){
-    let mealPlanOutput = {client: this.client, mealPlanValue: []}
-    this.mealPlan.map(dayPlan => {
-      let nutritionalValueOfDay = new nutritionalValue(0, 0, 0, 0, 0)
-      dayPlan.map(meal => {
-        nutritionalValueOfDay.kalories += meal.total_kcal
-        nutritionalValueOfDay.protein += meal.total_protein
-        nutritionalValueOfDay.fat += meal.total_fat
-        nutritionalValueOfDay.carbs += meal.total_carbs
-        nutritionalValueOfDay.fibres += meal.total_fibre
-      })
-      mealPlanOutput.mealPlanValue.push(nutritionalValueOfDay)
+    let mealPlanOutput = {client: this.client, recurrence: {}, mealPlanValue: []}
+    
+    mealPlanOutput.recurrence = this.countRecurrence(this.mealPlan)
+
+    mealPlanOutput.mealPlanValue = this.mealPlan.map(dayPlan => {
+      return this.sumUpNutritionalValue(dayPlan)
     })
+
     return mealPlanOutput
+  }
+  countRecurrence(mealPlan){
+    let dailyMealRecurrence = {}
+    let mealRecurrence = mealPlan.reduce((mealRecurrence, dayPlan) => {
+      let dayRecurrence = {}
+      dayPlan.forEach(meal => {
+        dayRecurrence[meal.id] = dayRecurrence[meal.id] === undefined ? 1 : dayRecurrence[meal.id] + 1
+        /* testing the dailyRecurrence
+        dayRecurrence["k"] = dayRecurrence["k"] === undefined ? 1 : dayRecurrence["k"] + 1
+        dayRecurrence["l"] = dayRecurrence["l"] === undefined ? 2 : dayRecurrence["l"] + 2*/
+        mealRecurrence[meal.id] = mealRecurrence[meal.id] === undefined ? 1 : mealRecurrence[meal.id] + 1
+      })
+      //summing up for daily Recurrence
+      if(Object.keys(dayRecurrence).length > dayPlan.length){
+        let tmp = this.helper.filterObject(dayRecurrence, (mealCount => mealCount > 1))
+        Object.keys(tmp).forEach(key => {
+          dailyMealRecurrence[key] = dailyMealRecurrence[key] === undefined ? tmp[key] : dailyMealRecurrence[key] + tmp[key]
+        })
+      }
+      return mealRecurrence
+    },{})
+    return [mealRecurrence, dailyMealRecurrence]
   }
 }
