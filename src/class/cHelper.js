@@ -53,6 +53,14 @@ export default class helper {
       configurable: configurable
     })
   }
+  filterObject(obj, callback){
+    return Object.keys(obj)
+      .filter(key => callback(obj[key]))
+      .reduce((res, key) => {
+        res[key] = obj[key]
+        return res
+      }, {})
+  }
 /*
   makeDir(dirPath){
     // If the directory already exists. fs.mkdirSync throws an error which is not relevant in this case
@@ -62,7 +70,6 @@ export default class helper {
       if (err.code !== 'EEXIST') throw err
     }
   }*/
-
   writeObject2File(filePath, data) {
     return new Promise((resolve, reject) => {
       fileSystem.writeFile(filePath, JSON.stringify(data, null, "  "), 'utf8', (err) => {
@@ -76,7 +83,7 @@ export default class helper {
       })
     })
   }
-
+/*
   // https://jack.ofspades.com/es6-const-not-immutable/index.html
   constantize(obj) {
     // constantizes the first level of properties of the object.
@@ -87,5 +94,5 @@ export default class helper {
         this.constantize(obj[key])
       }
     })
-  }
+  }*/
 }
