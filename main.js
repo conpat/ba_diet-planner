@@ -94,19 +94,19 @@ class main {
   }
   printHelp(){
     let helpMsg = `
-Usage: node main.js <command> <options>
+Usage: node index.js <command> <options>
 
 The following <commands> are in use:
   client, test, data
 
-node main.js <-h/--help/?>                                        quick help on main.js
+node index.js <-h/--help/?>                                        quick help on index.js
 
-node main.js client <options>                                     client specific operations
-                    -cnr, --calculateNutritionalRequirements      calculate the rutritional requirements for each client
+node index.js client <options>                                     client specific operations
+                    -cnr, --calculateNutritionalRequirements       calculate the rutritional requirements for each client
 
-node main.js test                                                 test stuff
-node main.js data <options>                                       manipulate the generated data
-                  -psd, --prepareStatisticalData                  prepare the generated data for further analyses in R`
+node index.js test                                                 test stuff
+node index.js data <options>                                       manipulate the generated data
+                  -psd, --prepareStatisticalData                   prepare the generated data for further analyses in R`
     console.log(helpMsg)
   }
 }
