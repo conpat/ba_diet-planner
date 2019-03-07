@@ -20,9 +20,9 @@ export default class data {
     console.log("parse it")
     fileSystem.readdirSync(this.dataPath).forEach(plannerVersion => {
       this.helper.defineProperty(this.benchmarkDataRaw, plannerVersion, new Object())
-      fileSystem.readdirSync(`${this.dataPath}${plannerVersion}/benchmark`).forEach(clientFile => {
+      fileSystem.readdirSync(`${this.dataPath}${plannerVersion}/performance`).forEach(clientFile => {
         let clientId = this.parseFileName2ClientID(clientFile.slice(0, -5))
-        let fileContent = fileSystem.readFileSync(`${this.dataPath}${plannerVersion}/benchmark/${clientFile}`)
+        let fileContent = fileSystem.readFileSync(`${this.dataPath}${plannerVersion}/performance/${clientFile}`)
         fileContent = JSON.parse(fileContent)
         this.helper.defineProperty(this.benchmarkDataRaw[plannerVersion], clientId, fileContent)
         let tmp = fileContent.map(dataPoint => {

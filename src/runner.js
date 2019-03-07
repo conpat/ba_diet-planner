@@ -33,7 +33,7 @@ export default class runner {
   }
   saveResults(){
     //this.helper.makeDir(`./diet_planner/results/${this.dietPlanner.plannerVersion}/benchmark`)
-    this.helper.writeObject2File(`./diet_planner/results/${this.dietPlanner.plannerVersion}/benchmark/client${this.dietPlanner.client.id}.json`, this.runs)
+    this.helper.writeObject2File(`./diet_planner/results/${this.dietPlanner.plannerVersion}/performance/client${this.dietPlanner.client.id}.json`, this.runs)
     this.dietPlanner.saveOutput()
   }
 }

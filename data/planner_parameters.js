@@ -1,6 +1,5 @@
 export const plannerParams = {
   // Test Parameters
-  mealPlanDuratenInDays: 1, // 56d = 8 weeks; in Days	
   dailyPlanTolerance: 0.02, // in percentage
   timeoutPerDay: 20, // in milli seconds
   dayPlan: [{
