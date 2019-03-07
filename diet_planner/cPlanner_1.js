@@ -33,9 +33,8 @@ export class dietPlanner_1 extends dietPlanner {
     } while(!gotIt && super.isTimeLeft())
     this.mealPlan.push(dayPlan)
     return dayPlan
-
   }
-  saveOutput(){
-    super.saveOutput(this.plannerVersion)
+  saveOutput(output){
+    super.saveOutput(this.plannerVersion, output)
   }
 }

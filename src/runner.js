@@ -1,18 +1,23 @@
 "use strict"
 
-//import Benchmark from 'benchmark'
+/*
+  this file is for running a single benchmark and tracking of its outcome
+  it gets called by the benchmarking class
+ */
+
 import { PerformanceObserver, performance } from 'perf_hooks'
 import helper from './class/cHelper.js'
 
 export default class runner {
-  constructor (title, instance){
+  constructor (title, instance, iterations){
     this.helper       = new helper()
     this.title        = title
     // It is necessary to deliver the whole class instance, in order to call the function without context issues
     this.dietPlanner  = instance
-    this.iterartions  = 50
-    //this.results      = []
-    this.runs         = []
+    this.iterartions  = iterations
+    
+    this.mealPlans    = []
+    this.performance  = []
   }
   runTests(){
     let cnt = 0
@@ -20,20 +25,11 @@ export default class runner {
       let start = performance.now()
 
       // execution of the function to be tested
-      //this.results.push(this.dietPlanner.planDay())
-      this.dietPlanner.planDay()
+      this.mealPlans.push(this.dietPlanner.planDay())
 
       var duration = performance.now() - start
-      this.runs.push(duration)
+      this.performance.push(duration)
       cnt++
     }
-  }
-  getResults(){
-    return this.runs
-  }
-  saveResults(){
-    //this.helper.makeDir(`./diet_planner/results/${this.dietPlanner.plannerVersion}/benchmark`)
-    this.helper.writeObject2File(`./diet_planner/results/${this.dietPlanner.plannerVersion}/performance/client${this.dietPlanner.client.id}.json`, this.runs)
-    this.dietPlanner.saveOutput()
   }
 }
