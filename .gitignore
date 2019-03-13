@@ -1,3 +1,4 @@
 node_modules/
 data/meals_full.json
 diet_planner/results/*/*/*.json
+.eslintrc.json
