@@ -1,8 +1,8 @@
 export const plannerParams = {
   // Test Parameters
-  dailyPlanTolerance: 0.02, // in percentage
-  timeoutPerDay: 20, // in milli seconds
-  dayPlan: [{
+  dailyPlanTolerance: 0.1, // in percentage
+  timeoutPerDay: 500, // in milli seconds
+  mealDef: [{
       mealType: "breakfast",
       preparationType: "cold",
       amount: 0,

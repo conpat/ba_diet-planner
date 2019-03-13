@@ -8,10 +8,10 @@
  */
 
 
-import helper from './../src/class/cHelper.js'
-import { dietPlanner_1 } from './../diet_planner/cPlanner_1.js'
-import { dietPlanner_2 } from './../diet_planner/cPlanner_2.js'
-import runner from './runner.js'
+import helper from "./../src/class/cHelper.js"
+import { dietPlanner_1 } from "./../diet_planner/cPlanner_1.js"
+import { dietPlanner_2 } from "./../diet_planner/cPlanner_2.js"
+import runner from "./runner.js"
 
 
 export default class benchmarking {
@@ -46,6 +46,6 @@ export default class benchmarking {
   }
   saveBenchmarkResult(benchmark){
     this.helper.writeObject2File(`./diet_planner/results/${benchmark.dietPlanner.plannerVersion}/performance/client${benchmark.dietPlanner.client.id}.json`, benchmark.performance)
-    benchmark.dietPlanner.saveOutput()
+    benchmark.dietPlanner.saveOutput(benchmark.mealPlans)
   }
 }

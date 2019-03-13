@@ -10,12 +10,12 @@ export class dietPlanner_1 extends dietPlanner {
   generatePlan(){
   }
   planDay(){
+    super.startTimer()
   	let dayPlan
   	let gotIt = false
   	let nutritionalValueRequirement = {
   		kalories: this.client.daily_kilokalories
   	}
-    super.startTimer()
     do {
       //console.log(`do It ${super.getRunningTime()}`)
   		dayPlan = []

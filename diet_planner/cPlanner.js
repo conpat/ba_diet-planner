@@ -30,8 +30,8 @@ export class dietPlanner {
   }
   sumUpNutritionalValue(dayPlan){
     let nV = new nutritionalValue(0, 0, 0, 0, 0)
-    return dayPlan.reduce((nV, meal) =>{
-      nV.kalories += meal.total_kcal
+    return dayPlan.reduce((nV, meal, i) => {
+      nV.kcalories += meal.total_kcal
       nV.protein += meal.total_protein
       nV.fat += meal.total_fat
       nV.carbs += meal.total_carbs
@@ -44,17 +44,17 @@ export class dietPlanner {
       return (Math.abs(1 - (nutritionalValues[nutrient] / requiredValue ))) <= this.params.dailyPlanTolerance
     })
   }
-  saveOutput(plannerVersion){
+  saveOutput(plannerVersion, output){
     //this.helper.makeDir(`./diet_planner/results/${plannerVersion}/meal_plan`)
     
-    this.helper.writeObject2File(`./diet_planner/results/${plannerVersion}/meal_plan/client${this.client.id}-mealplan.json`, this.prepareMealPlanOutput())
+    this.helper.writeObject2File(`./diet_planner/results/${plannerVersion}/meal_plan/client${this.client.id}-mealplan.json`, this.prepareMealPlanOutput(output))
   }
-  prepareMealPlanOutput(){
+  prepareMealPlanOutput(output){
     let mealPlanOutput = {client: this.client, recurrence: {}, mealPlanValue: []}
     
-    mealPlanOutput.recurrence = this.countRecurrence(this.mealPlan)
+    mealPlanOutput.recurrence = this.countRecurrence(output)
 
-    mealPlanOutput.mealPlanValue = this.mealPlan.map(dayPlan => {
+    mealPlanOutput.mealPlanValue = output.map(dayPlan => {
       return this.sumUpNutritionalValue(dayPlan)
     })
 

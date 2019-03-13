@@ -26,19 +26,28 @@ export default class helper {
     console.error(error)
   }
 
+  getRandomIndexArray(arrayLength){
+    let indexArray = []
+    for(let i = 0; i < arrayLength; i++){
+      indexArray.push(i)
+    }
+    return this.randomizeArray(indexArray)
+  }
+
   //https://www.w3resource.com/javascript-exercises/javascript-array-exercise-17.php
   randomizeArray(array) {
-    let ctr = array.length
+    let cntr = array.length
     let temp
     let index
 
-    while (ctr > 0) {
-      index = Math.floor(Math.random() * ctr)
-      ctr--
-      temp = array[ctr]
-      array[ctr] = array[index]
+    while (cntr > 0) {
+      index = Math.floor(Math.random() * cntr)
+      cntr--
+      temp = array[cntr]
+      array[cntr] = array[index]
       array[index] = temp
     }
+    return array
   }
 
   digitToBoolean(value) {

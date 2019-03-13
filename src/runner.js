@@ -22,14 +22,23 @@ export default class runner {
   runTests(){
     let cnt = 0
     while (cnt < this.iterartions){
+      //let anotherStart = process.hrtime()
       let start = performance.now()
 
       // execution of the function to be tested
       this.mealPlans.push(this.dietPlanner.planDay())
 
-      var duration = performance.now() - start
+      //let anotherDuration = process.hrtime(anotherStart)
+      let duration = performance.now() - start
+      //console.log(`hrtime: ${this.hrMillis(anotherDuration)}`)
+      //console.log(`perfor: ${duration}`)
+      //console.log("")
       this.performance.push(duration)
       cnt++
     }
   }
+
+hrMillis(measure) {
+  return (measure[0] * 1000) + (measure[1] / 1e6);
+}
 }
