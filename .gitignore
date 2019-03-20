@@ -2,3 +2,5 @@ node_modules/
 data/meals_full.json
 diet_planner/results/*/*/*.json
 .eslintrc.json
+R/.RData
+R/.Rhistory
