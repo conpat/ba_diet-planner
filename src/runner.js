@@ -5,11 +5,12 @@
   it gets called by the benchmarking class
  */
 
-import { PerformanceObserver, performance } from 'perf_hooks'
-import helper from './class/cHelper.js'
+import { PerformanceObserver, performance } from "perf_hooks"
+import helper from "./class/cHelper.js"
 
 export default class runner {
   constructor (title, instance, iterations){
+    let test = "test"
     this.helper       = new helper()
     this.title        = title
     // It is necessary to deliver the whole class instance, in order to call the function without context issues
@@ -18,6 +19,7 @@ export default class runner {
     
     this.mealPlans    = []
     this.performance  = []
+
   }
   runTests(){
     let cnt = 0
@@ -37,8 +39,7 @@ export default class runner {
       cnt++
     }
   }
-
-hrMillis(measure) {
-  return (measure[0] * 1000) + (measure[1] / 1e6);
-}
+  hrMillis(measure) {
+    return (measure[0] * 1000) + (measure[1] / 1e6)
+  }
 }

@@ -13,45 +13,46 @@ export default class mealCollection {
 
 
     this.currentMealTyp
-    this.currentFilter
     this.currentPool
   }
   setCurrentConfig(mealTyp, filter, kcal, tolerance) {
     this.currentMealTyp = mealTyp
-    this.currentFilter = filter
     if (this.currentMealTyp == "breakfast") {
-      this.currentPool = this.breakfasts.filter(meal => this.currentFilter(meal, kcal, tolerance))
+      this.currentPool = this.breakfasts.filter(meal => filter(meal, kcal, tolerance))
       //console.log(this.currentPool)
       //return
     } else if (this.currentMealTyp == "snack") {
       //console.log("#####################")
-      this.currentPool = this.snacks.filter(meal => this.currentFilter(meal, kcal, tolerance))
-      if(this.currentPool.length < 1)  {
+      this.currentPool = this.snacks.filter(meal => filter(meal, kcal, tolerance))
+      /*if (this.currentPool.length < 1) {
         console.log("no Snacks for YOU")
         console.log(this.snacks.length)
         console.log(this.snacks.filter(meal => meal.total_kcal < 300 && meal.total_kcal > 200).length)
         this.snacks.filter(meal => meal.total_kcal < 300 && meal.total_kcal > 200).forEach(meal => {
           console.log("snack")
           //console.log(meal)
-          console.log(this.currentFilter(meal,kcal,tolerance, true))
+          console.log(filter(meal, kcal, tolerance, true))
           console.log("")
         })
-        this.helper.consoleLog(this.currentFilter.toString())
-      }
+        this.helper.consoleLog(filter.toString())
+      }*/
       //console.log(this.currentPool)
       //return
     } else {
-    this.currentPool = this.fullMeals.filter(meal => this.currentFilter(meal, kcal, tolerance))
+      this.currentPool = this.fullMeals.filter(meal => filter(meal, kcal, tolerance))
     }
 
-    if (this.currentPool.length == 0){
-     console.log(`mealTyp: ${mealTyp}, kcal: ${kcal}, tolerance: ${tolerance}`) 
+    if (this.currentPool.length == 0) {
+      throw "no meal found: setting Config"
+      console.log("################################")
+      console.log(`mealTyp: ${mealTyp}, kcal: ${kcal}, tolerance: ${tolerance}`)
     }
   }
   getMeal(targetMacros, minSimilarity, planner) {
-    if(this.currentPool.length < 1) {
+    if (this.currentPool.length < 1) {
+      throw "no meal found: getting meal"
       console.log("Why dafug is nothing here.")
-       console.log(`mealTyp: ${this.currentMealTyp}`) 
+      console.log(`mealTyp: ${this.currentMealTyp}`)
       return
     }
     let best = 0
@@ -74,7 +75,7 @@ export default class mealCollection {
       }
       if (best > minSimilarity) {
         break
-      } else if(!planner.isTimeLeft()){
+      } else if (!planner.isTimeLeft()) {
         console.log("timeOut!!!")
         //break
       }
@@ -87,27 +88,32 @@ export default class mealCollection {
     }
     return this.currentPool[indexOfBest]
   }
-  getRandomMeal() {
-    if (this.currentMealTyp || this.currentFilter || this.currentPool) {
-      let randomPosition = this.calcRandomPosition(this.currentPool.length)
-      return this.currentPool[randomPosition]
+  getRandomMeal(mealTyp) {
+    let randomPosition
+    switch (mealTyp) {
+      case "breakfast":
+        randomPosition = this.helper.getRandomPosition(this.breakfasts.length)
+        return this.breakfasts[randomPosition]
+      case "snack":
+        randomPosition = this.helper.getRandomPosition(this.snacks.length)
+        return this.snacks[randomPosition]
+      case "full_meal":
+        randomPosition = this.helper.getRandomPosition(this.fullMeals.length)
+        return this.fullMeals[randomPosition]
     }
-    console.error("ERROR: first set current configuration!")
   }
-  getRandomBreakfast(aimCalories = 0, ) {
-    let randomPosition = this.calcRandomPosition(this.breakfasts.length)
-    return this.breakfasts[randomPosition]
-  }
-  getRandomSnack(aimCalories = 0, ) {
-    let randomPosition = this.calcRandomPosition(this.snacks.length)
-    return this.snacks[randomPosition]
-  }
-  getRandomfullMeal(aimCalories = 0, ) {
-    let randomPosition = this.calcRandomPosition(this.fullMeals.length)
-    return this.fullMeals[randomPosition]
-  }
-  // gehört nicht hier rein
-  calcRandomPosition(lengthOfArray) {
-    return Math.floor(Math.random() * lengthOfArray)
+  getDataForStatisticalAnalAnalyses(){
+    return meals.filter(meal => !meal.is_cheatmeal).map(meal => {
+      return {
+        isBreakfast: meal.is_breakfast,
+        isSnack:     meal.is_snack,
+        kCalories:   meal.total_kcal,
+        proteinInG:  meal.total_protein,
+        fatInG:      meal.total_fat,
+        carbsInG:    meal.total_carbs,
+        fibreInG:    meal.total_fibre,
+      }
+
+    })
   }
 }

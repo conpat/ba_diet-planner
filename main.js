@@ -1,13 +1,14 @@
 "use strict"
 
-import Helper from './src/class/cHelper.js'
-import Clients from './src/clients.js'
-import Benchmarking from './src/benchmarking.js'
-import Data from './src/dataPreparator.js'
-import _ from 'lodash'
+import Helper from "./src/class/cHelper.js"
+import Clients from "./src/clients.js"
+import Benchmarking from "./src/benchmarking.js"
+import Data from "./src/dataPreparator.js"
+import MealCollection from "./src/class/cMealCollection.js"
+import _ from "lodash"
 
 //global extension of the standard Math Object
-Math.avg = function(arr){
+Math.avg = function(arr) {
   let sum = arr.reduce((sum, el) => {
     sum += el
     return sum
@@ -34,65 +35,84 @@ class main {
     this.executeCommand()
   }
 
-  executeCommand(command = this.inputParams.command, options = this.inputParams.options){
+  executeCommand(command = this.inputParams.command, options = this.inputParams.options) {
     try {
-      switch (command){
+      switch (command) {
         case "client":
-          if(options.includes("-cnr") || options.includes("--calculateNutritionalRequirements")){
+          if (options.includes("-cnr") || options.includes("--calculateNutritionalRequirements")) {
             this.clients.calculateNutritionalRequirements(this.helper)
           } else this.printHelp()
           break
         case "test":
           // creat Clients-Date which are needed to test 
           this.executeCommand("client", ["-cnr"])
+
           let bench = new Benchmarking(this.clients.clients)
-          bench.testBaseline()
-          bench.testDietPlanner_2()
-          //benchmarking()
-          //test.runBenchmark()
+          if (options.includes("-1")) {
+            bench.testDietPlanner_1()
+          } else if (options.includes("-2")) {
+            bench.testDietPlanner_2()
+          } else if (options.includes("-3")) {
+            bench.testDietPlanner_3()
+          } else {
+            bench.testDietPlanner_3()
+            bench.testDietPlanner_1()
+            bench.testDietPlanner_2()
+          }
           break
         case "data":
-          if(options.includes("-psd") || options.includes("--prepareStatisticalData")){
-            
-            let data = new Data()
-
+          const data = new Data()
+          if (options.includes("--mealsStatiscs")) {
+            let mealCollection = new MealCollection()
+            data.preparePresetData("mealsData", mealCollection.getDataForStatisticalAnalAnalyses())
+          } else if (options.includes("--clientsStatisc")) {
+            this.clients.calculateNutritionalRequirements()
+            data.preparePresetData("clientsData", this.clients.getDataForStatisticalAnalAnalyses())
+          } else if (options.includes("-1")) {
+            data.prepareBenchmarkData("diet-planner_1")
+          } else if (options.includes("-2")) {
+            data.prepareBenchmarkData("diet-planner_2")
+          } else if (options.includes("-3")) {
+            data.prepareBenchmarkData("diet-planner_3")
+          } else if (options.includes("-psd") || options.includes("--prepareStatisticalData")) {
+            data.prepareBenchmarkData()
           } else this.printHelp()
           break
-/*
+          /*
 
 
-        case "recipesToolBox":
-          this.toolBoxRecipes = new recipesToolBox(this)
-          let recipesVariations = this.toolBoxRecipes.calcRecipesVariations()
-          console.log(`\nVariations Sum`)
-          console.table(recipesVariations)
-          break
-        case "test":
-          this.algoTest = new algoTest(this,this.args[1])
-          this.algoTest.initTest()
-          break
-        case "nutReq":
-          this.nutritionalRequirements = new nutritionalRequirementsCalculator()
-          break*/
+                  case "recipesToolBox":
+                    this.toolBoxRecipes = new recipesToolBox(this)
+                    let recipesVariations = this.toolBoxRecipes.calcRecipesVariations()
+                    console.log(`\nVariations Sum`)
+                    console.table(recipesVariations)
+                    break
+                  case "test":
+                    this.algoTest = new algoTest(this,this.args[1])
+                    this.algoTest.initTest()
+                    break
+                  case "nutReq":
+                    this.nutritionalRequirements = new nutritionalRequirementsCalculator()
+                    break*/
         default:
-        console.log(`"${command}" is not a valid command.
+          console.log(`"${command}" is not a valid command.
           `)
         case "--help":
         case "?":
         case "-h":
           this.printHelp()
       }
-      
+
     } catch (err) {
       this.helper.handleErrors(err)
     }
 
   }
-  preprocessInputParams(){
+  preprocessInputParams() {
     this.inputParams.command = process.argv[2]
     this.inputParams.options = process.argv.slice(3)
   }
-  printHelp(){
+  printHelp() {
     let helpMsg = `
 Usage: node index.js <command> <options>
 
@@ -104,9 +124,14 @@ node index.js <-h/--help/?>                                        quick help on
 node index.js client <options>                                     client specific operations
                     -cnr, --calculateNutritionalRequirements       calculate the rutritional requirements for each client
 
-node index.js test                                                 test stuff
+node index.js test <options>                                       test all Planner
+                   -1/-2/-3                                        just testing 1st, 2nd or 3rd Planner
+
 node index.js data <options>                                       manipulate the generated data
-                  -psd, --prepareStatisticalData                   prepare the generated data for further analyses in R`
+                   -1/-2/-3                                        just exporting dateo from 1st, 2nd or 3rd Planner
+                   -psd, --prepareStatisticalData                  prepare the generated data for further analyses in R
+                   --mealsStatiscs                                 get Information about the used meals
+                   --clientsStatistics                             get Information about the used clients`
     console.log(helpMsg)
   }
 }

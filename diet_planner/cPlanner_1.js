@@ -1,37 +1,40 @@
 "use strict"
 
 import {dietPlanner} from "./cPlanner.js"
+import nutritionalValue from "./../src/class/cNutritionalValue.js"
 
 export class dietPlanner_1 extends dietPlanner {
   constructor(client) {
-  	super(client)
-    this.plannerVersion = "baseline"
+    super(client)
+    this.plannerVersion = "diet-planner_1"
   }
   generatePlan(){
   }
   planDay(){
     super.startTimer()
-  	let dayPlan
-  	let gotIt = false
-  	let nutritionalValueRequirement = {
-  		kalories: this.client.daily_kilokalories
-  	}
+    let dayPlan
+    let nutritionalValueRequirement = new nutritionalValue(this.client.dailyKiloCalories)
+    /*console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+    console.log(this.client.id)
+    console.log(nutritionalValueRequirement)
+    console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")*/
     do {
-      //console.log(`do It ${super.getRunningTime()}`)
-  		dayPlan = []
-  		dayPlan.push(this.mealCollection.getRandomBreakfast())
-  		dayPlan.push(this.mealCollection.getRandomSnack())
-  		dayPlan.push(this.mealCollection.getRandomfullMeal())
-  		dayPlan.push(this.mealCollection.getRandomSnack())
-  		dayPlan.push(this.mealCollection.getRandomfullMeal())
-  		if(super.withinTolerance(super.sumUpNutritionalValue(dayPlan), nutritionalValueRequirement)){
+      //console.log(`###########${super.getRunningTime()}`)
+      dayPlan = []
+      this.params.mealDef.forEach(mealDef => {
+        //console.log("mealDef.mealType")
+        //console.log(mealDef.mealType)
+        dayPlan.push(this.mealCollection.getRandomMeal(mealDef.mealType))
+      })
+      
+      if(super.withinTolerance(super.sumUpNutritionalValue(dayPlan), nutritionalValueRequirement)){
         //console.log("did ITTTT")
-        //console.log(dayPlan[1].name)
-        gotIt = true
-  		}
+        //console.log(super.sumUpNutritionalValue(dayPlan).kcalories)
+        break
+      }
 
-    } while(!gotIt && super.isTimeLeft())
-    this.mealPlan.push(dayPlan)
+    //} while(!gotIt)
+    } while(isTimeLeft())
     return dayPlan
   }
   saveOutput(output){

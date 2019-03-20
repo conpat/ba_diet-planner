@@ -8,33 +8,43 @@ export default class data {
   constructor() {
     console.log("start data")
     this.helper = new helper
-    this.dataPath = './diet_planner/results/'
+    this.plannerVersionToExport
+    this.benchmarkDataPath = "./diet_planner/results/"
+    this.rDataPath = "./R/data/"
     this.benchmarkDataRaw = {}
     this.benchmarkData = {}
-    this.prepareBenchmarkData()
-    //this.manipulateBenchmarkData()
   }
+  preparePresetData(dataType, data){
+    this.helper.writeObject2File(`${this.rDataPath}${dataType}.json`, data)
+  }
+  prepareBenchmarkData(plannerVersionToExport = 0){
 
-  prepareBenchmarkData() {
     let data = []
     console.log("parse it")
-    fileSystem.readdirSync(this.dataPath).forEach(plannerVersion => {
+    fileSystem.readdirSync(this.benchmarkDataPath).forEach(plannerVersion => {
+      if(plannerVersion !== plannerVersionToExport && plannerVersionToExport !== 0){
+        return
+      }
+      console.log("----")
       this.helper.defineProperty(this.benchmarkDataRaw, plannerVersion, new Object())
-      fileSystem.readdirSync(`${this.dataPath}${plannerVersion}/performance`).forEach(clientFile => {
-        let clientId = this.parseFileName2ClientID(clientFile.slice(0, -5))
-        let fileContent = fileSystem.readFileSync(`${this.dataPath}${plannerVersion}/performance/${clientFile}`)
+      fileSystem.readdirSync(`${this.benchmarkDataPath}${plannerVersion}/performance`).forEach(clientFile => {
+        if(!clientFile.startsWith("client")){
+          return
+        }
+        let clientID = this.parseFileName2ClientID(clientFile)
+        let fileContent = fileSystem.readFileSync(`${this.benchmarkDataPath}${plannerVersion}/performance/${clientFile}`)
+        //console.log(`${this.benchmarkDataPath}${plannerVersion}/performance/${clientFile}`)
         fileContent = JSON.parse(fileContent)
-        this.helper.defineProperty(this.benchmarkDataRaw[plannerVersion], clientId, fileContent)
+        this.helper.defineProperty(this.benchmarkDataRaw[plannerVersion], clientID, fileContent)
         let tmp = fileContent.map(dataPoint => {
-          return this.dataTemplate(plannerVersion, clientId, dataPoint)
+          return this.dataTemplate(plannerVersion, clientID, dataPoint)
         })
         data = data.concat(tmp)
       })
     })
-    this.helper.writeObject2File("./R/benchmarks.json", data)
+    this.helper.writeObject2File(`${this.rDataPath}benchmarks-${this.createUniqueFileVersion()}.json`, data)
   }
   manipulateBenchmarkData() {
-
     Object.keys(this.benchmarkDataRaw).forEach(plannerVersion => {
       this.helper.defineProperty(this.benchmarkData, plannerVersion, new Object())
       Object.keys(this.benchmarkDataRaw[plannerVersion]).forEach(clientID => {
@@ -51,6 +61,20 @@ export default class data {
     }
   }
   parseFileName2ClientID(fileName) {
-    return parseInt(fileName.slice(-3))
+    return parseInt(fileName.slice(0, -5).slice(-3))
+  }
+  createUniqueFileVersion() {
+    let now = new Date()
+    let secOfDay = (now.getHours() * 3600) + (now.getMinutes() * 60) + now.getSeconds()
+    let dd = now.getDate()
+    let mm = now.getMonth() + 1 //January is 0!
+    let yyyy = now.getFullYear()
+    if (dd < 10) {
+      dd = "0" + dd
+    }
+    if (mm < 10) {
+      mm = "0" + mm
+    }
+    return `${yyyy}-${mm}-${dd}-${secOfDay}`
   }
 }

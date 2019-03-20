@@ -50,6 +50,10 @@ export default class helper {
     return array
   }
 
+  getRandomPosition(lengthOfArray) {
+    return Math.floor(Math.random() * lengthOfArray)
+  }
+
   digitToBoolean(value) {
     return !!+value
   }
@@ -81,13 +85,12 @@ export default class helper {
   }*/
   writeObject2File(filePath, data) {
     return new Promise((resolve, reject) => {
-      fileSystem.writeFile(filePath, JSON.stringify(data, null, "  "), 'utf8', (err) => {
+      fileSystem.writeFile(filePath, JSON.stringify(data, null, "  "), "utf8", (err) => {
         if (err) {
-          throw err;
+          throw err
           reject(err)
         }
-        console.log(`File Completed`)
-        console.log('File: ' + filePath);
+        console.log("File Completed: " + filePath)
         resolve()
       })
     })

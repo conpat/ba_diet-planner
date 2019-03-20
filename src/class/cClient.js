@@ -33,12 +33,11 @@ export default class client {
     this.NEAT = this.calcNEAT(this.RMR, this.jobPal)
     this.TEA = this.calcTEA(this.sportActivities, this.lbm)
 
-    this.daily_kilokalories = (this.RMR + this.NEAT + this.TEA) * this.goal_factor
-    this.daily_protein_in_g = this.calcProtein(this.weightInKg, this.overallGoal, ((this.NEAT + this.TEA) / this.RMR), this.isMale)
-    this.daily_fat_in_g = this.calcFat(this.lbm)
-    this.daily_carbohydrate_in_g = this.calcCarbs(this.daily_kilokalories, this.daily_protein_in_g, this.daily_fat_in_g)
-    this.daily_fiber_in_g = this.calcFibre(this.daily_kilokalories)
-    this.daily_sugar_in_g = this.calcSugar(this.daily_carbohydrate_in_g)
+    this.dailyKiloCalories = (this.RMR + this.NEAT + this.TEA) * this.goal_factor
+    this.dailyProteinInG = this.calcProtein(this.weightInKg, this.overallGoal, ((this.NEAT + this.TEA) / this.RMR), this.isMale)
+    this.dailyFatInG = this.calcFat(this.lbm)
+    this.dailyCarbsInG = this.calcCarbs(this.dailyKiloCalories, this.dailyProteinInG, this.dailyFatInG)
+    this.dailyFibreInG = this.calcFibre(this.dailyKiloCalories)
   }
 
   calcRMR(weight, height, isMale, age) {
@@ -109,10 +108,6 @@ export default class client {
 
   calcFibre(dailyKilokalories) {
     return dailyKilokalories / 100
-  }
-
-  calcSugar(dailyCarbs) {
-    return dailyCarbs * 0.3
   }
 
   // calculating the age in years
