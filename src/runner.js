@@ -6,13 +6,12 @@
  */
 
 import { PerformanceObserver, performance } from "perf_hooks"
-import helper from "./class/cHelper.js"
+import Helper from "./class/cHelper.js"
 
-export default class runner {
-  constructor (title, instance, iterations){
-    let test = "test"
-    this.helper       = new helper()
-    this.title        = title
+export default class Runner {
+  constructor (instance, iterations){
+    this.helper       = new Helper()
+    //this.title        = title
     // It is necessary to deliver the whole class instance, in order to call the function without context issues
     this.dietPlanner  = instance
     this.iterartions  = iterations

@@ -2,7 +2,7 @@
 import util from 'util'
 import fileSystem from 'fs'
 
-export default class helper {
+export default class Helper {
   constructor(debug = true) {
     this.debug = debug
     this.debug || console.log(`Construct Helper`) //1

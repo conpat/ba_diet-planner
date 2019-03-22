@@ -1,5 +1,5 @@
 "use strict"
-export default class client {
+export default class Client {
   constructor(clientRaw) {
     // manipulating the ClientID to be a string with 3 digits. Mainly to be more readable.
     this.id = clientRaw.id.toString().padStart(3, '0')

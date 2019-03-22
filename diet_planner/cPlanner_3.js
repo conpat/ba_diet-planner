@@ -1,26 +1,26 @@
 "use strict"
 
-import {dietPlanner} from "./cPlanner.js"
-import nutritionalValue from "./../src/class/cNutritionalValue.js"
+import {DietPlanner} from "./cPlanner.js"
+import NutritionalValue from "./../src/class/cNutritionalValue.js"
 
-export class dietPlanner_3 extends dietPlanner {
-  constructor(client) {
-    super(client)
-    this.plannerVersion = "diet-planner_3"
+export class DietPlanner_3 extends DietPlanner {
+  constructor(client, dayPlanDefinition, timeOut, dailyPlanTolerance) {
+    super("diet-planner_3", client, dayPlanDefinition, timeOut, dailyPlanTolerance)
   }
-  generatePlan(){
+  getVersion(){
+    console.log("fuckit")
   }
   planDay() {
     super.startTimer()
     //console.log("Start Day ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     //console.log(this.client.id)
     //console.log(`client nutritions: kalories: ${this.client.dailyKiloCalories}`)
-    let dayPlan = new Array(this.params.mealDef.length)
+    let dayPlan = new Array(this.dayPlanDefinition.length)
     // get an randomized order of the differen meals of the day
-    let rndIndexArray = this.helper.getRandomIndexArray(this.params.mealDef.length)
+    let rndIndexArray = this.helper.getRandomIndexArray(this.dayPlanDefinition.length)
 
     // declare the remaining nutritional values to plan for this day
-    let remainingNutritionalValue = new nutritionalValue(
+    let remainingNutritionalValue = new NutritionalValue(
       this.client.dailyKiloCalories, 
       this.client.dailyProteinInG,
       this.client.dailyFatInG,
@@ -31,7 +31,7 @@ export class dietPlanner_3 extends dietPlanner {
     rndIndexArray.forEach((rndIndex, i) => {
       //console.log("Start MealDef~~~~~~~~~~~~~~~~~~")
       // get the meal definition for this iteration
-      let mealDef = this.params.mealDef[rndIndex]
+      let mealDef = this.dayPlanDefinition[rndIndex]
       // set the kcal for this iteration
       let kcal = remainingNutritionalValue.kcalories / remainingPercentage * mealDef.dailyKaloriesPercentage
       if(!(kcal > 0)) {
@@ -54,7 +54,7 @@ export class dietPlanner_3 extends dietPlanner {
           console.log(tolerance)
         }
         return(Math.abs(1 - (meal.total_kcal/kcal)) < tolerance)
-      }, kcal, this.params.dailyPlanTolerance)
+      }, kcal, this.dailyPlanTolerance)
 
       if (this.mealCollection.currentPool.length <= 0) {
         //console.log("######################")
@@ -65,7 +65,7 @@ export class dietPlanner_3 extends dietPlanner {
 
       //create an random nutritional value vector
       let macros
-      if (i === this.params.mealDef.length - 1) { // last meal uses all of remaining vector
+      if (i === this.dayPlanDefinition.length - 1) { // last meal uses all of remaining vector
         //console.log("last mealDef++++++++++")
         macros = remainingNutritionalValue
       } else macros = remainingNutritionalValue.getRandomSplitMacros(2)[0]

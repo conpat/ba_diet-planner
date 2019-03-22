@@ -2,22 +2,23 @@
 
 import { PerformanceObserver, performance } from "perf_hooks"
 import _ from "lodash"
-import helper from "./../src/class/cHelper.js"
-import {plannerParams} from "./../data/planner_parameters.js"
-import mealCollection from "./../src/class/cMealCollection.js"
-import nutritionalValue from "./../src/class/cNutritionalValue.js"
+import {configParameters} from "./../data/config.js"
+import Helper from "./../src/class/cHelper.js"
+import MealCollection from "./../src/class/cMealCollection.js"
+import NutritionalValue from "./../src/class/cNutritionalValue.js"
 
-export class dietPlanner {
-  constructor(client) {
-    this.helper = new helper()
-    this.params = plannerParams
-    this.client = client
-    this.mealCollection = new mealCollection
+export class DietPlanner {
+  constructor(plannerVersion, client, dayPlanDefinition, timeOut, dailyPlanTolerance) {
+    this.helper             = new Helper()
+    this.plannerVersion     = plannerVersion
+    this.client             = client
+    this.dayPlanDefTyp      = configParameters.dayPlanDefType(dayPlanDefinition)
+    this.dayPlanDefinition  = dayPlanDefinition
+    this.dailyPlanTolerance = dailyPlanTolerance
+    this.mealCollection     = new MealCollection
+    this.timeOut            = timeOut
     this.timerStart
-    this.timeOuts = 0
-  }
-  generatePlan(){
-    console.log("super.generatePlan")
+    this.timeOuts           = 0
   }
   startTimer(){
     this.timerStart = performance.now()
@@ -26,15 +27,15 @@ export class dietPlanner {
     return performance.now() - this.timerStart
   }
   isTimeLeft(){
-    if(this.params.timeoutPerDay >= this.getRunningTime()){
+    if(this.timeOut >= this.getRunningTime()){
       return true
     }
     this.timeOuts++
-    console.log("timeout")
+    console.log(`timeout: ${this.getRunningTime()}`)
     return false
   }
   sumUpNutritionalValue(mealPlan){
-    let nV = new nutritionalValue(0, 0, 0, 0, 0)
+    let nV = new NutritionalValue(0, 0, 0, 0, 0)
     return mealPlan.reduce((nV, meal) => {
       nV.kcalories += meal.total_kcal
       nV.protein += meal.total_protein
@@ -51,13 +52,14 @@ export class dietPlanner {
         if(requiredValue < 0) throw "ERROR: this should not be!"
         return true
       }
-      return (Math.abs(1 - (nutritionalValues[nutrient] / requiredValue ))) <= this.params.dailyPlanTolerance
+      return (Math.abs(1 - (nutritionalValues[nutrient] / requiredValue ))) <= this.dailyPlanTolerance
     })
   }
   saveOutput(plannerVersion, output){
     //this.helper.makeDir(`./diet_planner/results/${plannerVersion}/meal_plan`)
-    
-    this.helper.writeObject2File(`./diet_planner/results/${plannerVersion}/meal_plan/client${this.client.id}-mealplan.json`, this.prepareMealPlanOutput(output))
+
+
+    this.helper.writeObject2File(`${configParameters.benchmarkResultsPath}${this.plannerVersion}/${this.dayPlanDefTyp}/meal_plan/client${this.client.id}.json`, this.prepareMealPlanOutput(output))
   }
   prepareMealPlanOutput(output){
     let mealPlanOutput = {client: this.client, recurrence: {}, mealPlanValues: []}

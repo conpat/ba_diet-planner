@@ -1,67 +1,153 @@
 "use strict"
 
-import helper from './class/cHelper.js'
-import fileSystem from 'fs'
+import FileSystem from 'fs'
+import Helper from './class/cHelper.js'
 import clientRaw from "./../data/client.json"
+import { configParameters } from "./../data/config.js"
 
 export default class data {
   constructor() {
     console.log("start data")
-    this.helper = new helper
-    this.plannerVersionToExport
-    this.benchmarkDataPath = "./diet_planner/results/"
-    this.rDataPath = "./R/data/"
-    this.benchmarkDataRaw = {}
-    this.benchmarkData = {}
+    this.helper = new Helper
+    this.performanceData = []
+    this.nutritionalValuesData = []
+    this.mealVarietyData = []
   }
-  preparePresetData(dataType, data){
+  writePresetDataToFile(dataType, data) {
     this.helper.writeObject2File(`${this.rDataPath}${dataType}.json`, data)
   }
-  prepareBenchmarkData(plannerVersionToExport = 0){
-
-    let data = []
+  prepareBenchmarkData(plannerVersionToExport = 0) {
     console.log("parse it")
-    fileSystem.readdirSync(this.benchmarkDataPath).forEach(plannerVersion => {
-      if(plannerVersion !== plannerVersionToExport && plannerVersionToExport !== 0){
+
+    //Loop each dietPlannerVersion directory
+    FileSystem.readdirSync(configParameters.benchmarkResultsPath).forEach(plannerVersion => {
+      console.log(`## Prepare for planner version: ${plannerVersion}`)
+      /*if(plannerVersion !== plannerVersionToExport && plannerVersionToExport !== 0){
         return
-      }
-      console.log("----")
-      this.helper.defineProperty(this.benchmarkDataRaw, plannerVersion, new Object())
-      fileSystem.readdirSync(`${this.benchmarkDataPath}${plannerVersion}/performance`).forEach(clientFile => {
-        if(!clientFile.startsWith("client")){
-          return
-        }
-        let clientID = this.parseFileName2ClientID(clientFile)
-        let fileContent = fileSystem.readFileSync(`${this.benchmarkDataPath}${plannerVersion}/performance/${clientFile}`)
-        //console.log(`${this.benchmarkDataPath}${plannerVersion}/performance/${clientFile}`)
-        fileContent = JSON.parse(fileContent)
-        this.helper.defineProperty(this.benchmarkDataRaw[plannerVersion], clientID, fileContent)
-        let tmp = fileContent.map(dataPoint => {
-          return this.dataTemplate(plannerVersion, clientID, dataPoint)
+      }*/
+      //Loop each dayPlanDefinitionType directory
+      const plannerVersionPath = `${configParameters.benchmarkResultsPath}${plannerVersion}`
+      FileSystem.readdirSync(plannerVersionPath).forEach(dayPlanDefType => {
+        console.log(`#### Prepare for day plan definition: ${dayPlanDefType}`)
+        const dayPlanDefTypePath = `${plannerVersionPath}/${dayPlanDefType}/`
+        const performancePath = `${dayPlanDefTypePath}performance/`
+        const mealPlanPath = `${dayPlanDefTypePath}meal_plan/`
+        //Loop each performance directory
+        /*FileSystem.readdirSync(performancePath).forEach(clientFile => {
+          if (clientFile.startsWith("client")) {
+            this.prepareClientFileForPerformance(performancePath, clientFile, plannerVersion, dayPlanDefType)
+          }
+        })*/
+        //Loop each mealPlan directory
+        FileSystem.readdirSync(mealPlanPath).forEach(clientFile => {
+          if (clientFile.startsWith("client")) {
+            this.prepareClientFileForMealPlan(mealPlanPath, clientFile, plannerVersion, dayPlanDefType)
+          }
         })
-        data = data.concat(tmp)
       })
     })
-    this.helper.writeObject2File(`${this.rDataPath}benchmarks-${this.createUniqueFileVersion()}.json`, data)
+    this.writePreparedDataToFiles()
   }
-  manipulateBenchmarkData() {
-    Object.keys(this.benchmarkDataRaw).forEach(plannerVersion => {
-      this.helper.defineProperty(this.benchmarkData, plannerVersion, new Object())
-      Object.keys(this.benchmarkDataRaw[plannerVersion]).forEach(clientID => {
-        let avg = Math.avg(this.benchmarkDataRaw[plannerVersion][clientID])
-        console.log(avg)
-      })
+  writePreparedDataToFiles() {
+
+    this.helper.writeObject2File(`${configParameters.statisticalDataPath}benchmark-performance.json`, this.performanceData)
+    this.helper.writeObject2File(`${configParameters.statisticalDataPath}benchmark-nutritional_values.json`, this.nutritionalValuesData)
+    this.helper.writeObject2File(`${configParameters.statisticalDataPath}benchmark-meal_variety.json`, this.mealVarietyData)
+  }
+  prepareClientFileForPerformance(path, clientFile, plannerVersion, dayPlanDefType) {
+    let clientID = this.parseFileName2ClientID(clientFile)
+    let fileContent = FileSystem.readFileSync(`${path}${clientFile}`)
+    if(!(fileContent.length > 0))
+      return
+    fileContent = JSON.parse(fileContent)
+    console.log(`###### PERFORMANCE ${plannerVersion} - ${dayPlanDefType} - ${clientFile}`)
+    //Sum up every duration measured
+    let timeSum = fileContent.reduce((timeSum, dataPoint) => {
+      return timeSum + dataPoint
     })
+    let timeMean = timeSum / fileContent.length //calculate the mean of all measured durations
+    this.performanceData.push(this.createPerformanceDataPoint(plannerVersion, dayPlanDefType, clientID, timeMean))
   }
-  dataTemplate(plannerVersion, clientId, time) {
+  prepareClientFileForMealPlan(path, clientFile, plannerVersion, dayPlanDefType) {
+    let clientID = this.parseFileName2ClientID(clientFile)
+    let fileContent = FileSystem.readFileSync(`${path}${clientFile}`)
+    if(!(fileContent.length > 0))
+      return
+    console.log(`###### MEALPLAN ${plannerVersion} - ${dayPlanDefType} - ${clientFile}`)
+    fileContent = JSON.parse(fileContent)
+    this.prepareNutritionalValues(fileContent.mealPlanValues, clientID, plannerVersion, dayPlanDefType)
+    this.prepareMealVariety(fileContent.recurrence[0], clientID, plannerVersion, dayPlanDefType)
+  }
+  prepareNutritionalValues(mealPlanValues, clientID, plannerVersion, dayPlanDefType) {
+    let mealPlanDivergenceSum = this.sumUpMealPlanDivergence(mealPlanValues)
+    this.nutritionalValuesData.push(this.createNutritionalValueDataPoint(plannerVersion, dayPlanDefType, clientID, mealPlanDivergenceSum))
+  }
+  prepareMealVariety(mealRecurrence, clientID, plannerVersion, dayPlanDefType) {
+    let mealCount = 0
+    let dishCount = 0
+    Object.keys(mealRecurrence).forEach(mealID => {
+      mealCount += mealRecurrence[mealID]
+      dishCount++
+    })
+    this.mealVarietyData.push(this.createMealVarietyDataPoint(plannerVersion, dayPlanDefType, clientID, mealCount, dishCount))
+  }
+  sumUpMealPlanDivergence(mealPlanValues) {
+    let mealPlanDivergenceSum = {
+      kCalories: 0,
+      caloriesPercentage: 0,
+      proteinInG: 0,
+      proteinPercentage: 0,
+      fatInG: 0,
+      fatPercentage: 0,
+      carbsInG: 0,
+      carbsPercentage: 0,
+      fibreInG: 0,
+      firbrePercentage: 0,
+    }
+    mealPlanDivergenceSum = mealPlanValues.reduce((divergence, mealValues) => {
+      Object.keys(divergence).forEach(value => {
+        divergence[value] += mealValues.divergence[value]
+      })
+      return divergence
+    }, mealPlanDivergenceSum)
+    return mealPlanDivergenceSum
+  }
+  createPerformanceDataPoint(plannerVersion, dayPlanDefType, clientId, timeMean) {
     return {
       plannerVersion: plannerVersion,
-      clientID: clientId,
-      time: time
+      dayPlanDefType: dayPlanDefType,
+      clientID:       clientId,
+      timeMean:       timeMean
+    }
+  }
+  createNutritionalValueDataPoint(plannerVersion, dayPlanDefType, clientId, mealPlanDivergenceSum) {
+    return {
+      plannerVersion:     plannerVersion,
+      dayPlanDefType:     dayPlanDefType,
+      clientID:           clientId,
+      kCalories:          mealPlanDivergenceSum.kCalories,
+      caloriesPercentage: mealPlanDivergenceSum.caloriesPercentage,
+      proteinInG:         mealPlanDivergenceSum.proteinInG,
+      proteinPercentage:  mealPlanDivergenceSum.proteinPercentage,
+      fatInG:             mealPlanDivergenceSum.fatInG,
+      fatPercentage:      mealPlanDivergenceSum.fatPercentage,
+      carbsInG:           mealPlanDivergenceSum.carbsInG,
+      carbsPercentage:    mealPlanDivergenceSum.carbsPercentage,
+      fibreInG:           mealPlanDivergenceSum.fibreInG,
+      firbrePercentage:   mealPlanDivergenceSum.firbrePercentage,
+    }
+  }
+  createMealVarietyDataPoint(plannerVersion, dayPlanDefType, clientId, mealCount, dishCount) {
+    return {
+      plannerVersion: plannerVersion,
+      dayPlanDefType: dayPlanDefType,
+      clientID:       clientId,
+      mealCount:      mealCount,
+      dishCount:      dishCount,
     }
   }
   parseFileName2ClientID(fileName) {
-    return parseInt(fileName.slice(0, -5).slice(-3))
+    return parseInt(fileName.slice(6,9))
   }
   createUniqueFileVersion() {
     let now = new Date()

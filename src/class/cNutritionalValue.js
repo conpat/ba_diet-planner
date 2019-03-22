@@ -1,9 +1,9 @@
-import cosSimilarity from "cos-similarity"
-import helper from "./cHelper.js"
+import CosSimilarity from "cos-similarity"
+import Helper from "./cHelper.js"
 
 export default class nutritionalValue {
   constructor(kcal, p, fa, c, fi) {
-    this.helper = new helper()
+    this.helper = new Helper()
     this.kcalories = kcal
     this.protein = p
     this.fat = fa
@@ -43,7 +43,7 @@ export default class nutritionalValue {
     return result
   }
   cosineSimilarity(comparingMacros) {
-    return cosSimilarity(
+    return CosSimilarity(
       [this.protein, this.fat, this.carbs],
       [comparingMacros.protein, comparingMacros.fat, comparingMacros.carbs])
   }

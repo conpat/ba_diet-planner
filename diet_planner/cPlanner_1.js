@@ -1,19 +1,19 @@
 "use strict"
 
-import {dietPlanner} from "./cPlanner.js"
-import nutritionalValue from "./../src/class/cNutritionalValue.js"
+import {DietPlanner} from "./cPlanner.js"
+import NutritionalValue from "./../src/class/cNutritionalValue.js"
 
-export class dietPlanner_1 extends dietPlanner {
-  constructor(client) {
-    super(client)
-    this.plannerVersion = "diet-planner_1"
+export class DietPlanner_1 extends DietPlanner {
+  constructor(client, dayPlanDefinition, timeOut, dailyPlanTolerance) {
+    super("diet-planner_1", client, dayPlanDefinition, timeOut, dailyPlanTolerance)
   }
   generatePlan(){
   }
   planDay(){
+    //console.log("alöksdlkasdjflkasdjflkasjf")
     super.startTimer()
     let dayPlan
-    let nutritionalValueRequirement = new nutritionalValue(this.client.dailyKiloCalories)
+    let nutritionalValueRequirement = new NutritionalValue(this.client.dailyKiloCalories)
     /*console.log("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     console.log(this.client.id)
     console.log(nutritionalValueRequirement)
@@ -21,7 +21,7 @@ export class dietPlanner_1 extends dietPlanner {
     do {
       //console.log(`###########${super.getRunningTime()}`)
       dayPlan = []
-      this.params.mealDef.forEach(mealDef => {
+      this.dayPlanDefinition.forEach(mealDef => {
         //console.log("mealDef.mealType")
         //console.log(mealDef.mealType)
         dayPlan.push(this.mealCollection.getRandomMeal(mealDef.mealType))
@@ -34,7 +34,7 @@ export class dietPlanner_1 extends dietPlanner {
       }
 
     //} while(!gotIt)
-    } while(isTimeLeft())
+    } while(super.isTimeLeft())
     return dayPlan
   }
   saveOutput(output){

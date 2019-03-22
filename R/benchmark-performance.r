@@ -6,8 +6,7 @@
 
 library(jsonlite)
 
-benchmarkData1 = fromJSON("benchmarks.json")
-benchmarkData2 = fromJSON("benchmarks-2019-03-17-572.json")
+performance = fromJSON("./data/benchmark-performance.json")
 
 png("diet_planner-boxplot_2.png")
 boxplot(time~plannerVersion,
@@ -66,38 +65,3 @@ lines(density(X, adjust=2), lty="dotted", col="darkgreen", lwd=2)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-png("recipes_allergies-boxplot.png")
-boxplot(avg_recipes_per_day~user_allergies,
-        data = jsonData,
-        main = "Recepievariance",
-        xlab = "recipes per day",
-        ylim = c(0,3),
-        horizontal = TRUE,
-        las = 2,
-        pars = list(par(mar=c(5,14,4,2))))
-dev.off()
-
-png("recipes_diet_type-boxplot.png")
-boxplot(avg_recipes_per_day~user_diet_type,
-        data = jsonData,
-        main = "Recepievariance",
-        xlab = "recipes per day",
-        ylim = c(0,3),
-        horizontal = TRUE,
-        las = 2,
-        pars = list(par(mar=c(5,14,4,2))))
-dev.off()

@@ -55,19 +55,23 @@ class main {
           } else if (options.includes("-3")) {
             bench.testDietPlanner_3()
           } else {
+            bench.testDietPlanner()
+            bench.logElepsedTime()
+            /*
             bench.testDietPlanner_3()
             bench.testDietPlanner_1()
             bench.testDietPlanner_2()
+            */
           }
           break
         case "data":
-          const data = new Data()
+          let data = new Data()
           if (options.includes("--mealsStatiscs")) {
             let mealCollection = new MealCollection()
-            data.preparePresetData("mealsData", mealCollection.getDataForStatisticalAnalAnalyses())
+            data.writePresetDataToFile("mealsData", mealCollection.getDataForStatisticalAnalAnalyses())
           } else if (options.includes("--clientsStatisc")) {
             this.clients.calculateNutritionalRequirements()
-            data.preparePresetData("clientsData", this.clients.getDataForStatisticalAnalAnalyses())
+            data.writePresetDataToFile("clientsData", this.clients.getDataForStatisticalAnalAnalyses())
           } else if (options.includes("-1")) {
             data.prepareBenchmarkData("diet-planner_1")
           } else if (options.includes("-2")) {
@@ -78,22 +82,6 @@ class main {
             data.prepareBenchmarkData()
           } else this.printHelp()
           break
-          /*
-
-
-                  case "recipesToolBox":
-                    this.toolBoxRecipes = new recipesToolBox(this)
-                    let recipesVariations = this.toolBoxRecipes.calcRecipesVariations()
-                    console.log(`\nVariations Sum`)
-                    console.table(recipesVariations)
-                    break
-                  case "test":
-                    this.algoTest = new algoTest(this,this.args[1])
-                    this.algoTest.initTest()
-                    break
-                  case "nutReq":
-                    this.nutritionalRequirements = new nutritionalRequirementsCalculator()
-                    break*/
         default:
           console.log(`"${command}" is not a valid command.
           `)

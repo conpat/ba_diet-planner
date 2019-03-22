@@ -1,6 +1,5 @@
 node_modules/
-data/meals_full.json
-diet_planner/results/*/*/*.json
-.eslintrc.json
+diet_planner/results/*/*/*/*.json
 R/.RData
 R/.Rhistory
+.eslintrc.json

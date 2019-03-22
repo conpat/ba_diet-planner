@@ -1,11 +1,11 @@
 "use strict"
-import helper from './../class/cHelper.js'
-import nutritionalValue from "./../class/cNutritionalValue.js"
+import Helper from './../class/cHelper.js'
+import NutritionalValue from "./../class/cNutritionalValue.js"
 import meals from "./../../data/meals.json"
 
-export default class mealCollection {
+export default class MealCollection {
   constructor() {
-    this.helper = new helper()
+    this.helper = new Helper()
 
     this.snacks = meals.filter(meal => meal.is_snack && !meal.is_cheatmeal)
     this.breakfasts = meals.filter(meal => meal.is_breakfast && !meal.is_cheatmeal)
@@ -60,7 +60,7 @@ export default class mealCollection {
     let rndIndexArray = this.helper.getRandomIndexArray(this.currentPool.length)
 
     for (let rndIndex of rndIndexArray) {
-      let rndMealNV = new nutritionalValue(
+      let rndMealNV = new NutritionalValue(
         this.currentPool[rndIndex].total_kcal,
         this.currentPool[rndIndex].total_protein,
         this.currentPool[rndIndex].total_fat,
@@ -77,7 +77,7 @@ export default class mealCollection {
         break
       } else if (!planner.isTimeLeft()) {
         console.log("timeOut!!!")
-        //break
+        break
       }
     }
 

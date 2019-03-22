@@ -1,18 +1,18 @@
 "use strict"
 
-import client from "./class/cClient.js"
+import Client from "./class/cClient.js"
 
 import clientsRaw from "./../data/clients_full.json"
 import clientRaw from "./../data/client.json"
 
-export default class clients {
+export default class Clients {
   constructor(helper) {
     this.helper = helper
 
     this.clients = []
   }
   calculateNutritionalRequirements() {
-    this.clients = clientsRaw.map(clientRaw => new client(clientRaw))
+    this.clients = clientsRaw.map(clientRaw => new Client(clientRaw))
   }
   getDataForStatisticalAnalAnalyses(){
     return this.clients.map(client => {

@@ -6,8 +6,7 @@
 
 library(jsonlite)
 
-benchmarkData1 = fromJSON("benchmarks.json")
-benchmarkData2 = fromJSON("benchmarks-2019-03-17-572.json")
+nutritionalValues = fromJSON("./data/benchmark-nutritional_values.json")
 
 png("diet_planner-boxplot_2.png")
 boxplot(time~plannerVersion,
