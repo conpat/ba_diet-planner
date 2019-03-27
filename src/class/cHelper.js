@@ -88,16 +88,8 @@ export default class Helper {
     }
   }*/
   writeObject2File(filePath, data) {
-    return new Promise((resolve, reject) => {
-      fileSystem.writeFile(filePath, JSON.stringify(data, null, "  "), "utf8", (err) => {
-        if (err) {
-          throw err
-          reject(err)
-        }
-        console.log("File Completed: " + filePath)
-        resolve()
-      })
-    })
+    fileSystem.writeFileSync(filePath, JSON.stringify(data, null, "  "), "utf8")
+    console.log("File Completed: " + filePath)
   }
 /*
   // https://jack.ofspades.com/es6-const-not-immutable/index.html
