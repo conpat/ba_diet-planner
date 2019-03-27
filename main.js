@@ -41,7 +41,7 @@ class main {
       switch (command) {
         case "client":
           if (options.includes("-cnr") || options.includes("--calculateNutritionalRequirements")) {
-            this.clients.calculateNutritionalRequirements(this.helper)
+            this.clients.calculateNutritionalRequirements()
           } else this.printHelp()
           break
         case "test":
@@ -79,9 +79,7 @@ class main {
             data.prepareBenchmarkData("diet-planner_2")
           } else if (options.includes("-3")) {
             data.prepareBenchmarkData("diet-planner_3")
-          } else if (options.includes("-psd") || options.includes("--prepareStatisticalData")) {
-            data.prepareBenchmarkData()
-          } else this.printHelp()
+          } else data.prepareBenchmarkData()
           break
         case "debug":
           break
@@ -118,9 +116,8 @@ node index.js client <options>                                     client specif
 node index.js test <options>                                       test all Planner
                    -1/-2/-3                                        just testing 1st, 2nd or 3rd Planner
 
-node index.js data <options>                                       manipulate the generated data
-                   -1/-2/-3                                        just exporting dateo from 1st, 2nd or 3rd Planner
-                   -psd, --prepareStatisticalData                  prepare the generated data for further analyses in R
+node index.js data <options>                                       prepare the generated data for further analyses in R
+                   -1/-2/-3                                        just prepare data from 1st, 2nd or 3rd Planner
                    --mealsStatiscs                                 get Information about the used meals
                    --clientsStatistics                             get Information about the used clients`
     console.log(helpMsg)
