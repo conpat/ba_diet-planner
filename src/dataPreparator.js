@@ -33,11 +33,11 @@ export default class data {
         const performancePath = `${dayPlanDefTypePath}performance/`
         const mealPlanPath = `${dayPlanDefTypePath}meal_plan/`
         //Loop each performance directory
-        /*FileSystem.readdirSync(performancePath).forEach(clientFile => {
+        FileSystem.readdirSync(performancePath).forEach(clientFile => {
           if (clientFile.startsWith("client")) {
             this.prepareClientFileForPerformance(performancePath, clientFile, plannerVersion, dayPlanDefType)
           }
-        })*/
+        })
         //Loop each mealPlan directory
         FileSystem.readdirSync(mealPlanPath).forEach(clientFile => {
           if (clientFile.startsWith("client")) {
@@ -49,7 +49,6 @@ export default class data {
     this.writePreparedDataToFiles()
   }
   writePreparedDataToFiles() {
-
     this.helper.writeObject2File(`${configParameters.statisticalDataPath}benchmark-performance.json`, this.performanceData)
     this.helper.writeObject2File(`${configParameters.statisticalDataPath}benchmark-nutritional_values.json`, this.nutritionalValuesData)
     this.helper.writeObject2File(`${configParameters.statisticalDataPath}benchmark-meal_variety.json`, this.mealVarietyData)
@@ -85,11 +84,14 @@ export default class data {
   prepareMealVariety(mealRecurrence, clientID, plannerVersion, dayPlanDefType) {
     let mealCount = 0
     let dishCount = 0
+    let quotient  = 0
     Object.keys(mealRecurrence).forEach(mealID => {
       mealCount += mealRecurrence[mealID]
       dishCount++
     })
-    this.mealVarietyData.push(this.createMealVarietyDataPoint(plannerVersion, dayPlanDefType, clientID, mealCount, dishCount))
+    quotient = dishCount / mealCount
+
+    this.mealVarietyData.push(this.createMealVarietyDataPoint(plannerVersion, dayPlanDefType, clientID, mealCount, dishCount, quotient))
   }
   sumUpMealPlanDivergence(mealPlanValues) {
     let mealPlanDivergenceSum = {
@@ -114,7 +116,7 @@ export default class data {
   }
   createPerformanceDataPoint(plannerVersion, dayPlanDefType, clientId, timeMean) {
     return {
-      plannerVersion: plannerVersion,
+      plannerVersion: plannerVersion.slice(-1),
       dayPlanDefType: dayPlanDefType,
       clientID:       clientId,
       timeMean:       timeMean
@@ -122,7 +124,7 @@ export default class data {
   }
   createNutritionalValueDataPoint(plannerVersion, dayPlanDefType, clientId, mealPlanDivergenceSum) {
     return {
-      plannerVersion:     plannerVersion,
+      plannerVersion:     plannerVersion.slice(-1),
       dayPlanDefType:     dayPlanDefType,
       clientID:           clientId,
       kCalories:          mealPlanDivergenceSum.kCalories,
@@ -137,13 +139,14 @@ export default class data {
       firbrePercentage:   mealPlanDivergenceSum.firbrePercentage,
     }
   }
-  createMealVarietyDataPoint(plannerVersion, dayPlanDefType, clientId, mealCount, dishCount) {
+  createMealVarietyDataPoint(plannerVersion, dayPlanDefType, clientId, mealCount, dishCount, quotient) {
     return {
-      plannerVersion: plannerVersion,
+      plannerVersion: plannerVersion.slice(-1),
       dayPlanDefType: dayPlanDefType,
       clientID:       clientId,
       mealCount:      mealCount,
       dishCount:      dishCount,
+      quotient:       quotient,
     }
   }
   parseFileName2ClientID(fileName) {
