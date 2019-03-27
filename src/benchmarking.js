@@ -30,11 +30,13 @@ export default class Benchmarking {
   logElepsedTime(){
     console.log(`~~~~Time: ${this.getRunningTime(1000)}~~~~`)
   }
-  testDietPlanner(){
+  testDietPlanner(plannerVersionToTest = 0){
     configParameters.dietPlannerVersions.forEach((dietPlanner, i) => {
-      console.log(`## Start Benchmark with Planner: ${i}`)
+      if((i+1) !== plannerVersionToTest && plannerVersionToTest !== 0)
+        return
+      console.log(`## Start Benchmark with Planner: ${i + 1}`)
       configParameters.dayPlanDefinitions.forEach(dayPlanDefinition => {
-        console.log(`#### Start ${dietPlanner.plannerVersion} with dayPlanDefinition: ${configParameters.dayPlanDefType(dayPlanDefinition)}`)
+        console.log(`#### Start dietPlanner_${i + 1} with dayPlanDefinition: ${configParameters.dayPlanDefType(dayPlanDefinition)}`)
         let dietPlanners = []
         let benchmarks = []
         this.clients.forEach(client => {

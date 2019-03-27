@@ -5,6 +5,7 @@ import Clients from "./src/clients.js"
 import Benchmarking from "./src/benchmarking.js"
 import Data from "./src/dataPreparator.js"
 import MealCollection from "./src/class/cMealCollection.js"
+import NutritionalValue from "./src/class/cNutritionalValue.js"
 import _ from "lodash"
 
 //global extension of the standard Math Object
@@ -49,20 +50,20 @@ class main {
 
           let bench = new Benchmarking(this.clients.clients)
           if (options.includes("-1")) {
-            bench.testDietPlanner_1()
+            bench.testDietPlanner(1)
           } else if (options.includes("-2")) {
-            bench.testDietPlanner_2()
+            bench.testDietPlanner(2)
           } else if (options.includes("-3")) {
-            bench.testDietPlanner_3()
+            bench.testDietPlanner(3)
           } else {
             bench.testDietPlanner()
-            bench.logElepsedTime()
             /*
             bench.testDietPlanner_3()
             bench.testDietPlanner_1()
             bench.testDietPlanner_2()
             */
           }
+          bench.logElepsedTime()
           break
         case "data":
           let data = new Data()
@@ -81,6 +82,8 @@ class main {
           } else if (options.includes("-psd") || options.includes("--prepareStatisticalData")) {
             data.prepareBenchmarkData()
           } else this.printHelp()
+          break
+        case "debug":
           break
         default:
           console.log(`"${command}" is not a valid command.
