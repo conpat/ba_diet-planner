@@ -1,6 +1,10 @@
 "use strict"
 export default class Client {
   constructor(clientRaw) {
+    this.kcalPerGProtein = 4.1
+    this.kcalPerGCarb = 4.1
+    this.kcalPerGFat = 9.3
+
     // manipulating the ClientID to be a string with 3 digits. Mainly to be more readable.
     this.id = clientRaw.id.toString().padStart(3, '0')
     this.isMale = clientRaw.is_male
@@ -35,7 +39,7 @@ export default class Client {
 
     this.dailyKiloCalories = (this.RMR + this.NEAT + this.TEA) * this.goal_factor
     this.dailyProteinInG = this.calcProtein(this.weightInKg, this.overallGoal, ((this.NEAT + this.TEA) / this.RMR), this.isMale)
-    this.dailyFatInG = this.calcFat(this.lbm)
+    this.dailyFatInG = this.calcFat(this.dailyKilokalories)
     this.dailyCarbsInG = this.calcCarbs(this.dailyKiloCalories, this.dailyProteinInG, this.dailyFatInG)
     this.dailyFibreInG = this.calcFibre(this.dailyKiloCalories)
   }
@@ -64,8 +68,8 @@ export default class Client {
     return TEA
   }
 
-  calcFat(lbm) {
-    return lbm * 0.8
+  calcFat(dailyKilokalories) {
+    return (dailyKilokalories * 0.3) / this.kcalPerGFat
   }
 
   calcProtein(bodyWeight, goal, activityLevel, isMale) {
@@ -100,14 +104,11 @@ export default class Client {
   }
 
   calcCarbs(dailyKilokalories, dailyProteinInG, dailyFatInG) {
-    let kcalPerGProtein = 4.1
-    let kcalPerGCarb = 4.1
-    let kcalPerGFat = 9.3
-    return (dailyKilokalories - (kcalPerGProtein * dailyProteinInG) - (kcalPerGFat * dailyFatInG)) / kcalPerGCarb
+    return (dailyKilokalories - (this.kcalPerGProtein * dailyProteinInG) - (this.kcalPerGFat * dailyFatInG)) / this.kcalPerGCarb
   }
 
   calcFibre(dailyKilokalories) {
-    return dailyKilokalories / 100
+    return dailyKilokalories * 15 / 1000
   }
 
   // calculating the age in years
