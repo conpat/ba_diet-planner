@@ -1,0 +1,7796 @@
+[
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 1,
+    "timeMean": 0.031452570557594296
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 2,
+    "timeMean": 0.018430238366127016
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 3,
+    "timeMean": 0.04192886888980865
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 4,
+    "timeMean": 0.0209920608997345
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 5,
+    "timeMean": 0.013673670887947083
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 6,
+    "timeMean": 0.013231561183929444
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 7,
+    "timeMean": 0.015982820391654967
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 8,
+    "timeMean": 0.008407870531082154
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 9,
+    "timeMean": 0.01483414053916931
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 10,
+    "timeMean": 0.012434170246124268
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 11,
+    "timeMean": 0.01876973092556
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 12,
+    "timeMean": 0.031764398813247684
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 13,
+    "timeMean": 0.014617089033126831
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 14,
+    "timeMean": 0.008230210542678832
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 15,
+    "timeMean": 0.015726268887519837
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 16,
+    "timeMean": 0.00858949065208435
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 17,
+    "timeMean": 0.009939439296722412
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 18,
+    "timeMean": 0.033398610353469846
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 19,
+    "timeMean": 0.0806287795305252
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 20,
+    "timeMean": 0.016993398666381835
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 21,
+    "timeMean": 0.019207839965820313
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 22,
+    "timeMean": 0.014435460567474365
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 23,
+    "timeMean": 0.02008017897605896
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 24,
+    "timeMean": 0.012453920245170592
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 25,
+    "timeMean": 0.007507890462875366
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 26,
+    "timeMean": 0.03740514993667603
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 27,
+    "timeMean": 0.03470123946666717
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 28,
+    "timeMean": 0.011775028705596925
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 29,
+    "timeMean": 0.014597319960594178
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 30,
+    "timeMean": 0.029680229425430298
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 31,
+    "timeMean": 0.01908551037311554
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 32,
+    "timeMean": 0.009469699263572693
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 33,
+    "timeMean": 0.03350120007991791
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 34,
+    "timeMean": 0.018619699478149412
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 35,
+    "timeMean": 0.018967030048370363
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 36,
+    "timeMean": 0.009824990034103394
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 37,
+    "timeMean": 0.01501181960105896
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 38,
+    "timeMean": 0.01379604935646057
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 39,
+    "timeMean": 0.02840920031070709
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 40,
+    "timeMean": 0.010109190940856933
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 41,
+    "timeMean": 0.02074339985847473
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 42,
+    "timeMean": 0.024217049479484557
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 43,
+    "timeMean": 0.04409601151943207
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 44,
+    "timeMean": 0.017506529688835145
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 45,
+    "timeMean": 0.02065259873867035
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 46,
+    "timeMean": 0.028109140396118164
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 47,
+    "timeMean": 0.03808414041996002
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 48,
+    "timeMean": 0.015090709924697876
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 49,
+    "timeMean": 0.012244700193405152
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 50,
+    "timeMean": 0.010464420318603515
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 51,
+    "timeMean": 0.00943817913532257
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 52,
+    "timeMean": 0.013878900408744812
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 53,
+    "timeMean": 0.01628683805465698
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 54,
+    "timeMean": 0.011826269626617432
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 55,
+    "timeMean": 0.01589997947216034
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 56,
+    "timeMean": 0.010756549835205078
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 57,
+    "timeMean": 0.007989429235458374
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 58,
+    "timeMean": 0.013792098760604858
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 59,
+    "timeMean": 0.020411770343780517
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 60,
+    "timeMean": 0.012588139772415161
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 61,
+    "timeMean": 0.0070104700326919555
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 62,
+    "timeMean": 0.009623649120330811
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 63,
+    "timeMean": 0.021197369694709776
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 64,
+    "timeMean": 0.012311789989471435
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 65,
+    "timeMean": 0.015031540393829345
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 66,
+    "timeMean": 0.019890751242637634
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 67,
+    "timeMean": 0.014384208917617798
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 68,
+    "timeMean": 0.013057870864868164
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 69,
+    "timeMean": 0.01267894983291626
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 70,
+    "timeMean": 0.031239428520202638
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 71,
+    "timeMean": 0.07478274822235108
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 72,
+    "timeMean": 0.012793390154838562
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 73,
+    "timeMean": 0.022109119296073912
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 74,
+    "timeMean": 0.02086575984954834
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 75,
+    "timeMean": 0.008834239840507508
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 76,
+    "timeMean": 0.010713160037994385
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 77,
+    "timeMean": 0.007752620577812195
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 78,
+    "timeMean": 0.017613058090209962
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 79,
+    "timeMean": 0.0194486004114151
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 80,
+    "timeMean": 0.01720651924610138
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 81,
+    "timeMean": 0.11074319958686829
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 82,
+    "timeMean": 0.02349466025829315
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 83,
+    "timeMean": 0.015244730710983277
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 84,
+    "timeMean": 0.017455209493637085
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 85,
+    "timeMean": 0.010934188961982727
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 86,
+    "timeMean": 0.011064469218254089
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 87,
+    "timeMean": 0.024217050671577454
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 88,
+    "timeMean": 0.011672339439392089
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 89,
+    "timeMean": 0.020644720196723938
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 90,
+    "timeMean": 0.008703960180282593
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 91,
+    "timeMean": 0.050119630098342895
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 92,
+    "timeMean": 0.028373640775680543
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 93,
+    "timeMean": 0.033765670657157895
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 94,
+    "timeMean": 0.10275763869285584
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 95,
+    "timeMean": 0.02907231092453003
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 96,
+    "timeMean": 0.01372495949268341
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 97,
+    "timeMean": 0.016740711331367494
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 98,
+    "timeMean": 0.10926293075084687
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 99,
+    "timeMean": 0.019938120245933534
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 100,
+    "timeMean": 0.03401041030883789
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 101,
+    "timeMean": 0.023044700622558593
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 102,
+    "timeMean": 0.015868370532989503
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 103,
+    "timeMean": 0.017285510301589965
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 104,
+    "timeMean": 0.02926171839237213
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 105,
+    "timeMean": 0.06089988946914673
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 106,
+    "timeMean": 0.025251219868659972
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 107,
+    "timeMean": 0.022863088250160216
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 108,
+    "timeMean": 0.044411791563034056
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 109,
+    "timeMean": 0.017542070150375365
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 110,
+    "timeMean": 0.0659406292438507
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 111,
+    "timeMean": 0.029167041182518005
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 112,
+    "timeMean": 0.018761828541755676
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 113,
+    "timeMean": 0.02294599115848541
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 114,
+    "timeMean": 0.009939460158348084
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 115,
+    "timeMean": 0.013006550073623658
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 116,
+    "timeMean": 0.09818661093711853
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 117,
+    "timeMean": 0.04651168942451477
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 118,
+    "timeMean": 0.03236043930053711
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 119,
+    "timeMean": 0.03682888031005859
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 120,
+    "timeMean": 0.21652456998825073
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 121,
+    "timeMean": 0.012907871007919312
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 122,
+    "timeMean": 0.12967471957206725
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 123,
+    "timeMean": 0.012489449381828308
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 124,
+    "timeMean": 0.0158763188123703
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 125,
+    "timeMean": 0.03170907974243164
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 126,
+    "timeMean": 0.01519339084625244
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 127,
+    "timeMean": 0.01712361991405487
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 128,
+    "timeMean": 0.012773630619049072
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 129,
+    "timeMean": 0.012907890677452087
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 130,
+    "timeMean": 0.0861037403345108
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 131,
+    "timeMean": 0.011901310086250306
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 132,
+    "timeMean": 0.02415384113788605
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 133,
+    "timeMean": 0.013444680571556091
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 134,
+    "timeMean": 0.019101260900497435
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 135,
+    "timeMean": 0.02434343159198761
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 136,
+    "timeMean": 0.019030222296714784
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 137,
+    "timeMean": 0.023368378877639772
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 138,
+    "timeMean": 0.019069698452949525
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 139,
+    "timeMean": 0.036209108233451845
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 140,
+    "timeMean": 0.0140289306640625
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 141,
+    "timeMean": 0.0162117999792099
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 142,
+    "timeMean": 0.02315524101257324
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 143,
+    "timeMean": 0.04471173942089081
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 144,
+    "timeMean": 0.014017080068588256
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 145,
+    "timeMean": 0.1060063487291336
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 146,
+    "timeMean": 0.02112235963344574
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 147,
+    "timeMean": 0.026632866859436034
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 148,
+    "timeMean": 0.01683939039707184
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 149,
+    "timeMean": 0.016792051196098327
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 150,
+    "timeMean": 0.030019670724868774
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 151,
+    "timeMean": 0.024374908208847045
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 152,
+    "timeMean": 0.025484139323234557
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 153,
+    "timeMean": 0.015090728998184205
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 154,
+    "timeMean": 0.014052641391754151
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 155,
+    "timeMean": 0.020246001482009886
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 156,
+    "timeMean": 0.01205919861793518
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 157,
+    "timeMean": 0.014652600884437561
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 158,
+    "timeMean": 0.043270931243896485
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 159,
+    "timeMean": 0.017072309255599976
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 160,
+    "timeMean": 0.018481539487838747
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 161,
+    "timeMean": 0.03606702744960785
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 162,
+    "timeMean": 0.01719075083732605
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 163,
+    "timeMean": 0.013160510063171387
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 164,
+    "timeMean": 0.009446030259132385
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 165,
+    "timeMean": 0.009327620267868042
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 166,
+    "timeMean": 0.015631470680236816
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 167,
+    "timeMean": 0.013239411115646362
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 168,
+    "timeMean": 0.14651804983615876
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 169,
+    "timeMean": 0.017013169527053833
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 170,
+    "timeMean": 0.02306048035621643
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 171,
+    "timeMean": 0.023352538943290712
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 172,
+    "timeMean": 0.015201298594474793
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 173,
+    "timeMean": 0.025421009659767152
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 174,
+    "timeMean": 0.02158410966396332
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 175,
+    "timeMean": 0.0649616801738739
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 176,
+    "timeMean": 0.0499933111667633
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 177,
+    "timeMean": 0.05150117754936218
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 178,
+    "timeMean": 0.03097498953342438
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 179,
+    "timeMean": 0.024319708943367005
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 180,
+    "timeMean": 0.12669436931610106
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 181,
+    "timeMean": 0.023024920225143432
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 182,
+    "timeMean": 0.025294650197029114
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 183,
+    "timeMean": 0.07803535878658295
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 184,
+    "timeMean": 0.021063140034675597
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 185,
+    "timeMean": 0.03480782032012939
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 186,
+    "timeMean": 0.037788009643554686
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 187,
+    "timeMean": 0.012074949145317078
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 188,
+    "timeMean": 0.017455220818519593
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 189,
+    "timeMean": 0.017490748763084412
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 190,
+    "timeMean": 0.01943282961845398
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 191,
+    "timeMean": 0.015568340420722962
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 192,
+    "timeMean": 0.018840801119804382
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 193,
+    "timeMean": 0.025851268768310547
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 194,
+    "timeMean": 0.01173948049545288
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 195,
+    "timeMean": 0.011632878184318542
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 196,
+    "timeMean": 0.027501258850097656
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 197,
+    "timeMean": 0.021063100099563598
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 198,
+    "timeMean": 0.02046312153339386
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 199,
+    "timeMean": 0.018272340297698975
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 200,
+    "timeMean": 0.026573619246482848
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 201,
+    "timeMean": 0.030939409732818602
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 202,
+    "timeMean": 0.013448678851127625
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 203,
+    "timeMean": 0.01891966998577118
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 204,
+    "timeMean": 0.1372614896297455
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 205,
+    "timeMean": 0.012635530829429626
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 206,
+    "timeMean": 0.06013013958930969
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 207,
+    "timeMean": 0.013117029070854188
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 208,
+    "timeMean": 0.018876280188560485
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 209,
+    "timeMean": 0.014490719437599182
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 210,
+    "timeMean": 0.014344699382781982
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 211,
+    "timeMean": 0.024967058897018432
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 212,
+    "timeMean": 0.01355133056640625
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 213,
+    "timeMean": 0.015098628997802734
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 214,
+    "timeMean": 0.10090632081031799
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 215,
+    "timeMean": 0.013527611494064331
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 216,
+    "timeMean": 0.020127641558647155
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "A",
+    "clientID": 217,
+    "timeMean": 0.03662756085395813
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 1,
+    "timeMean": 0.49852386116981506
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 2,
+    "timeMean": 0.03733412683010101
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 3,
+    "timeMean": 0.024363073110580443
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 4,
+    "timeMean": 0.13363785922527313
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 5,
+    "timeMean": 0.06187887012958527
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 6,
+    "timeMean": 0.057102562189102174
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 7,
+    "timeMean": 0.05047489583492279
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 8,
+    "timeMean": 0.028077570796012877
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 9,
+    "timeMean": 0.06832480967044831
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 10,
+    "timeMean": 0.030406518578529357
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 11,
+    "timeMean": 0.1082721322774887
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 12,
+    "timeMean": 0.03922092735767364
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 13,
+    "timeMean": 0.04080375730991363
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 14,
+    "timeMean": 0.018319680094718932
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 15,
+    "timeMean": 0.06057622909545898
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 16,
+    "timeMean": 0.05104328989982605
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 17,
+    "timeMean": 0.015939498543739317
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 18,
+    "timeMean": 0.02771840035915375
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 19,
+    "timeMean": 0.023609169125556946
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 20,
+    "timeMean": 0.037515679597854616
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 21,
+    "timeMean": 0.016448618173599244
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 22,
+    "timeMean": 0.012039441466331482
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 23,
+    "timeMean": 0.021039352416992188
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 24,
+    "timeMean": 0.02801437199115753
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 25,
+    "timeMean": 0.03095122694969177
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 26,
+    "timeMean": 0.012477612495422364
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 27,
+    "timeMean": 0.023064460158348083
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 28,
+    "timeMean": 0.013136791586875916
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 29,
+    "timeMean": 0.01845796048641205
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 30,
+    "timeMean": 0.022685470581054686
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 31,
+    "timeMean": 0.031626220345497134
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 32,
+    "timeMean": 0.049910417199134825
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 33,
+    "timeMean": 0.01727756977081299
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 34,
+    "timeMean": 0.012469739913940429
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 35,
+    "timeMean": 0.04087883114814758
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 36,
+    "timeMean": 0.01556054711341858
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 37,
+    "timeMean": 0.010436830520629882
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 38,
+    "timeMean": 0.03742882907390595
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 39,
+    "timeMean": 0.03300388157367706
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 40,
+    "timeMean": 0.02448546051979065
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 41,
+    "timeMean": 0.02300915002822876
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 42,
+    "timeMean": 0.021130239963531493
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 43,
+    "timeMean": 0.018260459899902343
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 44,
+    "timeMean": 0.0363038295507431
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 45,
+    "timeMean": 0.02422888994216919
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 46,
+    "timeMean": 0.11994446933269501
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 47,
+    "timeMean": 0.06458670914173126
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 48,
+    "timeMean": 0.016476261019706725
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 49,
+    "timeMean": 0.06915383160114288
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 50,
+    "timeMean": 0.021209169626235962
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 51,
+    "timeMean": 0.03326431930065155
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 52,
+    "timeMean": 0.02470263957977295
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 53,
+    "timeMean": 0.03397888958454132
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 54,
+    "timeMean": 0.010827630758285522
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 55,
+    "timeMean": 0.021236817240715026
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 56,
+    "timeMean": 0.031192060112953186
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 57,
+    "timeMean": 0.018161808252334596
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 58,
+    "timeMean": 0.020096020102500917
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 59,
+    "timeMean": 0.014727621078491212
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 60,
+    "timeMean": 0.025010460615158082
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 61,
+    "timeMean": 0.038396019339561466
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 62,
+    "timeMean": 0.012686830163002014
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 63,
+    "timeMean": 0.013878899812698364
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 64,
+    "timeMean": 0.033730159997940067
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 65,
+    "timeMean": 0.035269641280174256
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 66,
+    "timeMean": 0.029644650220870972
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 67,
+    "timeMean": 0.02580786943435669
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 68,
+    "timeMean": 0.014719730615615845
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 69,
+    "timeMean": 0.03326443910598755
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 70,
+    "timeMean": 0.024785470366477966
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 71,
+    "timeMean": 0.010243409276008607
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 72,
+    "timeMean": 0.026956539154052734
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 73,
+    "timeMean": 0.023944700956344604
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 74,
+    "timeMean": 0.05351829826831818
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 75,
+    "timeMean": 0.019274930357933043
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 76,
+    "timeMean": 0.020305227637290955
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 77,
+    "timeMean": 0.019397339224815367
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 78,
+    "timeMean": 0.02109864115715027
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 79,
+    "timeMean": 0.02054207980632782
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 80,
+    "timeMean": 0.01558813989162445
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 81,
+    "timeMean": 0.01428942084312439
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 82,
+    "timeMean": 0.023672319054603576
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 83,
+    "timeMean": 0.053873608708381655
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 84,
+    "timeMean": 0.028006489872932434
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 85,
+    "timeMean": 0.020281510949134825
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 86,
+    "timeMean": 0.010503920316696167
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 87,
+    "timeMean": 0.020857847332954406
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 88,
+    "timeMean": 0.023143369555473327
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 89,
+    "timeMean": 0.047163010239601136
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 90,
+    "timeMean": 0.03171307921409607
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 91,
+    "timeMean": 0.023688089847564698
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 92,
+    "timeMean": 0.020115728974342346
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 93,
+    "timeMean": 0.011147309541702271
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 94,
+    "timeMean": 0.024149940609931947
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 95,
+    "timeMean": 0.01951179027557373
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 96,
+    "timeMean": 0.026139411330223083
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 97,
+    "timeMean": 0.0674959009885788
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 98,
+    "timeMean": 0.01919210910797119
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 99,
+    "timeMean": 0.07117088973522186
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 100,
+    "timeMean": 0.01717491090297699
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 101,
+    "timeMean": 0.01876181960105896
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 102,
+    "timeMean": 0.023202560544013977
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 103,
+    "timeMean": 0.06238803923130035
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 104,
+    "timeMean": 0.01513022005558014
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 105,
+    "timeMean": 0.015749970078468324
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 106,
+    "timeMean": 0.01729338049888611
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 107,
+    "timeMean": 0.0169302099943161
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 108,
+    "timeMean": 0.016196030378341674
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 109,
+    "timeMean": 0.015663118958473207
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 110,
+    "timeMean": 0.016476261019706725
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 111,
+    "timeMean": 0.01533152997493744
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 112,
+    "timeMean": 0.00898023009300232
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 113,
+    "timeMean": 0.06978533923625946
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 114,
+    "timeMean": 0.014009220004081726
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 115,
+    "timeMean": 0.011703899502754212
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 116,
+    "timeMean": 0.018015769720077516
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 117,
+    "timeMean": 0.017581520080566407
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 118,
+    "timeMean": 0.016444689631462096
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 119,
+    "timeMean": 0.026818370819091795
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 120,
+    "timeMean": 0.02649072766304016
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 121,
+    "timeMean": 0.030003870129585265
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 122,
+    "timeMean": 0.023502570390701295
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 123,
+    "timeMean": 0.01711970865726471
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 124,
+    "timeMean": 0.021189390420913695
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 125,
+    "timeMean": 0.01732498049736023
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 126,
+    "timeMean": 0.03716831088066101
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 127,
+    "timeMean": 0.013109190464019775
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 128,
+    "timeMean": 0.02576841115951538
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 129,
+    "timeMean": 0.021094688773155214
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 130,
+    "timeMean": 0.02653020977973938
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 131,
+    "timeMean": 0.015284141302108764
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 132,
+    "timeMean": 0.04253282070159912
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 133,
+    "timeMean": 0.07827221989631652
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 134,
+    "timeMean": 0.03961564958095551
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 135,
+    "timeMean": 0.022322348952293396
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 136,
+    "timeMean": 0.028424999117851256
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 137,
+    "timeMean": 0.051548539996147155
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 138,
+    "timeMean": 0.03250253140926361
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 139,
+    "timeMean": 0.019132810235023497
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 140,
+    "timeMean": 0.0411907309293747
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 141,
+    "timeMean": 0.15051282048225403
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 142,
+    "timeMean": 0.013626288175582885
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 143,
+    "timeMean": 0.0231394100189209
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 144,
+    "timeMean": 0.016511750221252442
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 145,
+    "timeMean": 0.015714439153671263
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 146,
+    "timeMean": 0.03566835105419159
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 147,
+    "timeMean": 0.01189340054988861
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 148,
+    "timeMean": 0.020624911189079286
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 149,
+    "timeMean": 0.015832860469818116
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 150,
+    "timeMean": 0.017593380212783814
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 151,
+    "timeMean": 0.01956312894821167
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 152,
+    "timeMean": 0.0302486115694046
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 153,
+    "timeMean": 0.015252590775489808
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 154,
+    "timeMean": 0.027153871059417724
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 155,
+    "timeMean": 0.04535124897956848
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 156,
+    "timeMean": 0.0233565491437912
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 157,
+    "timeMean": 0.04030649065971374
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 158,
+    "timeMean": 0.0138907790184021
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 159,
+    "timeMean": 0.04109204232692718
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 160,
+    "timeMean": 0.01905392050743103
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 161,
+    "timeMean": 0.010709149837493897
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 162,
+    "timeMean": 0.01997757077217102
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 163,
+    "timeMean": 0.014198649525642395
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 164,
+    "timeMean": 0.031456519365310666
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 165,
+    "timeMean": 0.023767030239105223
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 166,
+    "timeMean": 0.022606528997421264
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 167,
+    "timeMean": 0.04737227976322174
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 168,
+    "timeMean": 0.026052590012550354
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 169,
+    "timeMean": 0.014451281428337097
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 170,
+    "timeMean": 0.04973272979259491
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 171,
+    "timeMean": 0.014771020412445069
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 172,
+    "timeMean": 0.03320129930973053
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 173,
+    "timeMean": 0.0200644189119339
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 174,
+    "timeMean": 0.009371030330657958
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 175,
+    "timeMean": 0.019199950098991395
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 176,
+    "timeMean": 0.013839430809020996
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 177,
+    "timeMean": 0.036603870391845705
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 178,
+    "timeMean": 0.020680148601531983
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 179,
+    "timeMean": 0.017285521030426024
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 180,
+    "timeMean": 0.019555201530456544
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 181,
+    "timeMean": 0.02026571035385132
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 182,
+    "timeMean": 0.03597620069980621
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 183,
+    "timeMean": 0.013673630952835083
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 184,
+    "timeMean": 0.01745125949382782
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 185,
+    "timeMean": 0.017506529092788697
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 186,
+    "timeMean": 0.01550520122051239
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 187,
+    "timeMean": 0.01505523979663849
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 188,
+    "timeMean": 0.040247280597686765
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 189,
+    "timeMean": 0.03063150107860565
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 190,
+    "timeMean": 0.01899070143699646
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 191,
+    "timeMean": 0.01190524995326996
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 192,
+    "timeMean": 0.01674864947795868
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 193,
+    "timeMean": 0.018817070722579956
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 194,
+    "timeMean": 0.021453930735588073
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 195,
+    "timeMean": 0.030098629593849183
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 196,
+    "timeMean": 0.013121030330657958
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 197,
+    "timeMean": 0.042015748620033266
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 198,
+    "timeMean": 0.022934141159057616
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 199,
+    "timeMean": 0.01662235975265503
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 200,
+    "timeMean": 0.021489408612251282
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 201,
+    "timeMean": 0.010634198784828186
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 202,
+    "timeMean": 0.016365749835968016
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 203,
+    "timeMean": 0.025231548547744752
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 204,
+    "timeMean": 0.029948610067367553
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 205,
+    "timeMean": 0.019598640203475952
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 206,
+    "timeMean": 0.015611780881881714
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 207,
+    "timeMean": 0.019421020746231078
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 208,
+    "timeMean": 0.04587623000144959
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 209,
+    "timeMean": 0.01023158073425293
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 210,
+    "timeMean": 0.00981312096118927
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 211,
+    "timeMean": 0.0484854006767273
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 212,
+    "timeMean": 0.026526290774345398
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 213,
+    "timeMean": 0.019867041110992432
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 214,
+    "timeMean": 0.025184230208396913
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 215,
+    "timeMean": 0.02421699047088623
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 216,
+    "timeMean": 0.02928942918777466
+  },
+  {
+    "plannerVersion": "1",
+    "dayPlanDefType": "B",
+    "clientID": 217,
+    "timeMean": 0.01452628791332245
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 1,
+    "timeMean": 0.09500900983810424
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 2,
+    "timeMean": 0.04722624003887176
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 3,
+    "timeMean": 4.7549775105714795
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 4,
+    "timeMean": 0.08645114064216614
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 5,
+    "timeMean": 0.05115784883499146
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 6,
+    "timeMean": 4.76374861061573
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 7,
+    "timeMean": 0.14042734026908874
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 8,
+    "timeMean": 0.06929201126098633
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 9,
+    "timeMean": 0.07377215981483459
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 10,
+    "timeMean": 239.67220728099346
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 11,
+    "timeMean": 0.08141035974025726
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 12,
+    "timeMean": 0.07195247888565064
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 13,
+    "timeMean": 0.06998671054840087
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 14,
+    "timeMean": 174.9475810354948
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 15,
+    "timeMean": 1.9259324991703033
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 16,
+    "timeMean": 0.10456551015377044
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 17,
+    "timeMean": 128.2606946605444
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 18,
+    "timeMean": 0.23426396906375885
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 19,
+    "timeMean": 5.393253819942474
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 20,
+    "timeMean": 0.0669274401664734
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 21,
+    "timeMean": 2.333943510055542
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 22,
+    "timeMean": 3.7762849205732345
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 23,
+    "timeMean": 107.54937265992164
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 24,
+    "timeMean": 78.32895233809948
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 25,
+    "timeMean": 2.415405180454254
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 26,
+    "timeMean": 1.678042281270027
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 27,
+    "timeMean": 0.12470896184444427
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 28,
+    "timeMean": 0.5274067103862763
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 29,
+    "timeMean": 129.4518815290928
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 30,
+    "timeMean": 4.8840246504545215
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 31,
+    "timeMean": 0.06271172046661377
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 32,
+    "timeMean": 0.05865779757499695
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 33,
+    "timeMean": 1.9975020891427995
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 34,
+    "timeMean": 8.334443261623383
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 35,
+    "timeMean": 0.08631692051887513
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 36,
+    "timeMean": 1.1203395682573318
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 37,
+    "timeMean": 0.05858670949935913
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 38,
+    "timeMean": 0.061551170945167544
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 39,
+    "timeMean": 12.958182812333106
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 40,
+    "timeMean": 0.6692432492971421
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 41,
+    "timeMean": 6.73068628013134
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 42,
+    "timeMean": 0.09798531055450439
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 43,
+    "timeMean": 1.1585855597257615
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 44,
+    "timeMean": 226.72131521165372
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 45,
+    "timeMean": 0.07691033899784089
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 46,
+    "timeMean": 0.11891816973686219
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 47,
+    "timeMean": 0.21032324194908142
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 48,
+    "timeMean": 0.06386436998844147
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 49,
+    "timeMean": 0.06215511918067932
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 50,
+    "timeMean": 1.9766165989637374
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 51,
+    "timeMean": 4.601231748461723
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 52,
+    "timeMean": 0.052965691089630125
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 53,
+    "timeMean": 0.0393275511264801
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 54,
+    "timeMean": 5.013628307580948
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 55,
+    "timeMean": 0.06430637955665588
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 56,
+    "timeMean": 10.494935761094093
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 57,
+    "timeMean": 0.12576290130615234
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 58,
+    "timeMean": 2.977572261095047
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 59,
+    "timeMean": 6.223197878003121
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 60,
+    "timeMean": 0.10633787989616394
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 61,
+    "timeMean": 0.060939339399337766
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 62,
+    "timeMean": 6.675920620560646
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 63,
+    "timeMean": 3.3030754816532135
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 64,
+    "timeMean": 0.07016826033592224
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 65,
+    "timeMean": 0.11155633926391602
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 66,
+    "timeMean": 53.28593611776829
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 67,
+    "timeMean": 2.604720510840416
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 68,
+    "timeMean": 0.6996536803245544
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 69,
+    "timeMean": 0.0875484699010849
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 70,
+    "timeMean": 1.6886765599250793
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 71,
+    "timeMean": 8.267527619600296
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 72,
+    "timeMean": 3.3527806788682937
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 73,
+    "timeMean": 0.1098234087228775
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 74,
+    "timeMean": 0.12606288909912108
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 75,
+    "timeMean": 0.10529978036880493
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 76,
+    "timeMean": 99.6360573899746
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 77,
+    "timeMean": 0.09216292977333068
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 78,
+    "timeMean": 0.07289984226226806
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 79,
+    "timeMean": 250.29814009904862
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 80,
+    "timeMean": 3.396714721918106
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 81,
+    "timeMean": 7.972608438134193
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 82,
+    "timeMean": 2.567489011287689
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 83,
+    "timeMean": 0.05181693911552429
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 84,
+    "timeMean": 1.250669549703598
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 85,
+    "timeMean": 0.07245376050472259
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 86,
+    "timeMean": 0.39112013041973115
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 87,
+    "timeMean": 5.46130225121975
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 88,
+    "timeMean": 0.0342827981710434
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 89,
+    "timeMean": 0.48370943069458006
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 90,
+    "timeMean": 0.049701199531555176
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 91,
+    "timeMean": 4.8897206825017925
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 92,
+    "timeMean": 1.225528849363327
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 93,
+    "timeMean": 11.640179168581962
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 94,
+    "timeMean": 8.97912996172905
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 95,
+    "timeMean": 0.7588403701782227
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 96,
+    "timeMean": 0.06245509922504425
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 97,
+    "timeMean": 0.05374333083629608
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 98,
+    "timeMean": 2.4616523784399034
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 99,
+    "timeMean": 0.07971297085285187
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 100,
+    "timeMean": 0.06992745935916901
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 101,
+    "timeMean": 140.00113682746888
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 102,
+    "timeMean": 5.826851490139961
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 103,
+    "timeMean": 248.5089994186163
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 104,
+    "timeMean": 142.95900392115115
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 105,
+    "timeMean": 61.93022338032723
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 106,
+    "timeMean": 0.21723497927188873
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 107,
+    "timeMean": 10.953634688854217
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 108,
+    "timeMean": 5.547117869853974
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 109,
+    "timeMean": 4.573481899499893
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 110,
+    "timeMean": 93.54268812894821
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 111,
+    "timeMean": 0.04947231113910675
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 112,
+    "timeMean": 44.3023061811924
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 113,
+    "timeMean": 0.18719959914684295
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 114,
+    "timeMean": 2.447386667728424
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 115,
+    "timeMean": 1.4230152308940887
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 116,
+    "timeMean": 0.6541090476512909
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 117,
+    "timeMean": 4.036344960927964
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 118,
+    "timeMean": 3.463567240834236
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 119,
+    "timeMean": 0.08880776107311249
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 120,
+    "timeMean": 4.477825530171394
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 121,
+    "timeMean": 0.05013151049613953
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 122,
+    "timeMean": 9.52429582953453
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 123,
+    "timeMean": 20.305596680045127
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 124,
+    "timeMean": 0.036986729502677916
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 125,
+    "timeMean": 5.843244809508324
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 126,
+    "timeMean": 0.051165669560432434
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 127,
+    "timeMean": 44.18434323966503
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 128,
+    "timeMean": 0.8346849697828292
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 129,
+    "timeMean": 1.361645631790161
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 130,
+    "timeMean": 2.599912550449371
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 131,
+    "timeMean": 17.336250710487366
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 132,
+    "timeMean": 0.06473665952682495
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 133,
+    "timeMean": 3.9454609006643295
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 134,
+    "timeMean": 0.04578541994094849
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 135,
+    "timeMean": 0.5295896315574646
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 136,
+    "timeMean": 0.11464710950851441
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 137,
+    "timeMean": 0.10085900008678436
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 138,
+    "timeMean": 0.23922186017036437
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 139,
+    "timeMean": 5.39470634996891
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 140,
+    "timeMean": 12.487535179257392
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 141,
+    "timeMean": 0.12466159880161286
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 142,
+    "timeMean": 0.09660764873027801
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 143,
+    "timeMean": 21.761023679375647
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 144,
+    "timeMean": 0.0686445790529251
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 145,
+    "timeMean": 25.075254489183425
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 146,
+    "timeMean": 0.3294979375600815
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 147,
+    "timeMean": 223.11977201163768
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 148,
+    "timeMean": 249.0252468508482
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 149,
+    "timeMean": 0.09586157977581024
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 150,
+    "timeMean": 2.353834182024002
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 151,
+    "timeMean": 139.48977607250214
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 152,
+    "timeMean": 2.7771608805656434
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 153,
+    "timeMean": 0.07853270828723907
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 154,
+    "timeMean": 2.8434646904468535
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 155,
+    "timeMean": 0.1467233407497406
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 156,
+    "timeMean": 3.292090031504631
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 157,
+    "timeMean": 0.12223001897335052
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 158,
+    "timeMean": 3.054565532207489
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 159,
+    "timeMean": 0.05595386862754822
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 160,
+    "timeMean": 0.3680399978160858
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 161,
+    "timeMean": 1.5964148104190827
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 162,
+    "timeMean": 188.91927615106107
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 163,
+    "timeMean": 0.16513777017593384
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 164,
+    "timeMean": 0.06101434051990509
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 165,
+    "timeMean": 1.648760780096054
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 166,
+    "timeMean": 3.891950487494469
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 167,
+    "timeMean": 0.2653849083185196
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 168,
+    "timeMean": 35.15913582921028
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 169,
+    "timeMean": 3.1843783903121947
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 170,
+    "timeMean": 0.11019844233989716
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 171,
+    "timeMean": 0.1514720892906189
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 172,
+    "timeMean": 0.09995897054672241
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 173,
+    "timeMean": 1.2856747198104859
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 174,
+    "timeMean": 1.5751898711919785
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 175,
+    "timeMean": 18.20082517683506
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 176,
+    "timeMean": 1.390449560880661
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 177,
+    "timeMean": 14.611487118601799
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 178,
+    "timeMean": 2.2931593614816665
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 179,
+    "timeMean": 2.549019260406494
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 180,
+    "timeMean": 17.334786327481268
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 181,
+    "timeMean": 149.37355798244477
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 182,
+    "timeMean": 0.04983145892620087
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 183,
+    "timeMean": 0.12901938021183013
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 184,
+    "timeMean": 0.3504031902551651
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 185,
+    "timeMean": 151.7316474211216
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 186,
+    "timeMean": 0.12414841055870056
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 187,
+    "timeMean": 23.411620049476625
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 188,
+    "timeMean": 197.17935895979406
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 189,
+    "timeMean": 0.13290758907794953
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 190,
+    "timeMean": 0.7728811401128769
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 191,
+    "timeMean": 3.1908283680677414
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 192,
+    "timeMean": 34.50857545673847
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 193,
+    "timeMean": 0.5165080511569977
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 194,
+    "timeMean": 0.17997983038425447
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 195,
+    "timeMean": 0.25715463995933535
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 196,
+    "timeMean": 0.12909046947956085
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 197,
+    "timeMean": 0.11050239026546478
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 198,
+    "timeMean": 0.07637743055820465
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 199,
+    "timeMean": 0.4632502996921539
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 200,
+    "timeMean": 0.15059172928333284
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 201,
+    "timeMean": 3.5371223282814026
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 202,
+    "timeMean": 48.669187231063844
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 203,
+    "timeMean": 0.24650471031665802
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 204,
+    "timeMean": 17.957624291181563
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 205,
+    "timeMean": 2.9691920006275176
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 206,
+    "timeMean": 6.231207131743431
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 207,
+    "timeMean": 8.382123412489891
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 208,
+    "timeMean": 5.62835057079792
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 209,
+    "timeMean": 6.020339239239693
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 210,
+    "timeMean": 65.66780048012734
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 211,
+    "timeMean": 0.11512079060077668
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 212,
+    "timeMean": 0.08906030833721161
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 213,
+    "timeMean": 0.2671652501821518
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 214,
+    "timeMean": 7.750253769159317
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 215,
+    "timeMean": 0.11272872090339661
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 216,
+    "timeMean": 0.09178007006645203
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "A",
+    "clientID": 217,
+    "timeMean": 0.18161799848079682
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 4,
+    "timeMean": 0.4713265669345856
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 5,
+    "timeMean": 0.2735085815191269
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 6,
+    "timeMean": 31.717614543437957
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 7,
+    "timeMean": 0.5140962105989456
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 8,
+    "timeMean": 0.18102988302707673
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 9,
+    "timeMean": 0.37422149181365966
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 10,
+    "timeMean": 250.32883482277393
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 11,
+    "timeMean": 0.6585616666078568
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 12,
+    "timeMean": 0.09241173982620239
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 13,
+    "timeMean": 0.4750607323646545
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 14,
+    "timeMean": 249.00553777217866
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 15,
+    "timeMean": 15.598816379308701
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 16,
+    "timeMean": 0.3011361598968506
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 17,
+    "timeMean": 250.7602733707428
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 18,
+    "timeMean": 0.055081531405448914
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 19,
+    "timeMean": 1.9161429798603058
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 20,
+    "timeMean": 0.09965104103088379
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 21,
+    "timeMean": 5.223521231412888
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 22,
+    "timeMean": 6.682978494763375
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 23,
+    "timeMean": 240.72057862281798
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 24,
+    "timeMean": 239.3197159987688
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 25,
+    "timeMean": 20.948061071038246
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 26,
+    "timeMean": 1.1137276899814605
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 27,
+    "timeMean": 0.0415656703710556
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 28,
+    "timeMean": 1.4933177298307418
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 29,
+    "timeMean": 240.45961482465268
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 30,
+    "timeMean": 4.627027819752693
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 31,
+    "timeMean": 0.06582224011421203
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 32,
+    "timeMean": 0.24356398046016692
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 33,
+    "timeMean": 14.893960172533989
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 34,
+    "timeMean": 11.258568271398545
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 35,
+    "timeMean": 0.8041876631975174
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 36,
+    "timeMean": 9.137253177165984
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 37,
+    "timeMean": 0.053376201391220096
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 38,
+    "timeMean": 0.2672638785839081
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 39,
+    "timeMean": 113.56626962542533
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 40,
+    "timeMean": 4.3233613699674605
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 41,
+    "timeMean": 27.508758249282838
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 42,
+    "timeMean": 0.10008524954319001
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 43,
+    "timeMean": 1.1420382410287857
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 44,
+    "timeMean": 250.40180173158646
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 45,
+    "timeMean": 0.273824360370636
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 46,
+    "timeMean": 0.3349334907531738
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 47,
+    "timeMean": 1.491363719701767
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 48,
+    "timeMean": 0.11867735087871552
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 49,
+    "timeMean": 0.22559163987636566
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 50,
+    "timeMean": 7.356926910281182
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 51,
+    "timeMean": 34.09434344768524
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 52,
+    "timeMean": 0.16252859115600585
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 53,
+    "timeMean": 0.48591604888439177
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 54,
+    "timeMean": 33.88541375041008
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 55,
+    "timeMean": 0.043010419607162474
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 56,
+    "timeMean": 77.4709425586462
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 57,
+    "timeMean": 0.44793849050998685
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 58,
+    "timeMean": 21.33468911886215
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 59,
+    "timeMean": 47.70122755765915
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 60,
+    "timeMean": 0.32437824010849
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 61,
+    "timeMean": 0.09714450120925903
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 62,
+    "timeMean": 35.98311556875706
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 63,
+    "timeMean": 6.692329830527306
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 64,
+    "timeMean": 0.41541614949703215
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 65,
+    "timeMean": 0.5322579807043075
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 66,
+    "timeMean": 171.167877651453
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 67,
+    "timeMean": 9.88191073834896
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 68,
+    "timeMean": 1.2810838985443116
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 69,
+    "timeMean": 0.32033618092536925
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 70,
+    "timeMean": 1.8049499100446702
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 71,
+    "timeMean": 7.397951848506928
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 72,
+    "timeMean": 21.501532158851624
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 73,
+    "timeMean": 0.07228009045124054
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 74,
+    "timeMean": 1.0569923800230026
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 75,
+    "timeMean": 0.1510417205095291
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 76,
+    "timeMean": 244.8960127389431
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 77,
+    "timeMean": 0.20368770956993104
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 78,
+    "timeMean": 0.07983139932155608
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 79,
+    "timeMean": 250.33271108925342
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 80,
+    "timeMean": 6.565185269713401
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 81,
+    "timeMean": 2.9663815695047377
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 82,
+    "timeMean": 2.8104884403944017
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 83,
+    "timeMean": 0.13837863981723786
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 84,
+    "timeMean": 1.6185793000459672
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 85,
+    "timeMean": 0.154811469912529
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 86,
+    "timeMean": 1.0470291894674302
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 87,
+    "timeMean": 7.534234430789947
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 88,
+    "timeMean": 0.12753920018672943
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 89,
+    "timeMean": 2.814818661212921
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 90,
+    "timeMean": 0.06245513081550598
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 91,
+    "timeMean": 3.654410328865051
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 92,
+    "timeMean": 2.0880347692966463
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 93,
+    "timeMean": 39.25213319122791
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 94,
+    "timeMean": 7.232123229503632
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 95,
+    "timeMean": 0.7389772713184357
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 96,
+    "timeMean": 0.12056025922298431
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 97,
+    "timeMean": 0.24666263043880463
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 98,
+    "timeMean": 1.1727803003787995
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 99,
+    "timeMean": 1.1345935291051865
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 100,
+    "timeMean": 0.08598530113697052
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 101,
+    "timeMean": 249.9094080889225
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 102,
+    "timeMean": 18.385672000050544
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 103,
+    "timeMean": 250.73348659396171
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 104,
+    "timeMean": 220.63219721376896
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 105,
+    "timeMean": 30.748644348978996
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 106,
+    "timeMean": 0.35702293157577514
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 107,
+    "timeMean": 24.972398040890695
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 108,
+    "timeMean": 3.1751415008306503
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 109,
+    "timeMean": 7.566184350848198
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 110,
+    "timeMean": 44.19763792097569
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 111,
+    "timeMean": 0.1471496707201004
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 112,
+    "timeMean": 122.84132125794888
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 113,
+    "timeMean": 1.342737720012665
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 114,
+    "timeMean": 8.695981881022453
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 115,
+    "timeMean": 1.7991670602560044
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 116,
+    "timeMean": 0.43494374930858615
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 117,
+    "timeMean": 2.4984693688154223
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 118,
+    "timeMean": 2.6260875695943833
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 119,
+    "timeMean": 0.2513796818256378
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 120,
+    "timeMean": 0.6496999007463455
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 121,
+    "timeMean": 0.11554708778858185
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 122,
+    "timeMean": 1.621397659778595
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 123,
+    "timeMean": 81.18274345219135
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 124,
+    "timeMean": 0.06717610955238343
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 125,
+    "timeMean": 5.460173290371895
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 126,
+    "timeMean": 0.12625630021095277
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 127,
+    "timeMean": 154.0888328784704
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 128,
+    "timeMean": 2.958395929336548
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 129,
+    "timeMean": 3.3237280684709547
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 130,
+    "timeMean": 0.7884495806694031
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 131,
+    "timeMean": 32.40421046078205
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 132,
+    "timeMean": 0.22824422955513002
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 133,
+    "timeMean": 15.379169459939003
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 134,
+    "timeMean": 0.14057731986045838
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 135,
+    "timeMean": 0.4959186089038849
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 136,
+    "timeMean": 0.16484569072723387
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 137,
+    "timeMean": 0.24140869081020355
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 138,
+    "timeMean": 0.9597531390190125
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 139,
+    "timeMean": 5.506590339541435
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 140,
+    "timeMean": 74.53762406826019
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 141,
+    "timeMean": 0.41162669003009794
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 142,
+    "timeMean": 0.06533270955085754
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 143,
+    "timeMean": 11.56789909005165
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 144,
+    "timeMean": 0.058187980055809024
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 145,
+    "timeMean": 4.907894219756127
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 146,
+    "timeMean": 0.9168927001953125
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 147,
+    "timeMean": 250.41233732044697
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 148,
+    "timeMean": 250.45462536215783
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 149,
+    "timeMean": 0.5336435687541962
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 150,
+    "timeMean": 12.172784611582756
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 151,
+    "timeMean": 232.7204649615288
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 152,
+    "timeMean": 4.871385198831558
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 153,
+    "timeMean": 0.22400870084762572
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 154,
+    "timeMean": 14.20807087123394
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 155,
+    "timeMean": 0.35557811975479126
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 156,
+    "timeMean": 11.252410337924957
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 157,
+    "timeMean": 0.34847289085388183
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 158,
+    "timeMean": 2.810022630095482
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 159,
+    "timeMean": 0.24282575011253357
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 160,
+    "timeMean": 0.6730721300840378
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 161,
+    "timeMean": 0.679387959241867
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 162,
+    "timeMean": 246.63041543781756
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 163,
+    "timeMean": 0.25698104202747346
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 164,
+    "timeMean": 0.14516811192035675
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 165,
+    "timeMean": 4.3775942003726955
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 166,
+    "timeMean": 13.937285908460616
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 167,
+    "timeMean": 1.0085582304000855
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 168,
+    "timeMean": 7.85734159052372
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 169,
+    "timeMean": 6.929404240250587
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 170,
+    "timeMean": 0.35805320262908935
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 171,
+    "timeMean": 0.06351693093776703
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 172,
+    "timeMean": 0.19784952998161315
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 173,
+    "timeMean": 2.0425612288713455
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 174,
+    "timeMean": 0.7805744910240173
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 175,
+    "timeMean": 9.331364710330963
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 176,
+    "timeMean": 0.41641878068447113
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 177,
+    "timeMean": 8.40443386733532
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 178,
+    "timeMean": 2.1411662703752516
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 179,
+    "timeMean": 2.42083271920681
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 180,
+    "timeMean": 4.949921849966049
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 181,
+    "timeMean": 234.45804918289184
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 182,
+    "timeMean": 0.0852038186788559
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 183,
+    "timeMean": 0.04066966950893402
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 184,
+    "timeMean": 0.5330711889266968
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 185,
+    "timeMean": 156.19296112000941
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 186,
+    "timeMean": 0.08084194123744964
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 187,
+    "timeMean": 34.87657207131386
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 188,
+    "timeMean": 250.36863207519053
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 189,
+    "timeMean": 0.38945047080516815
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 190,
+    "timeMean": 2.388334119915962
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 191,
+    "timeMean": 13.952242479920388
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 192,
+    "timeMean": 111.78435255765915
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 193,
+    "timeMean": 0.33529659986495974
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 194,
+    "timeMean": 0.41398328125476835
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 195,
+    "timeMean": 0.5771552604436875
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 196,
+    "timeMean": 0.059944571256637574
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 197,
+    "timeMean": 0.3791833692789078
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 198,
+    "timeMean": 0.06262486934661865
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 199,
+    "timeMean": 0.23712973058223724
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 200,
+    "timeMean": 0.06925252079963684
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 201,
+    "timeMean": 2.705903168916702
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 202,
+    "timeMean": 146.7329362523556
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 203,
+    "timeMean": 0.17782463133335114
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 204,
+    "timeMean": 2.3313934308290483
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 205,
+    "timeMean": 2.373271057605743
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 206,
+    "timeMean": 1.893508911728859
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 207,
+    "timeMean": 29.276283209323882
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 208,
+    "timeMean": 26.140078407526016
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 209,
+    "timeMean": 11.561275500059129
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 210,
+    "timeMean": 153.15548377096653
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 211,
+    "timeMean": 0.2443534380197525
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 212,
+    "timeMean": 0.158470721244812
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 213,
+    "timeMean": 0.07068931996822357
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 214,
+    "timeMean": 1.7209856408834456
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 215,
+    "timeMean": 0.16528778791427612
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 216,
+    "timeMean": 0.13494836151599884
+  },
+  {
+    "plannerVersion": "2",
+    "dayPlanDefType": "B",
+    "clientID": 217,
+    "timeMean": 0.0933787202835083
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 1,
+    "timeMean": 0.23371133029460908
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 2,
+    "timeMean": 0.4752463012933731
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 3,
+    "timeMean": 0.26623755037784574
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 4,
+    "timeMean": 0.5742184787988662
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 5,
+    "timeMean": 0.24471650898456573
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 6,
+    "timeMean": 0.21058371007442475
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 7,
+    "timeMean": 0.2100587397813797
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 8,
+    "timeMean": 0.24946919202804566
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 9,
+    "timeMean": 0.4468411189317703
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 10,
+    "timeMean": 0.36046101987361906
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 11,
+    "timeMean": 0.27066250920295715
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 12,
+    "timeMean": 0.23660865008831025
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 13,
+    "timeMean": 0.2412547105550766
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 14,
+    "timeMean": 0.3286689591407776
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 15,
+    "timeMean": 0.3315308195352554
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 16,
+    "timeMean": 0.2187310689687729
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 17,
+    "timeMean": 0.25306121110916135
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 18,
+    "timeMean": 0.2241508609056473
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 19,
+    "timeMean": 0.18042585909366607
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 20,
+    "timeMean": 0.19474692165851593
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 21,
+    "timeMean": 0.21978894829750062
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 22,
+    "timeMean": 0.2216205495595932
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 23,
+    "timeMean": 0.2558560907840729
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 24,
+    "timeMean": 0.2624718165397644
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 25,
+    "timeMean": 0.2965256589651108
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 26,
+    "timeMean": 0.21920872032642363
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 27,
+    "timeMean": 0.22260743916034698
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 28,
+    "timeMean": 0.31172697186470033
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 29,
+    "timeMean": 0.31681902170181275
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 30,
+    "timeMean": 0.2150363790988922
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 31,
+    "timeMean": 0.21722717940807343
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 32,
+    "timeMean": 0.2268823903799057
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 33,
+    "timeMean": 0.22827971756458282
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 34,
+    "timeMean": 0.2368534404039383
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 35,
+    "timeMean": 0.23569682955741883
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 36,
+    "timeMean": 0.20440222859382629
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 37,
+    "timeMean": 0.17288650035858155
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 38,
+    "timeMean": 0.2316034096479416
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 39,
+    "timeMean": 0.19959825932979583
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 40,
+    "timeMean": 0.2688625591993332
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 41,
+    "timeMean": 0.2612283408641815
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 42,
+    "timeMean": 0.20838895916938782
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 43,
+    "timeMean": 0.28283223092556
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 44,
+    "timeMean": 0.2612914901971817
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 45,
+    "timeMean": 0.2208389586210251
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 46,
+    "timeMean": 0.19666145145893096
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 47,
+    "timeMean": 0.21701399028301238
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 48,
+    "timeMean": 0.18434955000877382
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 49,
+    "timeMean": 0.18845881938934325
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 50,
+    "timeMean": 0.22648376047611238
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 51,
+    "timeMean": 0.1803627496957779
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 52,
+    "timeMean": 0.22967316091060638
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 53,
+    "timeMean": 0.20208505272865296
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 54,
+    "timeMean": 0.23516400218009947
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 55,
+    "timeMean": 0.2436705106496811
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 56,
+    "timeMean": 0.24855738937854766
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 57,
+    "timeMean": 0.20738635778427125
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 58,
+    "timeMean": 0.32491116046905516
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 59,
+    "timeMean": 0.26424812972545625
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 60,
+    "timeMean": 0.21581789791584016
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 61,
+    "timeMean": 0.24183889210224152
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 62,
+    "timeMean": 0.2122889703512192
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 63,
+    "timeMean": 0.22435208201408385
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 64,
+    "timeMean": 0.22206660151481628
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 65,
+    "timeMean": 0.21168510019779205
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 66,
+    "timeMean": 0.24662707030773162
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 67,
+    "timeMean": 0.22615207850933075
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 68,
+    "timeMean": 0.19868638157844543
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 69,
+    "timeMean": 0.20735879063606263
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 70,
+    "timeMean": 0.2743414795398712
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 71,
+    "timeMean": 0.21379288971424104
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 72,
+    "timeMean": 0.2759994202852249
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 73,
+    "timeMean": 0.22877318203449248
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 74,
+    "timeMean": 0.23082194089889527
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 75,
+    "timeMean": 0.4055556279420853
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 76,
+    "timeMean": 0.23451263308525086
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 77,
+    "timeMean": 0.2433666008710861
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 78,
+    "timeMean": 0.24425866842269897
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 79,
+    "timeMean": 0.29203753113746644
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 80,
+    "timeMean": 0.24603887140750885
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 81,
+    "timeMean": 0.24233632624149323
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 82,
+    "timeMean": 0.21070208072662353
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 83,
+    "timeMean": 0.26292567908763886
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 84,
+    "timeMean": 0.29470193028450015
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 85,
+    "timeMean": 0.2774520123004913
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 86,
+    "timeMean": 0.27445599019527434
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 87,
+    "timeMean": 0.2371218001842499
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 88,
+    "timeMean": 0.31389003098011015
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 89,
+    "timeMean": 0.24414417028427124
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 90,
+    "timeMean": 0.3016730111837387
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 91,
+    "timeMean": 0.2785098594427109
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 92,
+    "timeMean": 0.26677831888198855
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 93,
+    "timeMean": 0.21126662015914918
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 94,
+    "timeMean": 0.21518634915351867
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 95,
+    "timeMean": 0.2289823693037033
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 96,
+    "timeMean": 0.2116574203968048
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 97,
+    "timeMean": 0.1967284709215164
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 98,
+    "timeMean": 0.20131134986877441
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 99,
+    "timeMean": 0.21890081822872162
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 100,
+    "timeMean": 0.19027453958988189
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 101,
+    "timeMean": 0.2647613388299942
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 102,
+    "timeMean": 0.25340466856956484
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 103,
+    "timeMean": 0.3564031094312668
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 104,
+    "timeMean": 0.3955648398399353
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 105,
+    "timeMean": 0.2739191609621048
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 106,
+    "timeMean": 0.23256657838821412
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 107,
+    "timeMean": 0.1691680496931076
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 108,
+    "timeMean": 0.20324563086032868
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 109,
+    "timeMean": 0.22653108716011047
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 110,
+    "timeMean": 0.27810335099697114
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 111,
+    "timeMean": 0.23251135051250457
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 112,
+    "timeMean": 0.17555090069770812
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 113,
+    "timeMean": 0.26258625984191897
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 114,
+    "timeMean": 0.33051245093345644
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 115,
+    "timeMean": 0.23846002101898192
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 116,
+    "timeMean": 0.23504162967205047
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 117,
+    "timeMean": 0.17649039924144744
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 118,
+    "timeMean": 0.18452321946620942
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 119,
+    "timeMean": 0.17765488862991333
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 120,
+    "timeMean": 0.18147204160690308
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 121,
+    "timeMean": 0.19353113949298859
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 122,
+    "timeMean": 0.16839440047740936
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 123,
+    "timeMean": 0.24516263902187346
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 124,
+    "timeMean": 0.18933507084846496
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 125,
+    "timeMean": 0.2837519896030426
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 126,
+    "timeMean": 0.33211509108543397
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 127,
+    "timeMean": 0.2384442311525345
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 128,
+    "timeMean": 0.19071669220924378
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 129,
+    "timeMean": 0.25925863921642306
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 130,
+    "timeMean": 0.31025454044342043
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 131,
+    "timeMean": 0.22239816009998323
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 132,
+    "timeMean": 0.14941541910171507
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 133,
+    "timeMean": 0.1872548907995224
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 134,
+    "timeMean": 0.2258876395225525
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 135,
+    "timeMean": 0.2871664202213287
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 136,
+    "timeMean": 0.19246535003185272
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 137,
+    "timeMean": 0.17396806955337524
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 138,
+    "timeMean": 0.16553643882274627
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 139,
+    "timeMean": 0.17264567971229552
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 140,
+    "timeMean": 0.24875470161437988
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 141,
+    "timeMean": 0.1973206001520157
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 142,
+    "timeMean": 0.16811803936958314
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 143,
+    "timeMean": 0.20976274192333222
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 144,
+    "timeMean": 0.22754550278186797
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 145,
+    "timeMean": 0.24281787872314453
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 146,
+    "timeMean": 0.26952971041202545
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 147,
+    "timeMean": 0.24747177958488464
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 148,
+    "timeMean": 0.30922431707382203
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 149,
+    "timeMean": 0.30989534080028536
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 150,
+    "timeMean": 0.24391918778419494
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 151,
+    "timeMean": 0.343041370511055
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 152,
+    "timeMean": 0.20242457151412963
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 153,
+    "timeMean": 0.21597180962562562
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 154,
+    "timeMean": 0.27102573931217194
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 155,
+    "timeMean": 0.21023635029792787
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 156,
+    "timeMean": 0.2027324205636978
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 157,
+    "timeMean": 0.29426378190517427
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 158,
+    "timeMean": 0.3749675178527832
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 159,
+    "timeMean": 0.2739033305644989
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 160,
+    "timeMean": 0.35394394099712373
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 161,
+    "timeMean": 0.22239818930625915
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 162,
+    "timeMean": 0.20442191004753113
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 163,
+    "timeMean": 0.2026179713010788
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 164,
+    "timeMean": 0.22710345983505248
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 165,
+    "timeMean": 0.22982314169406892
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 166,
+    "timeMean": 0.1727285385131836
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 167,
+    "timeMean": 0.17940751016139983
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 168,
+    "timeMean": 0.20524690091609954
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 169,
+    "timeMean": 0.19033376038074493
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 170,
+    "timeMean": 0.20967186093330384
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 171,
+    "timeMean": 0.20922580897808074
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 172,
+    "timeMean": 0.19379167020320892
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 173,
+    "timeMean": 0.20733108162879943
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 174,
+    "timeMean": 0.2194731903076172
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 175,
+    "timeMean": 0.23633237004280092
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 176,
+    "timeMean": 0.22199562132358552
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 177,
+    "timeMean": 0.23868113040924072
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 178,
+    "timeMean": 0.19176267802715302
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 179,
+    "timeMean": 0.16786146879196168
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 180,
+    "timeMean": 0.21103369176387787
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 181,
+    "timeMean": 0.1841403692960739
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 182,
+    "timeMean": 0.162481210231781
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 183,
+    "timeMean": 0.1638904505968094
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 184,
+    "timeMean": 0.22929029047489166
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 185,
+    "timeMean": 0.24711258947849274
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 186,
+    "timeMean": 0.18543512105941773
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 187,
+    "timeMean": 0.1814877200126648
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 188,
+    "timeMean": 0.23880735158920288
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 189,
+    "timeMean": 0.2248692297935486
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 190,
+    "timeMean": 0.2400902497768402
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 191,
+    "timeMean": 0.2806256800889969
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 192,
+    "timeMean": 0.21391529083251953
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 193,
+    "timeMean": 0.2101652902364731
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 194,
+    "timeMean": 0.23707055032253266
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 195,
+    "timeMean": 0.19323512077331542
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 196,
+    "timeMean": 0.17450094759464263
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 197,
+    "timeMean": 0.16806672871112824
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 198,
+    "timeMean": 0.17937193036079407
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 199,
+    "timeMean": 0.18227330029010771
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 200,
+    "timeMean": 0.18696272850036622
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 201,
+    "timeMean": 0.2150402408838272
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 202,
+    "timeMean": 0.21501268923282624
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 203,
+    "timeMean": 0.19076005935668947
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 204,
+    "timeMean": 0.1832364195585251
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 205,
+    "timeMean": 0.20786800026893615
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 206,
+    "timeMean": 0.21702975034713745
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 207,
+    "timeMean": 0.2224021303653717
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 208,
+    "timeMean": 0.2995691084861755
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 209,
+    "timeMean": 0.19031005918979646
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 210,
+    "timeMean": 0.18051668882369995
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 211,
+    "timeMean": 0.18765749990940095
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 212,
+    "timeMean": 0.16220888018608093
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 213,
+    "timeMean": 0.19091015100479125
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 214,
+    "timeMean": 0.1784008699655533
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 215,
+    "timeMean": 0.1982640218734741
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 216,
+    "timeMean": 0.18041013836860656
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "A",
+    "clientID": 217,
+    "timeMean": 0.2359652489423752
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 1,
+    "timeMean": 0.6581117516756058
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 2,
+    "timeMean": 0.36568735241889955
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 3,
+    "timeMean": 0.44619773983955385
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 4,
+    "timeMean": 0.22464027166366576
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 5,
+    "timeMean": 0.2851494002342224
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 6,
+    "timeMean": 0.39602276027202604
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 7,
+    "timeMean": 0.27655196249485015
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 8,
+    "timeMean": 0.1698667311668396
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 9,
+    "timeMean": 0.17836137115955353
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 10,
+    "timeMean": 0.19961409270763397
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 11,
+    "timeMean": 0.15778783202171326
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 12,
+    "timeMean": 0.16305746078491212
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 13,
+    "timeMean": 0.2489561355113983
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 14,
+    "timeMean": 0.24855341136455536
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 15,
+    "timeMean": 0.3812991279363632
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 16,
+    "timeMean": 0.1803983062505722
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 17,
+    "timeMean": 0.18331533730030058
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 18,
+    "timeMean": 0.17252323746681214
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 19,
+    "timeMean": 0.18224959015846254
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 20,
+    "timeMean": 0.18587722778320312
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 21,
+    "timeMean": 0.16997721254825593
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 22,
+    "timeMean": 0.19002973675727844
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 23,
+    "timeMean": 0.18086812615394593
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 24,
+    "timeMean": 0.1683785206079483
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 25,
+    "timeMean": 0.17933640837669373
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 26,
+    "timeMean": 0.24508753955364226
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 27,
+    "timeMean": 0.19160479962825774
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 28,
+    "timeMean": 0.1581943678855896
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 29,
+    "timeMean": 0.2231639575958252
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 30,
+    "timeMean": 0.22380743741989137
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 31,
+    "timeMean": 0.2272890329360962
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 32,
+    "timeMean": 0.14407472014427186
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 33,
+    "timeMean": 0.13118259966373444
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 34,
+    "timeMean": 0.17977843105792998
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 35,
+    "timeMean": 0.15610230028629302
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 36,
+    "timeMean": 0.09982084393501282
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 37,
+    "timeMean": 0.13990630865097045
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 38,
+    "timeMean": 0.10864320516586304
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 39,
+    "timeMean": 0.13100099861621856
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 40,
+    "timeMean": 0.12099836945533753
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 41,
+    "timeMean": 0.1865442806482315
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 42,
+    "timeMean": 0.14105491995811462
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 43,
+    "timeMean": 0.42136483132839203
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 44,
+    "timeMean": 0.25671652138233186
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 45,
+    "timeMean": 0.7328589010238648
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 46,
+    "timeMean": 0.16457330882549287
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 47,
+    "timeMean": 0.13206287026405333
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 48,
+    "timeMean": 0.1292365700006485
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 49,
+    "timeMean": 0.13576943814754486
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 50,
+    "timeMean": 0.123303701877594
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 51,
+    "timeMean": 0.14745760083198547
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 52,
+    "timeMean": 0.12063525080680847
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 53,
+    "timeMean": 0.14217207074165344
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 54,
+    "timeMean": 0.14276415824890137
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 55,
+    "timeMean": 0.13225627958774566
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 56,
+    "timeMean": 0.1372022497653961
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 57,
+    "timeMean": 0.14820763051509858
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 58,
+    "timeMean": 0.18300355792045594
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 59,
+    "timeMean": 0.15026802957057953
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 60,
+    "timeMean": 0.12702992975711822
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 61,
+    "timeMean": 0.1825575202703476
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 62,
+    "timeMean": 0.14447338104248048
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 63,
+    "timeMean": 0.17895355105400085
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 64,
+    "timeMean": 0.11427215039730072
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 65,
+    "timeMean": 0.11194716036319732
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 66,
+    "timeMean": 0.13038914084434508
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 67,
+    "timeMean": 0.19536268055438996
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 68,
+    "timeMean": 0.1321339190006256
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 69,
+    "timeMean": 0.2131692200899124
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 70,
+    "timeMean": 0.1479509389400482
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 71,
+    "timeMean": 0.21033504009246826
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 72,
+    "timeMean": 0.15311809957027436
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 73,
+    "timeMean": 0.11642340958118438
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 74,
+    "timeMean": 0.14778121948242187
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 75,
+    "timeMean": 0.1257983911037445
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 76,
+    "timeMean": 0.15352468073368072
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 77,
+    "timeMean": 0.12027602076530457
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 78,
+    "timeMean": 0.1812666916847229
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 79,
+    "timeMean": 0.20265346944332122
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 80,
+    "timeMean": 0.17352987110614776
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 81,
+    "timeMean": 0.15138519942760467
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 82,
+    "timeMean": 0.1345181804895401
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 83,
+    "timeMean": 0.16252854108810424
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 84,
+    "timeMean": 0.16270226120948791
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 85,
+    "timeMean": 0.13302208960056305
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 86,
+    "timeMean": 0.1327181476354599
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 87,
+    "timeMean": 0.1428391307592392
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 88,
+    "timeMean": 0.09874318122863769
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 89,
+    "timeMean": 0.21199685096740722
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 90,
+    "timeMean": 0.17754435062408447
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 91,
+    "timeMean": 0.18349305033683777
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 92,
+    "timeMean": 0.16450620114803313
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 93,
+    "timeMean": 0.18876276791095734
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 94,
+    "timeMean": 0.1947469276189804
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 95,
+    "timeMean": 0.16854040026664735
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 96,
+    "timeMean": 0.13668521106243134
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 97,
+    "timeMean": 0.13752202093601226
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 98,
+    "timeMean": 0.1428430598974228
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 99,
+    "timeMean": 0.19263505876064302
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 100,
+    "timeMean": 0.17894961893558503
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 101,
+    "timeMean": 0.17446539044380188
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 102,
+    "timeMean": 0.10308927893638611
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 103,
+    "timeMean": 0.20494697153568267
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 104,
+    "timeMean": 0.1440273004770279
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 105,
+    "timeMean": 0.1418484205007553
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 106,
+    "timeMean": 0.12427478194236756
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 107,
+    "timeMean": 0.12717602014541626
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 108,
+    "timeMean": 0.14439445078372956
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 109,
+    "timeMean": 0.11712992966175079
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 110,
+    "timeMean": 0.17145750999450685
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 111,
+    "timeMean": 0.1324221408367157
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 112,
+    "timeMean": 0.15059968054294587
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 113,
+    "timeMean": 0.1353944009542465
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 114,
+    "timeMean": 0.21792585968971254
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 115,
+    "timeMean": 0.14074705243110658
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 116,
+    "timeMean": 0.1419115400314331
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 117,
+    "timeMean": 0.21176401197910308
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 118,
+    "timeMean": 0.18791803002357482
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 119,
+    "timeMean": 0.11165897846221924
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 120,
+    "timeMean": 0.1278627997636795
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 121,
+    "timeMean": 0.17615485906600953
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 122,
+    "timeMean": 0.15521805107593536
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 123,
+    "timeMean": 0.11878391802310943
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 124,
+    "timeMean": 0.1748245894908905
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 125,
+    "timeMean": 0.1635746693611145
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 126,
+    "timeMean": 0.1541404592990875
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 127,
+    "timeMean": 0.2572296500205994
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 128,
+    "timeMean": 0.1802600997686386
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 129,
+    "timeMean": 0.15056805014610292
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 130,
+    "timeMean": 0.14886677026748657
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 131,
+    "timeMean": 0.14629310131072998
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 132,
+    "timeMean": 0.36790574848651886
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 133,
+    "timeMean": 0.14160367131233215
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 134,
+    "timeMean": 0.13729703962802886
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 135,
+    "timeMean": 0.24806787133216857
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 136,
+    "timeMean": 0.17461930930614472
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 137,
+    "timeMean": 0.15761015951633453
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 138,
+    "timeMean": 0.1192142391204834
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 139,
+    "timeMean": 0.1561575597524643
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 140,
+    "timeMean": 0.12898391962051392
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 141,
+    "timeMean": 0.1550759816169739
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 142,
+    "timeMean": 0.4184635406732559
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 143,
+    "timeMean": 0.22631388008594513
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 144,
+    "timeMean": 0.2014179390668869
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 145,
+    "timeMean": 0.143056258559227
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 146,
+    "timeMean": 0.13569051921367645
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 147,
+    "timeMean": 0.17253902912139893
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 148,
+    "timeMean": 0.19172331035137177
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 149,
+    "timeMean": 0.1593943405151367
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 150,
+    "timeMean": 0.14901677012443543
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 151,
+    "timeMean": 0.16410752952098848
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 152,
+    "timeMean": 0.16916408777236938
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 153,
+    "timeMean": 0.11750889003276825
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 154,
+    "timeMean": 0.12843531131744385
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 155,
+    "timeMean": 0.11559840977191925
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 156,
+    "timeMean": 0.09848661124706268
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 157,
+    "timeMean": 0.09756294012069702
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 158,
+    "timeMean": 0.14626944541931153
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 159,
+    "timeMean": 0.08496694922447205
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 160,
+    "timeMean": 0.12446417152881623
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 161,
+    "timeMean": 0.2253350293636322
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 162,
+    "timeMean": 0.164186469912529
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 163,
+    "timeMean": 0.11810498893260955
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 164,
+    "timeMean": 0.12917346894741058
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 165,
+    "timeMean": 0.15937860071659088
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 166,
+    "timeMean": 0.15871145069599152
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 167,
+    "timeMean": 0.18171279311180114
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 168,
+    "timeMean": 0.1866113704442978
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 169,
+    "timeMean": 0.16468781113624573
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 170,
+    "timeMean": 0.12422728955745697
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 171,
+    "timeMean": 0.21290870070457457
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 172,
+    "timeMean": 0.11792344033718109
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 173,
+    "timeMean": 0.13457338869571686
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 174,
+    "timeMean": 0.16824442982673646
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 175,
+    "timeMean": 0.11720891892910004
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 176,
+    "timeMean": 0.1876535403728485
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 177,
+    "timeMean": 0.11722868025302886
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 178,
+    "timeMean": 0.16179438173770905
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 179,
+    "timeMean": 0.1482114815711975
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 180,
+    "timeMean": 0.16794832170009613
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 181,
+    "timeMean": 0.2687677985429764
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 182,
+    "timeMean": 0.19151009023189544
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 183,
+    "timeMean": 0.18069435954093932
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 184,
+    "timeMean": 0.13234316051006317
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 185,
+    "timeMean": 0.1657101708650589
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 186,
+    "timeMean": 0.15897202134132385
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 187,
+    "timeMean": 0.15214308857917785
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 188,
+    "timeMean": 0.14819967091083527
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 189,
+    "timeMean": 0.16672067940235138
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 190,
+    "timeMean": 0.13871819913387298
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 191,
+    "timeMean": 0.1495141488313675
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 192,
+    "timeMean": 0.14447336971759797
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 193,
+    "timeMean": 0.1584233421087265
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 194,
+    "timeMean": 0.14995222866535188
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 195,
+    "timeMean": 0.12412868976593018
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 196,
+    "timeMean": 0.14144178926944734
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 197,
+    "timeMean": 0.13796816051006316
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 198,
+    "timeMean": 0.14446152091026307
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 199,
+    "timeMean": 0.137423357963562
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 200,
+    "timeMean": 0.15014970898628235
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 201,
+    "timeMean": 0.13820891082286835
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 202,
+    "timeMean": 0.29471380054950713
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 203,
+    "timeMean": 0.28578093111515046
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 204,
+    "timeMean": 0.21853373765945436
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 205,
+    "timeMean": 0.16370488166809083
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 206,
+    "timeMean": 0.13983909904956818
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 207,
+    "timeMean": 0.3028295791149139
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 208,
+    "timeMean": 0.2268744397163391
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 209,
+    "timeMean": 0.2593414694070816
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 210,
+    "timeMean": 0.15145624101161956
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 211,
+    "timeMean": 0.12254179000854493
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 212,
+    "timeMean": 0.14137857854366304
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 213,
+    "timeMean": 0.1225812315940857
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 214,
+    "timeMean": 0.14045491874217986
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 215,
+    "timeMean": 0.16803512036800383
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 216,
+    "timeMean": 0.12841551005840302
+  },
+  {
+    "plannerVersion": "3",
+    "dayPlanDefType": "B",
+    "clientID": 217,
+    "timeMean": 0.13524042010307313
+  }
+]

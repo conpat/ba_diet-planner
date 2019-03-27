@@ -1,0 +1,4 @@
+node_modules/
+diet_planner/results/*/*/*/*.json
+R/.RData
+R/.Rhistory
