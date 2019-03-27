@@ -20,20 +20,20 @@ export default class nutritionalValue {
     //console.log(`${rProtein} - ${rFat} - ${rCarbs}`)
 
     let protein = rProtein > 1 ? 0 : 1
-    while (protein == 0) {
-      protein = this.helper.getRandomPosition(rProtein)
+    while (protein === 0) {
+      protein = this.helper.getRandomNumber(rProtein)
     }
     rProtein -= protein
 
     let fat = rFat > 1 ? 0 : 1
-    while (fat == 0) {
-      fat = this.helper.getRandomPosition(rFat)
+    while (fat === 0) {
+      fat = this.helper.getRandomNumber(rFat)
     }
     rFat -= fat
 
     let carbs = rCarbs > 1 ? 0 : 1
-    while (carbs == 0) {
-      carbs = this.helper.getRandomPosition(rCarbs)
+    while (carbs === 0) {
+      carbs = this.helper.getRandomNumber(rCarbs)
     }
     rCarbs -= carbs
     

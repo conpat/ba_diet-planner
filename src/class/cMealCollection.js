@@ -49,14 +49,16 @@ export default class MealCollection {
     }
   }
   getMeal(targetMacros, minSimilarity, planner) {
+    
     if (this.currentPool.length < 1) {
       throw "no meal found: getting meal"
-      console.log("Why dafug is nothing here.")
+      /*console.log("Why dafug is nothing here.")
       console.log(`mealTyp: ${this.currentMealTyp}`)
-      return
+      return*/
     }
     let best = 0
     let indexOfBest = -1
+    let debugValues = []
     let rndIndexArray = this.helper.getRandomIndexArray(this.currentPool.length)
 
     for (let rndIndex of rndIndexArray) {
@@ -67,6 +69,7 @@ export default class MealCollection {
         this.currentPool[rndIndex].total_carbs,
       )
       let similarity = rndMealNV.cosineSimilarity(targetMacros)
+      debugValues.push(similarity)
       //console.log("similarity")
       //console.log(similarity)
       if (similarity > best) {
@@ -82,8 +85,10 @@ export default class MealCollection {
     }
 
     if (indexOfBest < 0) {
-      console.log("indexOfBest < 0")
       console.log(this.currentPool)
+      console.log(`indexOfBest < 0 : rndIndexArray.length: ${rndIndexArray.length} - targetMacros: `)
+      console.log(targetMacros)
+      console.log(debugValues)
       console.error("ERROR: no recipe found in find match, this shouldn't happen.")
     }
     return this.currentPool[indexOfBest]

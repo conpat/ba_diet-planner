@@ -51,7 +51,11 @@ export default class Helper {
   }
 
   getRandomPosition(lengthOfArray) {
-    return Math.floor(Math.random() * lengthOfArray)
+    return Math.floor(this.getRandomNumber(lengthOfArray))
+  }
+
+  getRandomNumber(maxima) {
+    return Math.random() * maxima
   }
 
   digitToBoolean(value) {
