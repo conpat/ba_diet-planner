@@ -7,7 +7,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 82,
     "body_fat_percentage": 15,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -51,7 +50,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 63,
     "body_fat_percentage": 30,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -70,7 +68,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 92,
     "body_fat_percentage": 17,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -89,7 +86,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 86,
     "body_fat_percentage": 15,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -114,7 +110,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 91,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -139,7 +134,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 66,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -164,7 +158,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 71,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -183,7 +176,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 85,
     "body_fat_percentage": 17,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -208,7 +200,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 120,
     "body_fat_percentage": 27,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -220,7 +211,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 90,
     "body_fat_percentage": 22,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -239,7 +229,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 72,
     "body_fat_percentage": 32,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -264,7 +253,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 82,
     "body_fat_percentage": 17,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -276,7 +264,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 110,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -295,7 +282,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 100,
     "body_fat_percentage": 15,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -314,7 +300,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 86,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -333,7 +318,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 112,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -376,7 +360,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 65,
     "body_fat_percentage": 10,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -388,7 +371,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 59,
     "body_fat_percentage": 29,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -412,7 +394,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 74,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -456,7 +437,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 95,
     "body_fat_percentage": 29,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -475,7 +455,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 105,
     "body_fat_percentage": 21,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -494,7 +473,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 94,
     "body_fat_percentage": 11,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -513,7 +491,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 62,
     "body_fat_percentage": 30,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -538,7 +515,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 45.8,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -563,7 +539,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 71,
     "body_fat_percentage": 17,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -588,7 +563,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 104.5,
     "body_fat_percentage": 10,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -607,7 +581,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 69,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -619,7 +592,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 52,
     "body_fat_percentage": 10,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -638,7 +610,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 80,
     "body_fat_percentage": 13,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": []
   },
@@ -650,7 +621,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 92,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -675,7 +645,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 74,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -687,7 +656,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 88,
     "body_fat_percentage": 11,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -706,7 +674,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 82,
     "body_fat_percentage": 17,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -725,7 +692,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 49,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -750,7 +716,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 79,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -788,7 +753,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 85,
     "body_fat_percentage": 36,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -813,7 +777,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 84,
     "body_fat_percentage": 29,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -832,7 +795,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 73,
     "body_fat_percentage": 22,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -863,7 +825,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 65,
     "body_fat_percentage": 13,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -882,7 +843,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 115,
     "body_fat_percentage": 26,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -894,7 +854,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 70,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -913,7 +872,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 78,
     "body_fat_percentage": 11,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 1,
     "sport_activities": [
       {
@@ -932,7 +890,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 99.5,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -957,7 +914,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 71,
     "body_fat_percentage": 13,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -976,7 +932,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 77,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -995,7 +950,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 82,
     "body_fat_percentage": 15,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1014,7 +968,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 88,
     "body_fat_percentage": 28,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1033,7 +986,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 75,
     "body_fat_percentage": 18,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1070,7 +1022,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 85.5,
     "body_fat_percentage": 18,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1101,7 +1052,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 66,
     "body_fat_percentage": 18,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1145,7 +1095,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 83,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1164,7 +1113,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 85,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1189,7 +1137,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 89,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1208,7 +1155,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 85,
     "body_fat_percentage": 13,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1233,7 +1179,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 65,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -1252,7 +1197,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 87,
     "body_fat_percentage": 21,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1302,7 +1246,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 85,
     "body_fat_percentage": 15,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1321,7 +1264,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 95,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1346,7 +1288,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 90,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1358,7 +1299,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 85,
     "body_fat_percentage": 21,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -1377,7 +1317,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 65,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": []
   },
@@ -1389,7 +1328,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 80,
     "body_fat_percentage": 13,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1401,7 +1339,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 65,
     "body_fat_percentage": 22,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1420,7 +1357,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 66,
     "body_fat_percentage": 27,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1432,7 +1368,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 92,
     "body_fat_percentage": 39,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 1,
     "sport_activities": []
   },
@@ -1444,7 +1379,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 52,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1456,7 +1390,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 95,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1475,7 +1408,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 68,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1487,7 +1419,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 100,
     "body_fat_percentage": 31,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1499,7 +1430,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 82,
     "body_fat_percentage": 10,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1518,7 +1448,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 62,
     "body_fat_percentage": 5,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1530,7 +1459,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 124,
     "body_fat_percentage": 50,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1542,7 +1470,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 73,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1554,7 +1481,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 58,
     "body_fat_percentage": 21,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1566,7 +1492,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 66,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1578,7 +1503,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 68,
     "body_fat_percentage": 12,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -1590,7 +1514,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 70.7,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -1602,7 +1525,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 68.7,
     "body_fat_percentage": 18,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1614,7 +1536,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 70,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1670,7 +1591,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 91,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -1689,7 +1609,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 60,
     "body_fat_percentage": 18,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -1720,7 +1639,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 65,
     "body_fat_percentage": 38,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1739,7 +1657,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 68,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -1776,7 +1693,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 66,
     "body_fat_percentage": 37,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -1831,7 +1747,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 78,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1856,7 +1771,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 72,
     "body_fat_percentage": 13,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1900,7 +1814,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 90,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -1956,7 +1869,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 104,
     "body_fat_percentage": 40,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -1993,7 +1905,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 120,
     "body_fat_percentage": 27,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2005,7 +1916,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 92,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2024,7 +1934,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 72,
     "body_fat_percentage": 26,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2043,7 +1952,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 74,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2055,7 +1963,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 80,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2067,7 +1974,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 65,
     "body_fat_percentage": 26,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2086,7 +1992,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 80,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2105,7 +2010,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 76,
     "body_fat_percentage": 32,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2136,7 +2040,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 90,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2161,7 +2064,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 100,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2186,7 +2088,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 81,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -2224,7 +2125,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 45,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -2249,7 +2149,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 65,
     "body_fat_percentage": 35,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2287,7 +2186,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 75,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2312,7 +2210,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 42,
     "body_fat_percentage": 18,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2331,7 +2228,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 61,
     "body_fat_percentage": 27,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 1,
     "sport_activities": [
       {
@@ -2350,7 +2246,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 52,
     "body_fat_percentage": 31,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2362,7 +2257,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 86.1,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2374,7 +2268,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 65,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2424,7 +2317,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 91,
     "body_fat_percentage": 40,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2443,7 +2335,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 80,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -2455,7 +2346,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 80,
     "body_fat_percentage": 15,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -2467,7 +2357,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 53,
     "body_fat_percentage": 26,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2486,7 +2375,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 85,
     "body_fat_percentage": 22,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2505,7 +2393,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 66,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2524,7 +2411,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 100,
     "body_fat_percentage": 33,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 1,
     "sport_activities": [
       {
@@ -2543,7 +2429,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 72,
     "body_fat_percentage": 36,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -2555,7 +2440,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 65,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2580,7 +2464,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 75,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2599,7 +2482,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 78,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -2618,7 +2500,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 95,
     "body_fat_percentage": 28,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2667,7 +2548,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 100,
     "body_fat_percentage": 10,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -2705,7 +2585,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 60,
     "body_fat_percentage": 22,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2730,7 +2609,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 74,
     "body_fat_percentage": 29,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2780,7 +2658,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 95,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2792,7 +2669,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 110,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2804,7 +2680,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 130,
     "body_fat_percentage": 40,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2816,7 +2691,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 76,
     "body_fat_percentage": 22,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2828,7 +2702,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 72.5,
     "body_fat_percentage": 18,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2847,7 +2720,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 98,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -2859,7 +2731,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 76,
     "body_fat_percentage": 34,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2884,7 +2755,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 74,
     "body_fat_percentage": 13,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2903,7 +2773,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 86,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2934,7 +2803,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 80,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -2946,7 +2814,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 89,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -2958,7 +2825,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 81,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -2983,7 +2849,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 69,
     "body_fat_percentage": 30,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3014,7 +2879,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 74,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3058,7 +2922,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 60,
     "body_fat_percentage": 21,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -3077,7 +2940,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 111,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3089,7 +2951,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 72,
     "body_fat_percentage": 21,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3120,7 +2981,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 59.8,
     "body_fat_percentage": 12,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3157,7 +3017,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 79,
     "body_fat_percentage": 31,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -3182,7 +3041,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 83,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3207,7 +3065,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 90,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3219,7 +3076,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 60,
     "body_fat_percentage": 34,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3231,7 +3087,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 76,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3250,7 +3105,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 81,
     "body_fat_percentage": 32,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -3262,7 +3116,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 46,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3287,7 +3140,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 71,
     "body_fat_percentage": 18,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3312,7 +3164,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 70,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3368,7 +3219,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 53,
     "body_fat_percentage": 29,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -3443,7 +3293,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 70,
     "body_fat_percentage": 26,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3468,7 +3317,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 65,
     "body_fat_percentage": 28,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3487,7 +3335,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 100,
     "body_fat_percentage": 41,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3499,7 +3346,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 50,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -3549,7 +3395,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 70,
     "body_fat_percentage": 28,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -3574,7 +3419,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 84,
     "body_fat_percentage": 46,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3586,7 +3430,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 53,
     "body_fat_percentage": 17,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3629,7 +3472,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 120,
     "body_fat_percentage": 5,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3648,7 +3490,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 83,
     "body_fat_percentage": 13,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3667,7 +3508,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 80,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -3686,7 +3526,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 92,
     "body_fat_percentage": 42,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -3698,7 +3537,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 90,
     "body_fat_percentage": 22,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3710,7 +3548,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 60,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": [
       {
@@ -3729,7 +3566,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 93,
     "body_fat_percentage": 11,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3798,7 +3634,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 86,
     "body_fat_percentage": 20,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3848,7 +3683,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 60,
     "body_fat_percentage": 34,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.85,
     "sport_activities": []
   },
@@ -3860,7 +3694,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 48,
     "body_fat_percentage": 12,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": []
   },
@@ -3872,7 +3705,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 71.8,
     "body_fat_percentage": 30,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -3909,7 +3741,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 90,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3921,7 +3752,6 @@
     "overall_goal": "performance_increase",
     "weight_in_kg": 80,
     "body_fat_percentage": 24,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3933,7 +3763,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 55,
     "body_fat_percentage": 23,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -3945,7 +3774,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 75,
     "body_fat_percentage": 32,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -3989,7 +3817,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 90.5,
     "body_fat_percentage": 17,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -4008,7 +3835,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 98,
     "body_fat_percentage": 27,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 1,
     "sport_activities": [
       {
@@ -4027,7 +3853,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 76,
     "body_fat_percentage": 19,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -4046,7 +3871,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 89,
     "body_fat_percentage": 29,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -4065,7 +3889,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 71,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.5,
     "sport_activities": [
       {
@@ -4084,7 +3907,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 67,
     "body_fat_percentage": 16,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -4128,7 +3950,6 @@
     "overall_goal": "fat_reduction",
     "weight_in_kg": 55,
     "body_fat_percentage": 31,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   },
@@ -4140,7 +3961,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 66,
     "body_fat_percentage": 14,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -4159,7 +3979,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 63,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": [
       {
@@ -4178,7 +3997,6 @@
     "overall_goal": "muscle_gain",
     "weight_in_kg": 58,
     "body_fat_percentage": 25,
-    "diet_type": "Keine spezielle Ernährungsform",
     "job_pal": 0.3,
     "sport_activities": []
   }
