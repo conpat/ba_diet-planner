@@ -5,27 +5,35 @@
 #install.packages("jsonlite", repos="http://cran.r-project.org")
 
 library(jsonlite)
+library(dplyr)
 
 performance = fromJSON("./data/benchmark-performance.json")
 
-png("diet_planner-boxplot_2.png")
-boxplot(time~plannerVersion,
-        data = benchmarkData,
-        main = "Algorithmus Benchmark",
-        xlab = "Algorithmus Varianten",
-        ylab = "Zeit je Auführung in ms",
-        ylim = c(0,2))
+dplyr::count(performance, plannerVersion, dayPlanDefType)
 
-boxplot(time~plannerVersion,
-        data = benchmarkData,
-        main = "Algorithmus Benchmark",
-        xlab = "Algorithmus Varianten",
-        ylab = "Zeit je Auführung in ms")
+
+performance_planner_2 <- subset(performance, plannerVersion == 2)
+png("benchmark-performance-planner_2.png", width = 300, height = 500)
+boxplot(timeMean~dayPlanDefType*plannerVersion,
+        data = performance_planner_2,
+        main = "Leistung",
+        xlab = "Algorithmen und Tagesplandefinition",
+        ylab = "Zeit je Ausführung in ms",
+        ylim = c(0,35))
 dev.off()
 
-time <- benchmarkData$time~plannerVerion
+performance_planner_1_3 <- subset(performance, plannerVersion == 1 | plannerVersion == 3)
+png("benchmark-performance-planner_1_3.png", width = 600, height = 500)
+boxplot(timeMean~dayPlanDefType*plannerVersion,
+        data = performance_planner_1_3,
+        main = "Leistung",
+        xlab = "Algorithmen und Tagesplandefinition",
+        ylab = "Zeit je Ausführung in ms",
+        ylim = c(0,0.5))
+dev.off()
+
+
 time1 <- subset(benchmarkData1, plannerVersion == "baseline" & clientID == 15, select = c(time))$time
-time <- subset(benchmarkData, plannerVersion == "baseline", select = c(time))$time
 
 summary(time1)
 sd(time1)
@@ -48,20 +56,5 @@ hist(time2,
      breaks = 200)
 lines(density(time2), col="blue", lwd=2) # add a density estimate with defaults
 lines(density(time2, adjust=2), lty="dotted", col="darkgreen", lwd=2) 
-
-boxplot(time2,
-        data = benchmarkData,
-        main = "Klient #1",
-        ylab = "Zeit je Auführung in ms")
-
-
-
-
-
-hist(X, prob=TRUE, col="grey")# prob=TRUE for probabilities not counts
-lines(density(X), col="blue", lwd=2) # add a density estimate with defaults
-lines(density(X, adjust=2), lty="dotted", col="darkgreen", lwd=2) 
-
-
 
 
