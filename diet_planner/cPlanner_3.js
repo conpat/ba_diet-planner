@@ -75,15 +75,21 @@ export class DietPlanner_3 extends DietPlanner {
       dayPlan[rndIndex] = this.mealCollection.getMeal(macros, 0.9, this) // handle error and handle TimeOut
 
       //console.log("dayPlan[rndIndex]")
-      //console.log(dayPlan[rndIndex])
+      //console.log(rndIndex)
 
       // adjust the remaining nutritional values
       remainingNutritionalValue.kcalories -= dayPlan[rndIndex].total_kcal ? dayPlan[rndIndex].total_kcal : 0
+      remainingNutritionalValue.kcalories = remainingNutritionalValue.kcalories >= 0 ? remainingNutritionalValue.kcalories : 0
+
       remainingNutritionalValue.protein -= dayPlan[rndIndex].total_protein ? dayPlan[rndIndex].total_protein : 0
-      //console.log(dayPlan[rndIndex].total_protein)
+      remainingNutritionalValue.protein = remainingNutritionalValue.protein >= 0 ? remainingNutritionalValue.protein : 0
+
       remainingNutritionalValue.fat -= dayPlan[rndIndex].total_fat ? dayPlan[rndIndex].total_fat : 0
+      remainingNutritionalValue.fat = remainingNutritionalValue.fat >= 0 ? remainingNutritionalValue.fat : 0
+
       remainingNutritionalValue.carbs -= dayPlan[rndIndex].total_carbs ? dayPlan[rndIndex].total_carbs : 0
-      //console.log(`${remainingPercentage}${mealDef.dailyKaloriesPercentage}${}`)
+      remainingNutritionalValue.carbs = remainingNutritionalValue.carbs >= 0 ? remainingNutritionalValue.carbs : 0
+
       remainingPercentage -= mealDef.dailyKaloriesPercentage ? mealDef.dailyKaloriesPercentage : 0
     })
     //console.log(dayPlan)
