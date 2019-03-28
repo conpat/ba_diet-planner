@@ -56,7 +56,7 @@ export default class MealCollection {
       console.log(`mealTyp: ${this.currentMealTyp}`)
       return*/
     }
-    let best = 0
+    let best = -1
     let indexOfBest = -1
     let debugValues = []
     let rndIndexArray = this.helper.getRandomIndexArray(this.currentPool.length)
