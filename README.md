@@ -7,10 +7,10 @@ This repository provides source code used for my bachelor-thesis at the Universi
 [Node.js](https://nodejs.org/) v11.12+
 [npm](https://npmjs.com/) v6.9+
 
-Either you use the source from the CD attached to the thesis or (rcommended) the final commit from GitHub.
+Either you use the source from the CD attached to the thesis or (recommended) the final commit from GitHub.
 
-If you read this, you are using v0.1.0. Commited and taged by Friday the 29-03-2019. Due to the weekend I have to submit my printed thesis (attached with this code) 2 days before the deadline.
-I will fix some minore issues till sunday night and tag the commit with v0.1.1.
+If you read this, you are using v0.1.0. Committed and taged by Friday the 29-03-2019. Due to the weekend I have to submit my printed thesis (attached with this code) 2 days before the deadline.
+I will fix some minor issues till Sunday night and tag the commit with v0.1.1.
 
 ```sh
 $ git clone https://github.com/conpat/ba_diet-planner.git
@@ -33,7 +33,7 @@ The CLI will give you rudimentary help about the available <commands> and <optio
 $ node index.js -h
 ```
 
-Basicly you can run
+Basically you can run
 - a single test.
 - all tests together
 - prepare the date for further evaluation
@@ -43,7 +43,7 @@ With the plain `test` <command> you run all three algorithms in all possible var
 ```sh
 $ node index.js test
 ```
-Adding the planner_version option <-1/-2/-3> you run the test just for one of the algorithms. This can be usefull if you want create just the testdate for one specific algorithm.
+Adding the planner_version option <-1/-2/-3> you run the test just for one of the algorithms. This can be useful if you want create just the test date for one specific algorithm.
 ```sh
 $ node index.js test -2
 ```
