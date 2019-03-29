@@ -1,15 +1,24 @@
 # ba_diet_planner
 
-In this repository you can find the source code used for my bachelor-thesis at the University of Regensburg.
+This repository provides source code used for my bachelor-thesis at the University of Regensburg.
 
 
 ## Ready... (Requirements)
 [Node.js](https://nodejs.org/) v11.12+
 [npm](https://npmjs.com/) v6.9+
 
-## Set... (Install)
+Either you use the source from the CD attached to the thesis or (rcommended) the final commit from GitHub.
 
-Either you use the source from the CD attached to the thesis, or (rcommended) you use the final commit from GitHub.
+If you read this, you are using v0.1.0. Commited and taged by Friday the 29-03-2019. Due to the weekend I have to submit my printed thesis (attached with this code) 2 days before the deadline.
+I will fix some minore issues till sunday night and tag the commit with v0.1.1.
+
+```sh
+$ git clone https://github.com/conpat/ba_diet-planner.git
+$ git checkout v0.1.1
+```
+or copy the source code to your working directory
+
+## Set... (Install)
 
 Install the dependencies.
 

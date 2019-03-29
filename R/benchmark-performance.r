@@ -13,7 +13,7 @@ dplyr::count(performance, plannerVersion, dayPlanDefType)
 
 
 performance_planner_2 <- subset(performance, plannerVersion == 2)
-png("benchmark-performance-planner_2.png", width = 300, height = 500)
+png("benchmark-performance-planner_2.png", width = 260, height = 500)
 boxplot(timeMean~dayPlanDefType*plannerVersion,
         data = performance_planner_2,
         main = "Leistung",
@@ -23,7 +23,7 @@ boxplot(timeMean~dayPlanDefType*plannerVersion,
 dev.off()
 
 performance_planner_1_3 <- subset(performance, plannerVersion == 1 | plannerVersion == 3)
-png("benchmark-performance-planner_1_3.png", width = 600, height = 500)
+png("benchmark-performance-planner_1_3.png", width = 533, height = 500)
 boxplot(timeMean~dayPlanDefType*plannerVersion,
         data = performance_planner_1_3,
         main = "Leistung",

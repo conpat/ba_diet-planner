@@ -39,7 +39,7 @@ export default class Client {
 
     this.dailyKiloCalories = (this.RMR + this.NEAT + this.TEA) * this.goal_factor
     this.dailyProteinInG = this.calcProtein(this.weightInKg, this.overallGoal, ((this.NEAT + this.TEA) / this.RMR), this.isMale)
-    this.dailyFatInG = this.calcFat(this.dailyKilokalories)
+    this.dailyFatInG = this.calcFat(this.dailyKiloCalories)
     this.dailyCarbsInG = this.calcCarbs(this.dailyKiloCalories, this.dailyProteinInG, this.dailyFatInG)
     this.dailyFibreInG = this.calcFibre(this.dailyKiloCalories)
   }

@@ -12,7 +12,7 @@ mealVariety = fromJSON("./data/benchmark-meal_variety.json")
 dplyr::count(mealVariety, plannerVersion, dayPlanDefType)
 
 
-png("benchmark-meal_variety.png", width = 900, height = 500)
+png("benchmark-meal_variety.png", width = 800, height = 500)
 boxplot(quotient~dayPlanDefType*plannerVersion,
         data = mealVariety,
         main = "Gerichtvielfältigkeit",

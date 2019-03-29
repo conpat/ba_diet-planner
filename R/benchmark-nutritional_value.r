@@ -9,7 +9,7 @@ library(dplyr)
 
 nutritionalValues = fromJSON("./data/benchmark-nutritional_values.json")
 
-png("benchmark-nutritional_value_calories.png", width = 900, height = 500)
+png("benchmark-nutritional_value_calories.png", width = 800, height = 500)
 boxplot(caloriesPercentage~dayPlanDefType*plannerVersion,
         data = nutritionalValues,
         main = "Genauigkeit der N‰hrwerte - Kalorien",
@@ -18,7 +18,7 @@ boxplot(caloriesPercentage~dayPlanDefType*plannerVersion,
         ylim = c(-20, 20))
 dev.off()
 
-png("benchmark-nutritional_value_protein.png", width = 900, height = 500)
+png("benchmark-nutritional_value_protein.png", width = 800, height = 500)
 boxplot(proteinPercentage~dayPlanDefType*plannerVersion,
         data = nutritionalValues,
         main = "Genauigkeit der N‰hrwerte - Eiweiﬂ",

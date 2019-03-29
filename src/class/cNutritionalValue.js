@@ -10,14 +10,11 @@ export default class nutritionalValue {
     this.carbs = c
     this.fibres = fi
   }
-  getRandomSplitMacros( /*splitAmount = 2*/ ) {
+  getRandomSplitMacros() {
     let result = []
     let rProtein = this.protein
     let rFat = this.fat
     let rCarbs = this.carbs
-
-    /*for (let i = 0; i < splitAmount - 1; i++) {*/
-    //console.log(`${rProtein} - ${rFat} - ${rCarbs}`)
 
     let protein = rProtein > 1 ? 0 : 1
     while (protein === 0) {

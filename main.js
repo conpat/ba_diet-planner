@@ -8,6 +8,10 @@ import MealCollection from "./src/class/cMealCollection.js"
 import NutritionalValue from "./src/class/cNutritionalValue.js"
 import _ from "lodash"
 
+//The following imports are just here to make the demo
+import { configParameters } from "./data/config.js"
+import { DietPlanner_3 } from "./diet_planner/cPlanner_3.js"
+
 //global extension of the standard Math Object
 Math.avg = function(arr) {
   let sum = arr.reduce((sum, el) => {
@@ -40,14 +44,11 @@ class main {
     try {
       switch (command) {
         case "client":
-          if (options.includes("-cnr") || options.includes("--calculateNutritionalRequirements")) {
-            this.clients.calculateNutritionalRequirements()
-          } else this.printHelp()
+          this.clients.calculateNutritionalRequirements()
+          console.log(this.clients.clients)
           break
         case "test":
-          // creat Clients-Date which are needed to test 
-          this.executeCommand("client", ["-cnr"])
-
+          this.clients.calculateNutritionalRequirements()
           let bench = new Benchmarking(this.clients.clients)
           if (options.includes("-1")) {
             bench.testDietPlanner(1)
@@ -57,11 +58,6 @@ class main {
             bench.testDietPlanner(3)
           } else {
             bench.testDietPlanner()
-            /*
-            bench.testDietPlanner_3()
-            bench.testDietPlanner_1()
-            bench.testDietPlanner_2()
-            */
           }
           bench.logElepsedTime()
           break
@@ -81,7 +77,13 @@ class main {
             data.prepareBenchmarkData("diet-planner_3")
           } else data.prepareBenchmarkData()
           break
-        case "debug":
+        case "demo":
+          this.clients.calculateNutritionalRequirements()
+          const dietPlanner = new DietPlanner_3(this.clients.clients[1], configParameters.dayPlanDefinitions[0], configParameters.timeoutPerDay, configParameters.dailyPlanTolerance)
+          const dayPlan = dietPlanner.planDay()
+          console.log(dietPlanner.client)
+          console.log(dayPlan)
+          console.log(dietPlanner.sumUpNutritionalValue(dayPlan))
           break
         default:
           console.log(`"${command}" is not a valid command.
@@ -110,8 +112,7 @@ The following <commands> are in use:
 
 node index.js <-h/--help/?>                                        quick help on index.js
 
-node index.js client <options>                                     client specific operations
-                    -cnr, --calculateNutritionalRequirements       calculate the rutritional requirements for each client
+node index.js client <options>                                     calculate the rutritional requirements for each client and writes them to the console
 
 node index.js test <options>                                       test all Planner
                    -1/-2/-3                                        just testing 1st, 2nd or 3rd Planner
@@ -119,7 +120,9 @@ node index.js test <options>                                       test all Plan
 node index.js data <options>                                       prepare the generated data for further analyses in R
                    -1/-2/-3                                        just prepare data from 1st, 2nd or 3rd Planner
                    --mealsStatiscs                                 get Information about the used meals
-                   --clientsStatistics                             get Information about the used clients`
+                   --clientsStatistics                             get Information about the used clients
+
+node index.js demo                                                 plans and saves one day with diet-planner_3`
     console.log(helpMsg)
   }
 }
