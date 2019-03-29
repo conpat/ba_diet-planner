@@ -1,13 +1,5 @@
 "use strict"
 
-/*
-  in this file the benchmarking get handled
-    - configurate a single benchmark
-    - organize benchmarks
-    - save benchmark results
- */
-
-
 import { PerformanceObserver, performance } from "perf_hooks"
 import {configParameters} from "./../data/config.js"
 import Helper from "./../src/class/cHelper.js"
@@ -47,40 +39,6 @@ export default class Benchmarking {
           this.saveBenchmarkResult(benchmarks[benchmarks.length - 1])
         })
       })
-    })
-  }
-  testDietPlanner_1() {
-    console.log("testDietPlanner_1")
-    let dietPlanners = []
-    let benchmarks = []
-    this.clients.forEach(client => {
-      dietPlanners.push(new DietPlanner_1(client))
-      benchmarks.push(new Runner(`dietPlaner_1-c_${client.id}`, dietPlanners[dietPlanners.length - 1], this.iterations))
-      benchmarks[benchmarks.length - 1].runTests()
-      this.saveBenchmarkResult(benchmarks[benchmarks.length - 1])
-    })
-  }
-  testDietPlanner_2() {
-    console.log("testDietPlanner2")
-    let dietPlanners = []
-    let benchmarks = []
-    this.clients.forEach(client => {
-      dietPlanners.push(new EietPlanner_2(client))
-      benchmarks.push(new Runner(`dietPlaner_2-c_${client.id}`, dietPlanners[dietPlanners.length - 1], this.iterations))
-      benchmarks[benchmarks.length - 1].runTests()
-
-      this.saveBenchmarkResult(benchmarks[benchmarks.length - 1])
-    })
-  }
-  testDietPlanner_3() {
-    console.log("testDietPlanner3")
-    let dietPlanners = []
-    let benchmarks = []
-    this.clients.forEach(client => {
-      dietPlanners.push(new DietPlanner_3(client))
-      benchmarks.push(new Runner(`dietPlaner_3-c_${client.id}`, dietPlanners[dietPlanners.length - 1], this.iterations))
-      benchmarks[benchmarks.length - 1].runTests()
-      this.saveBenchmarkResult(benchmarks[benchmarks.length - 1])
     })
   }
   saveBenchmarkResult(benchmark){

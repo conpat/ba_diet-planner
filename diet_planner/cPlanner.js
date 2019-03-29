@@ -46,7 +46,6 @@ export class DietPlanner {
     }, nV)
   }
   withinTolerance(nutritionalValues, nutritionalValueRequirement){
-    //console.log(nutritionalValueRequirement)
     return _.every(nutritionalValueRequirement, (requiredValue, nutrient) => {
       if(!(requiredValue > 0)){
         if(requiredValue < 0) throw "ERROR: this should not be!"
@@ -56,9 +55,6 @@ export class DietPlanner {
     })
   }
   saveOutput(plannerVersion, output){
-    //this.helper.makeDir(`./diet_planner/results/${plannerVersion}/meal_plan`)
-
-
     this.helper.writeObject2File(`${configParameters.benchmarkResultsPath}${this.plannerVersion}/${this.dayPlanDefTyp}/meal_plan/client${this.client.id}.json`, this.prepareMealPlanOutput(output))
   }
   prepareMealPlanOutput(output){
@@ -110,9 +106,6 @@ export class DietPlanner {
       let dayRecurrence = {}
       dayPlan.forEach(meal => {
         dayRecurrence[meal.id] = dayRecurrence[meal.id] === undefined ? 1 : dayRecurrence[meal.id] + 1
-        /* testing the dailyRecurrence
-        dayRecurrence["k"] = dayRecurrence["k"] === undefined ? 1 : dayRecurrence["k"] + 1
-        dayRecurrence["l"] = dayRecurrence["l"] === undefined ? 2 : dayRecurrence["l"] + 2*/
         mealRecurrence[meal.id] = mealRecurrence[meal.id] === undefined ? 1 : mealRecurrence[meal.id] + 1
       })
       //summing up for daily Recurrence

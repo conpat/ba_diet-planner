@@ -78,29 +78,8 @@ export default class Helper {
         return res
       }, {})
   }
-/*
-  makeDir(dirPath){
-    // If the directory already exists. fs.mkdirSync throws an error which is not relevant in this case
-    try{
-      fileSystem.mkdirSync(dirPath, { recursive: true })
-    } catch (err){
-      if (err.code !== 'EEXIST') throw err
-    }
-  }*/
   writeObject2File(filePath, data) {
     fileSystem.writeFileSync(filePath, JSON.stringify(data, null, "  "), "utf8")
     console.log("File Completed: " + filePath)
   }
-/*
-  // https://jack.ofspades.com/es6-const-not-immutable/index.html
-  constantize(obj) {
-    // constantizes the first level of properties of the object.
-    Object.freeze(obj)
-    // iterates over the properties of the object and constantizes them recursively.
-    Object.keys(obj).forEach((key, value) => {
-      if (typeof obj[key] === 'object') {
-        this.constantize(obj[key])
-      }
-    })
-  }*/
 }

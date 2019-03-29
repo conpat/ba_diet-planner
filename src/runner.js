@@ -11,8 +11,6 @@ import Helper from "./class/cHelper.js"
 export default class Runner {
   constructor (instance, iterations){
     this.helper       = new Helper()
-    //this.title        = title
-    // It is necessary to deliver the whole class instance, in order to call the function without context issues
     this.dietPlanner  = instance
     this.iterartions  = iterations
     
@@ -23,17 +21,11 @@ export default class Runner {
   runTests(){
     let cnt = 0
     while (cnt < this.iterartions){
-      //let anotherStart = process.hrtime()
       let start = performance.now()
 
       // execution of the function to be tested
       this.mealPlans.push(this.dietPlanner.planDay())
-
-      //let anotherDuration = process.hrtime(anotherStart)
       let duration = performance.now() - start
-      //console.log(`hrtime: ${this.hrMillis(anotherDuration)}`)
-      //console.log(`perfor: ${duration}`)
-      //console.log("")
       this.performance.push(duration)
       cnt++
     }

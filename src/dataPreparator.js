@@ -2,7 +2,6 @@
 
 import FileSystem from 'fs'
 import Helper from './class/cHelper.js'
-import clientRaw from "./../data/client.json"
 import { configParameters } from "./../data/config.js"
 
 export default class data {
@@ -22,9 +21,7 @@ export default class data {
     //Loop each dietPlannerVersion directory
     FileSystem.readdirSync(configParameters.benchmarkResultsPath).forEach(plannerVersion => {
       console.log(`## Prepare for planner version: ${plannerVersion}`)
-      /*if(plannerVersion !== plannerVersionToExport && plannerVersionToExport !== 0){
-        return
-      }*/
+
       //Loop each dayPlanDefinitionType directory
       const plannerVersionPath = `${configParameters.benchmarkResultsPath}${plannerVersion}`
       FileSystem.readdirSync(plannerVersionPath).forEach(dayPlanDefType => {

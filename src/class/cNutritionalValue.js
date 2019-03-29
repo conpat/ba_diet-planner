@@ -35,7 +35,6 @@ export default class nutritionalValue {
     rCarbs -= carbs
     
     result.push(new nutritionalValue(0, protein, fat, carbs))
-    /*}*/
     result.push(new nutritionalValue(0, rProtein, rFat, rCarbs))
     return result
   }

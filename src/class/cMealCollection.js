@@ -19,42 +19,20 @@ export default class MealCollection {
     this.currentMealTyp = mealTyp
     if (this.currentMealTyp == "breakfast") {
       this.currentPool = this.breakfasts.filter(meal => filter(meal, kcal, tolerance))
-      //console.log(this.currentPool)
-      //return
     } else if (this.currentMealTyp == "snack") {
-      //console.log("#####################")
       this.currentPool = this.snacks.filter(meal => filter(meal, kcal, tolerance))
-      /*if (this.currentPool.length < 1) {
-        console.log("no Snacks for YOU")
-        console.log(this.snacks.length)
-        console.log(this.snacks.filter(meal => meal.total_kcal < 300 && meal.total_kcal > 200).length)
-        this.snacks.filter(meal => meal.total_kcal < 300 && meal.total_kcal > 200).forEach(meal => {
-          console.log("snack")
-          //console.log(meal)
-          console.log(filter(meal, kcal, tolerance, true))
-          console.log("")
-        })
-        this.helper.consoleLog(filter.toString())
-      }*/
-      //console.log(this.currentPool)
-      //return
     } else {
       this.currentPool = this.fullMeals.filter(meal => filter(meal, kcal, tolerance))
     }
 
     if (this.currentPool.length == 0) {
       throw "no meal found: setting Config"
-      console.log("################################")
-      console.log(`mealTyp: ${mealTyp}, kcal: ${kcal}, tolerance: ${tolerance}`)
     }
   }
   getMeal(targetMacros, minSimilarity, planner) {
     
     if (this.currentPool.length < 1) {
       throw "no meal found: getting meal"
-      /*console.log("Why dafug is nothing here.")
-      console.log(`mealTyp: ${this.currentMealTyp}`)
-      return*/
     }
     let best = -1
     let indexOfBest = -1
@@ -70,8 +48,6 @@ export default class MealCollection {
       )
       let similarity = rndMealNV.cosineSimilarity(targetMacros)
       debugValues.push(similarity)
-      //console.log("similarity")
-      //console.log(similarity)
       if (similarity > best) {
         best = similarity
         indexOfBest = rndIndex

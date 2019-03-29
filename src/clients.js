@@ -2,8 +2,7 @@
 
 import Client from "./class/cClient.js"
 
-import clientsRaw from "./../data/clients_full.json"
-import clientRaw from "./../data/client.json"
+import clientsRaw from "./../data/clients.json"
 
 export default class Clients {
   constructor(helper) {
