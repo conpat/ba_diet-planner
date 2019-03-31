@@ -13,7 +13,7 @@ export default class data {
     this.mealVarietyData = []
   }
   writePresetDataToFile(dataType, data) {
-    this.helper.writeObject2File(`${this.rDataPath}${dataType}.json`, data)
+    this.helper.writeObject2File(`${configParameters.statisticalDataPath}${dataType}.json`, data)
   }
   prepareBenchmarkData(plannerVersionToExport = 0) {
     console.log("parse it")
@@ -21,7 +21,9 @@ export default class data {
     //Loop each dietPlannerVersion directory
     FileSystem.readdirSync(configParameters.benchmarkResultsPath).forEach(plannerVersion => {
       console.log(`## Prepare for planner version: ${plannerVersion}`)
-
+      if(plannerVersion !== plannerVersionToExport && plannerVersionToExport !== 0){
+        return
+      }
       //Loop each dayPlanDefinitionType directory
       const plannerVersionPath = `${configParameters.benchmarkResultsPath}${plannerVersion}`
       FileSystem.readdirSync(plannerVersionPath).forEach(dayPlanDefType => {
