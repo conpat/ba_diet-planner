@@ -43,7 +43,7 @@ class main {
   executeCommand(command = this.inputParams.command, options = this.inputParams.options) {
     try {
       switch (command) {
-        case "client":
+        case "clients":
           this.clients.calculateNutritionalRequirements()
           console.log(this.clients.clients)
           break
@@ -63,10 +63,10 @@ class main {
           break
         case "data":
           let data = new Data()
-          if (options.includes("--mealsStatiscs")) {
+          if (options.includes("--mealsStatistics")) {
             let mealCollection = new MealCollection()
             data.writePresetDataToFile("mealsData", mealCollection.getDataForStatisticalAnalAnalyses())
-          } else if (options.includes("--clientsStatisc")) {
+          } else if (options.includes("--clientsStatistics")) {
             this.clients.calculateNutritionalRequirements()
             data.writePresetDataToFile("clientsData", this.clients.getDataForStatisticalAnalAnalyses())
           } else if (options.includes("-1")) {
@@ -78,12 +78,20 @@ class main {
           } else data.prepareBenchmarkData()
           break
         case "demo":
+          // setting the planner version to the planner version array position
+          options[0] -= 1
+          // parsing the dayPlanDefType to the dayPlanDefinition array position
+          options[1] = options[1] === "A" ? 0 : 1
+          // setting the client ID to the client array position
+          options[2] -= 1
+
           this.clients.calculateNutritionalRequirements()
-          const dietPlanner = new DietPlanner_3(this.clients.clients[1], configParameters.dayPlanDefinitions[0], configParameters.timeoutPerDay, configParameters.dailyPlanTolerance)
+          const dietPlanner = new configParameters.dietPlannerVersions[options[0]](this.clients.clients[options[2]], configParameters.dayPlanDefinitions[options[1]], configParameters.timeoutPerDay, configParameters.dailyPlanTolerance)
           const dayPlan = dietPlanner.planDay()
           console.log(dietPlanner.client)
           console.log(dayPlan)
           console.log(dietPlanner.sumUpNutritionalValue(dayPlan))
+          console.log(options)
           break
         default:
           console.log(`"${command}" is not a valid command.
@@ -112,17 +120,18 @@ The following <commands> are in use:
 
 node index.js <-h/--help/?>                                        quick help on index.js
 
-node index.js client <options>                                     calculate the rutritional requirements for each client and writes them to the console
+node index.js clients                                              calculate the rutritional requirements for each client and writes them to the console
 
 node index.js test <options>                                       test all Planner
                    -1/-2/-3                                        just testing 1st, 2nd or 3rd Planner
 
 node index.js data <options>                                       prepare the generated data for further analyses in R
                    -1/-2/-3                                        just prepare data from 1st, 2nd or 3rd Planner
-                   --mealsStatiscs                                 get Information about the used meals
+                   --mealsStatistics                               get Information about the used meals
                    --clientsStatistics                             get Information about the used clients
 
-node index.js demo                                                 plans and saves one day with diet-planner_3`
+node index.js demo <plannerVersion, dayPlanDefType, clientID>      plans and shows one day with the choosed options
+                   [1,2,3] [A,B] [1-217]                           this are the possible options; the order is important; by using an corupt option it will throw an TypeError`
     console.log(helpMsg)
   }
 }
