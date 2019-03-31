@@ -31,7 +31,7 @@ The CLI will give you rudimentary help about the available <commands> and <optio
 ```sh
 $ node index.js -h
 ```
-It's important to understand, that the entry point (in termes of code) is hte `main.js`. But to use the CLI you ned to use the `index.js`, this is due to the `esm` package.
+It's important to understand, that the entry point (in terms of code) is the `main.js`. But to use the CLI you need to use the `index.js`, this is due to the `esm` package.
 
 Basically you can run
 - a single test.
@@ -57,7 +57,7 @@ $ node index.js data
 ```
 
 #### demo
-The demo <command> can be used to see the the result of planing one day for a client with the choosen planner.
+The demo <command> can be used to see the the result of planing one day for a client with the chosen planner.
 In detail it shows:
 - all the information of the client.
 - all the meals and their information.

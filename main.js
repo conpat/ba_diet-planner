@@ -116,22 +116,22 @@ class main {
 Usage: node index.js <command> <options>
 
 The following <commands> are in use:
-  client, test, data
+  clients, test, data, demo
 
 node index.js <-h/--help/?>                                        quick help on index.js
 
-node index.js clients                                              calculate the rutritional requirements for each client and writes them to the console
+node index.js clients                                              calculate the nutritional requirements for each client and writes them to the console
 
-node index.js test <options>                                       test all Planner
-                   -1/-2/-3                                        just testing 1st, 2nd or 3rd Planner
+node index.js test <options>                                       test all planner versions
+                   -1/-2/-3                                        just testing 1st, 2nd or 3rd planner
 
 node index.js data <options>                                       prepare the generated data for further analyses in R
-                   -1/-2/-3                                        just prepare data from 1st, 2nd or 3rd Planner
-                   --mealsStatistics                               get Information about the used meals
-                   --clientsStatistics                             get Information about the used clients
+                   -1/-2/-3                                        just prepare data from 1st, 2nd or 3rd planner
+                   --mealsStatistics                               get information about the used meals
+                   --clientsStatistics                             get information about the used clients
 
-node index.js demo <plannerVersion, dayPlanDefType, clientID>      plans and shows one day with the choosed options
-                   [1,2,3] [A,B] [1-217]                           this are the possible options; the order is important; by using an corupt option it will throw an TypeError`
+node index.js demo <plannerVersion, dayPlanDefType, clientID>      plans and shows one day with the chosen options
+                   [1,2,3] [A,B] [1-217]                           this are the possible options; the order is important; by using an corrupt option, it will throw an TypeError`
     console.log(helpMsg)
   }
 }
