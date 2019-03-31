@@ -2,7 +2,6 @@
 
 This repository provides source code used for my bachelor-thesis at the University of Regensburg.
 
-
 ## Ready... (Requirements)
 [Node.js](https://nodejs.org/) v11.12+
 [npm](https://npmjs.com/) v6.9+
@@ -28,15 +27,18 @@ $ npm install
 ```
 
 ## Go... (Run it)
-The CLI will give you rudimentary help about the available <commands> and <options>
+The CLI will give you rudimentary help about the available <commands> and <options>.
 ```sh
 $ node index.js -h
 ```
+It's important to understand, that the entry point (in termes of code) is hte `main.js`. But to use the CLI you ned to use the `index.js`, this is due to the `esm` package.
 
 Basically you can run
 - a single test.
 - all tests together
 - prepare the date for further evaluation
+- show clients information
+- plan and show a demo day
 
 #### test
 With the plain `test` <command> you run all three algorithms in all possible variations.
@@ -52,6 +54,23 @@ $ node index.js test -2
 After running the tests, the results has to be prepared and exported for further evaluation. Again you can use options for exporting results from only one algorithm.
 ```sh
 $ node index.js data
+```
+
+#### demo
+The demo <command> can be used to see the the result of planing one day for a client with the choosen planner.
+In detail it shows:
+- all the information of the client.
+- all the meals and their information.
+- the nutritional values of the planned day.
+```sh
+$ node index.js demo 3 A 99
+```
+The CLI help will show how to use it.
+
+#### client
+The client <command> will prepare all clients (calculate the nutritional requirements) and log them to the console.
+```sh
+$ node index.js clients
 ```
 
 ## Further Reading
